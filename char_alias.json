@@ -1,0 +1,811 @@
+[
+    {
+      "canonical_name": "Mrs. Abel",
+      "aliases": [
+        "Mrs. Abel",
+        "mrs. abel"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Bambridge",
+      "aliases": [
+        "Bambridge",
+        "bambridge",
+        "Bam",
+        "bam"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Bowyer",
+      "aliases": [
+        "Bowyer",
+        "bowyer"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Arthur Brooke",
+      "aliases": [
+        "Mr. Brooke",
+        "mr. brooke",
+        "Brooke",
+        "brooke",
+        "uncle"
+      ]
+    },
+    {
+      "canonical_name": "Celia Brooke",
+      "aliases": [
+        "Celia",
+        "celia",
+        "Miss Celia",
+        "miss celia",
+        "Kitty",
+        "kitty",
+        "Mrs. Chettam",
+        "mrs. chettam",
+        "Celia Chettam",
+        "celia chettam",
+        "the second Miss Brooke",
+        "the second miss brooke"
+      ]
+    },
+    {
+      "canonical_name": "Dorothea Brooke",
+      "aliases": [
+        "Dorothea",
+        "dorothea",
+        "Miss Brooke",
+        "miss brooke",
+        "Dodo",
+        "dodo",
+        "Mrs. Casaubon",
+        "mrs. casaubon",
+        "Dorothea Casaubon",
+        "dorothea casaubon",
+        "Madam",
+        "madam",
+        "Mrs. Ladislaw",
+        "mrs. ladislaw",
+        "the eldest Miss Brooke",
+        "the eldest miss brooke"
+      ]
+    },
+    {
+      "canonical_name": "Brownie",
+      "aliases": [
+        "Brownie",
+        "brownie"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Harriet Bulstrode",
+      "aliases": [
+        "Mrs. Bulstrode",
+        "mrs. bulstrode",
+        "Harriet",
+        "harriet",
+        "aunt Bulstrode",
+        "aunt bulstrode"
+      ]
+    },
+    {
+      "canonical_name": "Kate Bulstrode",
+      "aliases": [
+        "Kate",
+        "kate"
+      ]
+    },
+    {
+      "canonical_name": "Ellen Bulstrode",
+      "aliases": [
+        "Ellen",
+        "ellen"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Nicholas Bulstrode",
+      "aliases": [
+        "Mr. Bulstrode",
+        "mr. bulstrode",
+        "Bulstrode",
+        "bulstrode",
+        "Nicholas",
+        "nicholas",
+        "Nick",
+        "nick",
+        "the banker",
+        "young Nick",
+        "young nick"
+      ]
+    },
+    {
+      "canonical_name": "Reverend Humphrey Cadwallader",
+      "aliases": [
+        "Mr. Cadwallader",
+        "mr. cadwallader",
+        "the Rector",
+        "the rector",
+        "Humphrey",
+        "humphrey",
+        "Cadwallader",
+        "cadwallader"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Elinor Cadwallader",
+      "aliases": [
+        "Mrs. Cadwallader",
+        "mrs. cadwallader",
+        "Elinor",
+        "elinor",
+        "the Rector's wife",
+        "the rector's wife"
+      ]
+    },
+    {
+      "canonical_name": "Reverend Edward Casaubon",
+      "aliases": [
+        "Mr. Casaubon",
+        "mr. casaubon",
+        "Casaubon",
+        "casaubon",
+        "Edward",
+        "edward",
+        "the Geistlicher",
+        "the geistlicher",
+        "Aquinas",
+        "aquinas"
+      ]
+    },
+    {
+      "canonical_name": "Arthur Chettam",
+      "aliases": [
+        "Arthur",
+        "arthur",
+        "baby",
+        "little Arthur",
+        "little arthur"
+      ]
+    },
+    {
+      "canonical_name": "Dowager Lady Chettam",
+      "aliases": [
+        "Lady Chettam",
+        "lady chettam"
+      ]
+    },
+    {
+      "canonical_name": "Sir James Chettam",
+      "aliases": [
+        "Sir James",
+        "sir james",
+        "Chettam",
+        "chettam",
+        "James",
+        "james"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Chichely",
+      "aliases": [
+        "Chichely",
+        "chichely",
+        "Mr. Chichely",
+        "mr. chichely"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Crabbe",
+      "aliases": [
+        "Mr. Crabbe",
+        "mr. crabbe"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Martha Cranch",
+      "aliases": [
+        "Mrs. Cranch",
+        "mrs. cranch",
+        "Martha",
+        "martha",
+        "Sister Martha",
+        "sister martha"
+      ]
+    },
+    {
+      "canonical_name": "young Cranch",
+      "aliases": [
+        "young Cranch",
+        "young cranch"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Dagley",
+      "aliases": [
+        "Dagley",
+        "dagley"
+      ]
+    },
+    {
+      "canonical_name": "Jacob Dagley",
+      "aliases": [
+        "Jacob",
+        "jacob"
+      ]
+    },
+    {
+      "canonical_name": "Diamond",
+      "aliases": [
+        "Diamond",
+        "diamond"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Dill",
+      "aliases": [
+        "Mr. Dill",
+        "mr. dill"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Dollop",
+      "aliases": [
+        "Mrs. Dollop",
+        "mrs. dollop"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Dover",
+      "aliases": [
+        "Dover",
+        "dover"
+      ]
+    },
+    {
+      "canonical_name": "Fag",
+      "aliases": [
+        "Fag",
+        "fag"
+      ]
+    },
+    {
+      "canonical_name": "Reverend Camden Farebrother",
+      "aliases": [
+        "Mr. Farebrother",
+        "mr. farebrother",
+        "the Vicar",
+        "the vicar",
+        "Camden",
+        "camden",
+        "Farebrother",
+        "farebrother"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Farebrother",
+      "aliases": [
+        "Mrs. Farebrother",
+        "mrs. farebrother"
+      ]
+    },
+    {
+      "canonical_name": "Miss Winifred Farebrother",
+      "aliases": [
+        "Miss Winifred Farebrother",
+        "miss winifred farebrother",
+        "Winifred",
+        "winifred",
+        "Winny",
+        "winny"
+      ]
+    },
+    {
+      "canonical_name": "Jonah Featherstone",
+      "aliases": [
+        "Jonah",
+        "jonah",
+        "Brother Jonah",
+        "brother jonah"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Peter Featherstone",
+      "aliases": [
+        "Mr. Featherstone",
+        "mr. featherstone",
+        "Peter",
+        "peter",
+        "old Featherstone",
+        "old featherstone",
+        "old Peter",
+        "old peter"
+      ]
+    },
+    {
+      "canonical_name": "Solomon Featherstone",
+      "aliases": [
+        "Solomon",
+        "solomon",
+        "Brother Solomon",
+        "brother solomon"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Fitchett",
+      "aliases": [
+        "Mrs. Fitchett",
+        "mrs. fitchett"
+      ]
+    },
+    {
+      "canonical_name": "Dr. Gambit",
+      "aliases": [
+        "Gambit",
+        "gambit",
+        "Doctor Gambit",
+        "doctor gambit"
+      ]
+    },
+    {
+      "canonical_name": "Alfred Garth",
+      "aliases": [
+        "Alfred",
+        "alfred"
+      ]
+    },
+    {
+      "canonical_name": "Ben Garth",
+      "aliases": [
+        "Ben",
+        "ben"
+      ]
+    },
+    {
+      "canonical_name": "Caleb Garth",
+      "aliases": [
+        "Caleb",
+        "caleb",
+        "Mr. Garth",
+        "mr. garth"
+      ]
+    },
+    {
+      "canonical_name": "Christy Garth",
+      "aliases": [
+        "Christy",
+        "christy"
+      ]
+    },
+    {
+      "canonical_name": "Jim Garth",
+      "aliases": [
+        "Jim",
+        "jim"
+      ]
+    },
+    {
+      "canonical_name": "Letty Garth",
+      "aliases": [
+        "Letty",
+        "letty"
+      ]
+    },
+    {
+      "canonical_name": "Mary Garth",
+      "aliases": [
+        "Mary",
+        "mary",
+        "Miss Garth",
+        "miss garth",
+        "missy"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Susan Garth",
+      "aliases": [
+        "Mrs. Garth",
+        "mrs. garth",
+        "Susan",
+        "susan"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Hackbutt",
+      "aliases": [
+        "Hackbutt",
+        "hackbutt",
+        "Mr. Hackbutt",
+        "mr. hackbutt"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Frank Hawley",
+      "aliases": [
+        "Mr. Hawley",
+        "mr. hawley",
+        "Hawley",
+        "hawley",
+        "Frank Hawley",
+        "frank hawley"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Hopkins",
+      "aliases": [
+        "Mr. Hopkins",
+        "mr. hopkins"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Horrock",
+      "aliases": [
+        "Horrock",
+        "horrock",
+        "the vet"
+      ]
+    },
+    {
+      "canonical_name": "Julia",
+      "aliases": [
+        "Aunt Julia",
+        "aunt julia"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Keck",
+      "aliases": [
+        "Keck",
+        "keck"
+      ]
+    },
+    {
+      "canonical_name": "Will Ladislaw",
+      "aliases": [
+        "Will",
+        "will",
+        "Ladislaw",
+        "ladislaw",
+        "Mr. Ladislaw",
+        "mr. ladislaw",
+        "young Ladislaw",
+        "young ladislaw",
+        "Orlando Ladislaw",
+        "orlando ladislaw"
+      ]
+    },
+    {
+      "canonical_name": "Edwin Larcher, Esq.",
+      "aliases": [
+        "Mr. Larcher",
+        "mr. larcher",
+        "Larcher",
+        "larcher"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Larcher",
+      "aliases": [
+        "Mrs. Larcher",
+        "mrs. larcher"
+      ]
+    },
+    {
+      "canonical_name": "Madame Laure",
+      "aliases": [
+        "Laure",
+        "laure",
+        "Madame Laure",
+        "madame laure"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Limp",
+      "aliases": [
+        "Mr. Limp",
+        "mr. limp"
+      ]
+    },
+    {
+      "canonical_name": "Captain Lydgate",
+      "aliases": [
+        "Captain Lydgate",
+        "captain lydgate"
+      ]
+    },
+    {
+      "canonical_name": "Sir Godwin Lydgate",
+      "aliases": [
+        "Sir Godwin",
+        "sir godwin"
+      ]
+    },
+    {
+      "canonical_name": "Tertius Lydgate",
+      "aliases": [
+        "Lydgate",
+        "lydgate",
+        "Mr. Lydgate",
+        "mr. lydgate",
+        "Dr. Lydgate",
+        "dr. lydgate",
+        "Tertius",
+        "tertius",
+        "Doctor Grave-face",
+        "doctor grave-face"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Mawmsey",
+      "aliases": [
+        "Mawmsey",
+        "mawmsey"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Mawmsey",
+      "aliases": [
+        "Mrs. Mawmsey",
+        "mrs. mawmsey"
+      ]
+    },
+    {
+      "canonical_name": "Dr. Minchin",
+      "aliases": [
+        "Minchin",
+        "minchin"
+      ]
+    },
+    {
+      "canonical_name": "Monk",
+      "aliases": [
+        "Monk",
+        "monk"
+      ]
+    },
+    {
+      "canonical_name": "Miss Morgan",
+      "aliases": [
+        "Miss Morgan",
+        "miss morgan"
+      ]
+    },
+    {
+      "canonical_name": "Adolf Naumann",
+      "aliases": [
+        "Naumann",
+        "naumann",
+        "Adolf",
+        "adolf"
+      ]
+    },
+    {
+      "canonical_name": "Miss Henrietta Noble",
+      "aliases": [
+        "Miss Noble",
+        "miss noble",
+        "Henrietta Noble",
+        "henrietta noble"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Plymdale",
+      "aliases": [
+        "Plymdale",
+        "plymdale"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Ned Plymdale",
+      "aliases": [
+        "Ned Plymdale",
+        "ned plymdale",
+        "young Plymdale",
+        "young plymdale",
+        "Mr. Ned",
+        "mr. ned"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Selina Plymdale",
+      "aliases": [
+        "Mrs. Plymdale",
+        "mrs. plymdale",
+        "Selina",
+        "selina"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Powderell",
+      "aliases": [
+        "Mr. Powderell",
+        "mr. powderell"
+      ]
+    },
+    {
+      "canonical_name": "Pratt",
+      "aliases": [
+        "Pratt",
+        "pratt"
+      ]
+    },
+    {
+      "canonical_name": "John Raffles",
+      "aliases": [
+        "Raffles",
+        "raffles"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Renfrew",
+      "aliases": [
+        "Mrs. Renfrew",
+        "mrs. renfrew"
+      ]
+    },
+    {
+      "canonical_name": "Joshua Rigg Featherstone",
+      "aliases": [
+        "Joshua Rigg",
+        "joshua rigg",
+        "Mr. Rigg Featherstone",
+        "mr. rigg featherstone",
+        "Rigg",
+        "rigg",
+        "Josh",
+        "josh"
+      ]
+    },
+    {
+      "canonical_name": "Dr. Sprague",
+      "aliases": [
+        "Dr. Sprague",
+        "dr. sprague"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Standish",
+      "aliases": [
+        "Standish",
+        "standish"
+      ]
+    },
+    {
+      "canonical_name": "Tantripp",
+      "aliases": [
+        "Tan",
+        "tan",
+        "Tantripp",
+        "tantripp"
+      ]
+    },
+    {
+      "canonical_name": "Reverend Edward Thesiger",
+      "aliases": [
+        "Mr. Thesiger",
+        "mr. thesiger"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Toller",
+      "aliases": [
+        "Toller",
+        "toller"
+      ]
+    },
+    {
+      "canonical_name": "Miss Sophy Toller",
+      "aliases": [
+        "Sophy Toller",
+        "sophy toller"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Borthrop Trumbull",
+      "aliases": [
+        "Mr. Trumbull",
+        "mr. trumbull",
+        "Trumbull",
+        "trumbull",
+        "Borthrop Trumbull",
+        "borthrop trumbull"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Tucker",
+      "aliases": [
+        "Tucker",
+        "tucker"
+      ]
+    },
+    {
+      "canonical_name": "Reverend Walter Tyke",
+      "aliases": [
+        "Mr. Tyke",
+        "mr. tyke",
+        "Tyke",
+        "tyke"
+      ]
+    },
+    {
+      "canonical_name": "Bob Vincy",
+      "aliases": [
+        "Bob",
+        "bob"
+      ]
+    },
+    {
+      "canonical_name": "Fred Vincy",
+      "aliases": [
+        "Fred",
+        "fred",
+        "Mr. Fred",
+        "mr. fred"
+      ]
+    },
+    {
+      "canonical_name": "Louisa Vincy",
+      "aliases": [
+        "Louisa",
+        "louisa",
+        "Loo",
+        "loo"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Lucy Vincy",
+      "aliases": [
+        "Mrs. Vincy",
+        "mrs. vincy",
+        "Lucy",
+        "lucy",
+        "mamma"
+      ]
+    },
+    {
+      "canonical_name": "Rosamond Vincy",
+      "aliases": [
+        "Rosamond",
+        "rosamond",
+        "Miss Vincy",
+        "miss vincy",
+        "Rosy",
+        "rosy",
+        "Mrs. Lydgate",
+        "mrs. lydgate",
+        "Rosamond Lydgate",
+        "rosamond lydgate"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Walter Vincy",
+      "aliases": [
+        "Mr. Vincy",
+        "mr. vincy",
+        "Vincy",
+        "vincy",
+        "Walter",
+        "walter",
+        "the Mayor",
+        "the mayor",
+        "papa"
+      ]
+    },
+    {
+      "canonical_name": "Mrs. Jane Waule",
+      "aliases": [
+        "Mrs. Waule",
+        "mrs. waule",
+        "Jane",
+        "jane",
+        "Sister Jane",
+        "sister jane"
+      ]
+    },
+    {
+      "canonical_name": "Mr. Wrench",
+      "aliases": [
+        "Wrench",
+        "wrench"
+      ]
+    }
+  ]

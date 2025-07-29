@@ -1,0 +1,15 @@
+data:
+  books_directory: "./data/Middlemarch"
+  character_file: "./char_alias.json"
+  llm_results_dir: "./llm_results"
+  graph_artifacts_dir: "./graph_artifacts"
+
+models:
+  llm_model: "qwen3:8b"  # Or "qwen3:8b" or whichever you chose
+  llm_host: "http://localhost:11434"
+
+processing:
+  target_book_filename: "book_1.txt"
+
+analysis:
+  top_n_results: 10
