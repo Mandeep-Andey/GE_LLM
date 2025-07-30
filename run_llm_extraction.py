@@ -13,7 +13,7 @@ from src.prompt_manager import PromptManager
 from src.llm_client import LLMClient
 
 if __name__ == "__main__":
-    print("--- LLM-Based NLP Extraction Pipeline Started ---")
+    print("--- Conversational LLM Extraction Pipeline Started ---")
     settings = Settings(config_path="config.yaml")
 
     print(f"\n--- Loading Book: {settings.TARGET_BOOK_FILENAME} ---")
@@ -46,14 +46,18 @@ if __name__ == "__main__":
 
         all_chapter_interactions = []
 
-        # THE FIX: Implement the Active Character Buffer
-        # A deque is a list-like object optimized for adding/removing from the ends.
+        llm_client.start_new_chat()
+        initial_prompt = prompt_manager.get_initial_prompt()
+        llm_client.conversation_history.append({"role": "user", "content": initial_prompt})
+
+        # THE CHANGE: Implement the Active Character Buffer
         active_character_buffer = deque(maxlen=5)  # Remember the last 5 characters
 
         for paragraph in tqdm(paragraphs, desc=f"Chapter {i + 1} Paragraphs"):
             # Create the prompt with the current context buffer
-            prompt = prompt_manager.create_interaction_prompt(paragraph, list(active_character_buffer))
-            llm_response = llm_client.get_llm_response(settings.LLM_MODEL, prompt)
+            paragraph_prompt = prompt_manager.format_paragraph_prompt(paragraph)
+
+            llm_response = llm_client.send_paragraph(settings.LLM_MODEL, paragraph_prompt)
 
             if llm_response and llm_response.interactions:
                 interactions = [interaction.model_dump() for interaction in llm_response.interactions]
