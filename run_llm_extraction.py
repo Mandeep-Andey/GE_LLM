@@ -13,15 +13,14 @@ from src.prompt_manager import PromptManager
 from src.llm_client import LLMClient
 
 if __name__ == "__main__":
-    print("--- Conversational LLM Extraction Pipeline Started ---")
+    print("--- Stateless LLM Extraction Pipeline Started ---")
     settings = Settings(config_path="config.yaml")
 
     print(f"\n--- Loading Book: {settings.TARGET_BOOK_FILENAME} ---")
     all_books_raw = load_books(settings.BOOKS_DIR)
     target_book_raw = all_books_raw.get(settings.TARGET_BOOK_FILENAME)
     if not target_book_raw:
-        print(f"FATAL: Target book not found.")
-        sys.exit(1)
+        sys.exit(f"FATAL: Target book not found.")
 
     chapter_pattern = re.compile(r'^\s*Chapter\s*\d+\s*', re.MULTILINE)
     chapters_raw = chapter_pattern.split(target_book_raw)[1:]
@@ -45,25 +44,16 @@ if __name__ == "__main__":
         paragraphs = [p.strip() for p in re.split(r'\n\s*\n', chapter_text) if p.strip()]
 
         all_chapter_interactions = []
-
-        llm_client.start_new_chat()
-        initial_prompt = prompt_manager.get_initial_prompt()
-        llm_client.conversation_history.append({"role": "user", "content": initial_prompt})
-
-        # THE CHANGE: Implement the Active Character Buffer
-        active_character_buffer = deque(maxlen=5)  # Remember the last 5 characters
+        active_character_buffer = deque(maxlen=5)
 
         for paragraph in tqdm(paragraphs, desc=f"Chapter {i + 1} Paragraphs"):
-            # Create the prompt with the current context buffer
-            paragraph_prompt = prompt_manager.format_paragraph_prompt(paragraph)
-
-            llm_response = llm_client.send_paragraph(settings.LLM_MODEL, paragraph_prompt)
+            prompt = prompt_manager.create_interaction_prompt(paragraph, list(active_character_buffer))
+            llm_response = llm_client.get_llm_response(settings.LLM_MODEL, prompt)
 
             if llm_response and llm_response.interactions:
                 interactions = [interaction.model_dump() for interaction in llm_response.interactions]
                 all_chapter_interactions.extend(interactions)
 
-                # Update the buffer with characters found in this paragraph's interactions
                 for interaction in interactions:
                     if interaction['character_1'] not in active_character_buffer:
                         active_character_buffer.append(interaction['character_1'])
