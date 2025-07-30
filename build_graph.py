@@ -42,27 +42,27 @@ if __name__ == "__main__":
             if not (char1 and char2 and char1 != char2):
                 continue
 
-            # THE CHANGE: Build a dictionary of rich attributes for the edge
-            interaction_details = {
-                "type": interaction.get("interaction_type"),
-                "sentiment": interaction.get("sentiment"),
-                "location": interaction.get("location"),
-                "evidence": interaction.get("evidence_snippet")
-            }
-
+            # THE CHANGE: Add rich attributes to the edges
             if G.has_edge(char1, char2):
                 G[char1][char2]['weight'] += 1
-                G[char1][char2]['details'].append(interaction_details)
+                G[char1][char2]['details'].append({
+                    "type": interaction.get("interaction_type"),
+                    "evidence": interaction.get("evidence_snippet")
+                })
             else:
-                G.add_edge(char1, char2, weight=1, details=[interaction_details])
+                G.add_edge(
+                    char1,
+                    char2,
+                    weight=1,
+                    details=[{
+                        "type": interaction.get("interaction_type"),
+                        "evidence": interaction.get("evidence_snippet")
+                    }]
+                )
 
     graph_output_filename = f"{args.book_name}_graph.gml"
     graph_output_path = settings.GRAPH_ARTIFACTS_DIR / graph_output_filename
     settings.GRAPH_ARTIFACTS_DIR.mkdir(parents=True, exist_ok=True)
 
-    # GML format can be picky, so we'll convert the 'details' list to a string
-    for u, v, data in G.edges(data=True):
-        data['details'] = json.dumps(data['details'])
-
     nx.write_gml(G, str(graph_output_path))
-    print(f"\nGraph building complete. Graph artifact with rich edge data saved to {graph_output_path}")
+    print(f"\nGraph building complete. Graph artifact saved to {graph_output_path}")
