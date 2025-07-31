@@ -1,0 +1,574 @@
+{
+  "interactions": [
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "he was invited again",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "spiritual religion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "she had a tiny terrier once",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He thinks with me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "How delightful to meet you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "people were staring",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "communion with Divine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon made a dignified though somewhat sad audience",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "instructive correction",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You had a real genus",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "duly tempered",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "articles of belief",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "Your power of forming an opinion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "rubbing his thumb transversely along the edges",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "reminding her that people",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "They are not always too grossly deceived",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "assented to her expressions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "Do you know, Lovegood was",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "best Christian books",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "three more conversations",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "calling her down",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "I have often a difficulty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I should be so glad",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Sir James said 'Exactly'",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "But, after all, it is worth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Of course, it is sinking",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "looked as reverently",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I don\u2019t know whether you have given much study to the topography",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "ecclesiastical forms",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "reading many things hastily",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "he took away a complacent sense",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "diverted the talk",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "his whole experience",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "It is painful to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He said you wanted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "One hears very sensible things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "On the contrary, I am often",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "And his feelings too, his whole experience\u2014what a lake compared with my little pool!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "not listening",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "How delightful to meet you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "All this volume is about Greece, you know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Worth doing! yes, indeed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he felt the disadvantage",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "heard and retained",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "his face was often lit up by a smile",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "Do you know, I envy you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "I think there are few",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "seemed more and more bent",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "I have brought a little petitioner",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "historical examples",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "But about other matters",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "I don\u2019t quite understand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Sir James saw all the plans",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "he was all she had",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I think we deserve",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "taking a pleasant walk",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "I can form an opinion of persons",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I wish to do\u2014I mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "John",
+      "evidence_snippet": "take this dog, will you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "he had mentioned to her that he felt the disadvantage of loneliness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "I believe all the petting",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "But that is from ignorance",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "his visits were made",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "his own agreement",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "his feelings too",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Signs are small measurable things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He thinks a whole world",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "proposed to build",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Do you know, I envy you that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "You have your own opinion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "You had a real genus",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "advanced towards her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "passed from one unfinished passage to another",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "You have your own opinion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I cannot bear notions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "take the pains to talk",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "ceased to find him disagreeable",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "The right conclusion is there",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "She proposed to build",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Here, now!\u2014\u2018We started the next morning for Parnassus\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "I know when I like people",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "wanted to wander",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Because Miss Brooke was hasty in her trust",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "comparative importance",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I am so glad I know that you do not like them",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "How delightful to meet you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "Oh why",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "submergence of self",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "convinced that her first",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have brought a little petitioner",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I think there are few",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Celia was present while the plans",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "his mental wealth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Do you know, Lovegood",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Oh what a happiness",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

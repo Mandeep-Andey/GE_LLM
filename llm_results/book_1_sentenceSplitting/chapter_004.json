@@ -1,0 +1,778 @@
+{
+  "interactions": [
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "This was Mr. Casaubon\u2019s letter"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have your guardian\u2019s permission"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am not, I trust, mistaken"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "For in the first hour of meeting you"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "each succeeding opportunity for observation"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Our conversations have, I think"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a tenor unsuited, I am aware"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But I have discerned in you"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It was, I confess, beyond my hope"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and but for the event of my introduction"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Such, my dear Miss Brooke"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I rely on your kind indulgence"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "To be accepted by you as your husband"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "In return I can at least offer you"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I await the expression of your sentiments"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I shall remain"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "divine consciousness",
+      "interaction_type": "Observation",
+      "evidence_snippet": "cast herself, with a childlike sense"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "divine consciousness",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "a fuller life"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "went up to her room"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "answer Mr. Casaubon\u2019s letter"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "write it over three times"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am very grateful to you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can look forward to no better happiness"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot now dwell on any other thought"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "divine consciousness",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Yours devotedly, Dorothea BROOKE."
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she followed her uncle"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking at the address"
+    },
+    {
+      "character_1": "Mr. Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you thought enough"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know of nothing"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Has Chettam offended you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is it you don\u2019t like"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you don\u2019t like in Chettam"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "divine consciousness",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There is nothing that I like in him"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "threw his head and shoulders backward"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said\u2014"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He is very kind"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "really very good about the cottages"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A well-meaning man"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I had it myself"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it lies a little in our family"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I went a good deal into that"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I couldn\u2019t, as your guardian"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Casaubon stands well"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Chettam will be hurt"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Cadwallader will blame me"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "find something wrong"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "said just how things were"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "never keep angry"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said, with the musical intonation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Celia, dear, come and kiss me"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "holding her arms open"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "gave her little butterfly kiss"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "encircled her with gentle arms"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "pressed her lips gravely on each cheek"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t sit up, Dodo"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, dear, I am very, very happy"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "how strangely Dodo goes"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "handing something to Mr. Brooke"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Jonas",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Jonas is come back"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "nodding toward Dorothea"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Casaubon, my dear"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "struck with the peculiar effect"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "entered into Celia\u2019s mind"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "something more between Mr. Casaubon and her sister"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Monsieur Liret",
+      "interaction_type": "Observation",
+      "evidence_snippet": "admiration for Monsieur Liret"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "enthusiasm extend to Mr. Casaubon"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "observed that Dorothea"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked out of the window"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thinking that it was desirable"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shrink from telling her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seeking the highest aid"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "voice speaking in its usual tone"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is any one else coming"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope there is some one else"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall not hear him eat his soup so"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is there remarkable"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Really, Dodo, can\u2019t you hear"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t know whether Locke blinked"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Celia, said Dorothea"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why not? They are quite true"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Many things are true"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think it is a pity Mr. Casaubon\u2019s mother"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she might have taught him better"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is right to tell you, Celia"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am engaged to marry Mr. Casaubon"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had never turned so pale"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "paper man she was making"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sat perfectly still"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a tear gathering"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, Dodo, I hope you will be happy"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is quite decided, then?"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And uncle knows?"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon\u2019s offer"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon\u2019s offer"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I beg your pardon"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She never could have thought"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon seemed"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Kitty",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Never mind, Kitty"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Kitty",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "do not grieve"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Kitty",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We should never admire the same people"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Kitty",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I often offend in something of the same way"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Kitty",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am apt to speak too strongly of those who don\u2019t please me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "smarting: perhaps as much from Celia\u2019s subdued astonishment"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "talked to him with more freedom"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "pouring out her joy"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "devoting herself to him"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "learning how she might best share"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "touched with an unknown delight"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "touched with an unknown delight"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not surprised that he should be the object of it"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My dear young lady\u2014Miss Brooke\u2014Dorothea!"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "this is a happiness"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have all\u2014nay"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The great charm"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall pluck them"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "No speech could have been more thoroughly honest"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon\u2019s words"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am very ignorant\u2014you will quite wonder at my ignorance"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have so many thoughts that may be quite mistaken"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be able to tell them all to you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will not trouble you too much"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "only when you are inclined to listen to me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You must often be weary with the pursuit of subjects in your own track"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall gain enough if you will take me with you there"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "how should I be able"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "kissing her candid brow"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "throwing herself at Mr. Casaubon\u2019s feet"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "kissing his unfashionable shoe-ties"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "decided that the marriage should take place"
+    }
+  ]
+}

@@ -22,4 +22,6 @@ class Settings:
         self.LLM_HOST = config['models']['llm_host']
 
         self.TARGET_BOOK_FILENAME = config['processing']['target_book_filename']
+        self.CHUNK_SIZE = config['processing']['chunk_size_sentences']
+        self.CHUNK_OVERLAP = config['processing']['chunk_overlap_sentences']
         self.TOP_N_ANALYSIS = config['analysis']['top_n_results']

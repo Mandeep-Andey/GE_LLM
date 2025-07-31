@@ -1,0 +1,934 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mentioned that his young relative"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seeming by this cold vagueness"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had declined to fix on any more precise"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had made himself ill with doses"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "effects of the opium had convinced"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "there was an entire dissimilarity"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the superadded circumstance"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the world is full of hopeful analogies"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the pitiable instances of long incubation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "but for gratitude would have laughed"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "whose plodding application"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rows of note-books"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "small taper of learned theory"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seemed to enforce a moral"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "entirely encouraging to Will\u2019s"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he held that reliance"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "genius consisting neither"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Let him start for the Continent"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Brooke\u2019s failure to elicit"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Celia\u2019s criticism of"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Milton, looking for his portrait"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "immortal physicist and interpreter"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "touched him more nearly"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Sir James",
+      "interaction_type": "Observation",
+      "evidence_snippet": "disapproval of it"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "matrimonial garden scene"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "accustomed vaults"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "classical passages"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Dorothea should think"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "her young trust and veneration"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "her fresh interest in listening"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "presented all his performance"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "chilling ideal audience"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon\u2019s talk"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon would tell her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon\u2019s learning"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "learned men kept the only oil"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could never refer it"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon was anxious"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon was anxious"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will have many lonely hours"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be constrained to make the utmost use of my time"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should feel more at liberty if you had a companion"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "colored from annoyance"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You must have misunderstood me"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is very amiable in you"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "but if you had a lady"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I beg you will not refer to this again"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray do not be anxious about me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall have so much to think of"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I could not bear to have Celia"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon\u2019s words"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "have a husband who is so much above me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon was altogether right"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Brooke was beginning"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Cadwallader said"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Brooke was beginning"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Brooke was beginning"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Brooke was beginning"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "opportunity was found"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A fine woman, Miss Brooke"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Observation",
+      "evidence_snippet": "taken up by Mr. Chichely"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I like a woman who lays"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There should be a little"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "something of the coquette"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A man likes a sort of challenge"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The more of a dead set she makes"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it\u2019s usually the way with them"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Providence made them so"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should be disposed to refer coquetry to another source"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "whose study"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ay, to be sure"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "detrimental to his theology"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And I like them blond"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the mayor\u2019s daughter"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "more to my taste"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Miss Vincy"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "before either of them"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "make up, make up"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shook his head with much meaning"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Miss Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had the honor of being"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Miss Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "would not have chosen"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could object to"
+    },
+    {
+      "character_1": "Mrs. Renfrew",
+      "character_2": "Mrs. Renfrew",
+      "interaction_type": "Observation",
+      "evidence_snippet": "puzzled the doctors"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Mrs. Renfrew",
+      "interaction_type": "Observation",
+      "evidence_snippet": "entered with much"
+    },
+    {
+      "character_1": "Dowager Lady Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said the mild but stately dowager"
+    },
+    {
+      "character_1": "Dowager Lady Chettam",
+      "character_2": "Mrs. Renfrew",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Renfrew\u2019s attention was called away"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It strengthens the disease"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Everything depends on the constitution"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "some people make fat"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "some blood, and some bile"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that\u2019s my view of the matter"
+    },
+    {
+      "character_1": "Mrs. Renfrew",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Then she ought to take medicines"
+    },
+    {
+      "character_1": "Mrs. Renfrew",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "reduce the disease, you know"
+    },
+    {
+      "character_1": "Mrs. Renfrew",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "reduce the disease, you know"
+    },
+    {
+      "character_1": "Mrs. Renfrew",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Certainly it is reasonable"
+    },
+    {
+      "character_1": "Mrs. Renfrew",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ah! like this poor Mrs. Renfrew"
+    },
+    {
+      "character_1": "Mrs. Renfrew",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should say she ought to take"
+    },
+    {
+      "character_1": "Mrs. Renfrew",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Many things might be tried"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Renfrew",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let her try a certain person\u2019s pamphlets"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seeing the gentlemen enter"
+    },
+    {
+      "character_1": "Dowager Lady Chettam",
+      "character_2": "Lady Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "said Lady Chettam"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He has certainly been drying up"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should think he is far from having a good constitution"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And then his studies\u2014so very dry, as you say"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mark my words"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She looks up to him"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "tell me\u2014you know all about him"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is the truth?"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The truth? he is as bad"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "learned something exact"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He says she is the mirror"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope you like my little Celia"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he likes little Celia better"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Tell me about this new young surgeon"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he certainly looks it\u2014a fine brow"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "heard him talking to Humphrey"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He talks well"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Brooke says he"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Miss Brooke seems to be having"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he is a sort of philanthropist"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Brooke is sure to take him up"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Mr. James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "James, said Lady Chettam"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "introduce him to me"
+    },
+    {
+      "character_1": "Dowager Lady Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "making Mr. Lydgate\u2019s acquaintance"
+    },
+    {
+      "character_1": "Dowager Lady Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "having heard of his success"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Lady Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He confirmed her view"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Lady Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He said 'I think so'"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am quite pleased with your protege"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My protege?\u2014dear me!\u2014who is that?"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He seems to me to understand"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "understand his profession admirably"
+    },
+    {
+      "character_1": "Mr. James Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he is not my protege"
+    },
+    {
+      "character_1": "Mr. James Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "knew an uncle of his"
+    },
+    {
+      "character_1": "Mr. James Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think he is likely"
+    },
+    {
+      "character_1": "Mr. James Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "has studied in Paris"
+    },
+    {
+      "character_1": "Mr. James Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "knew Broussais"
+    },
+    {
+      "character_1": "Mr. James Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "has ideas, you know"
+    },
+    {
+      "character_1": "Mr. James Chettam",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wants to raise the profession"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Lady Chettam",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "handed out Lady Chettam"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Lydgate has lots of ideas"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Hang it, do you think that is quite sound"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "hail the advent of Mr. Lydgate"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "replied Mr. Standish"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "not fond of Mr. Bulstrode"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am not going to hand money"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "every dose you take"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you know, Standish"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "talk in that sense"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "striking contrast with the Franciscan tints"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s an uncommonly dangerous thing"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "introduction to Miss Brooke"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he thought"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not Mr. Lydgate\u2019s style"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not Mr. Chichely\u2019s"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "had become Mrs. Casaubon"
+    }
+  ]
+}

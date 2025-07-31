@@ -19,7 +19,7 @@ if __name__ == "__main__":
     # Load a single chapter for the test case
     print("Loading test chapter...")
     all_books_raw = load_books("./data/Middlemarch")
-    book_1_raw = all_books_raw.get("book_1.txt", "")
+    book_1_raw = all_books_raw.get("book_1_sentenceSplitting.txt", "")
     chapter_pattern = re.compile(r'^\s*Chapter\s*\d+\s*', re.MULTILINE)
     chapters_raw = chapter_pattern.split(book_1_raw)[1:]
     test_chapter_text = chapters_raw[0]  # Use Chapter 1

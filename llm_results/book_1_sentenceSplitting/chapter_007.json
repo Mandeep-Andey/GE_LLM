@@ -1,0 +1,628 @@
+{
+  "interactions": [
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "encountered the difficulty"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seeing Dorothea for the first time"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shocked that Dorothea was under"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rival a brilliant and desirable match"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "eclipsed by Mr. Casaubon"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "engagement to Mr. Casaubon"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had not taken the affair seriously enough"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he ought to have hindered it"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "something might be done"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "to defer the marriage"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "asked for"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "called to the baronet"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "joined him there"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, how are you?"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Sorry I missed you before"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is there anything particular?"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You look vexed"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Sir James\u2019s brow had a little crease"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Sir James\u2019s brow had a little crease"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I really think somebody should speak to him"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hardly think he means it"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "They won\u2019t overturn the Constitution"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I mean his letting that blooming young girl marry Casaubon"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is the matter with Casaubon"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I see no harm in him"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wonder a man like you"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "can look at the affair with indifference"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and with such a heart as yours"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do think seriously about it"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am not joking"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are as bad as Elinor"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She has been wanting me to go"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and I have reminded her"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "her friends had a very poor opinion"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "of the match she made"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "look at Casaubon"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He must be fifty"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t believe he could ever have been much more than the shadow of a man"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Look at his legs"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You don\u2019t understand women"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "They don\u2019t admire you half so much"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "as you admire yourselves"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Elinor used to tell her sisters"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she married me for my ugliness"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it was so various and amusing"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that it had quite conquered her prudence"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t like Casaubon"
+    },
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "what do you know against him"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He did not usually find"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now, Cadwalladerr, has he got any heart?"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Casaubon acts up to his sense"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Every man would not ring so well"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You would, Chettam"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That was a right thing"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a girl is so young"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "friends ought to interfere"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "hinder her from doing"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should feel just the same"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish you talk to Brooke"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the marriage must not be decided"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it would never come off"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "saw Mrs. Cadwallader entering"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Ellen Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "held by the hand her youngest girl"
+    },
+    {
+      "character_1": "Ellen Bulstrode",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "ran to papa"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will make no impression on Humphrey"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "could there be a better fellow"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, there is something in that"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "don\u2019t you think the Rector might do some good by speaking"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I told you beforehand"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have done what I could"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wash my hands of the marriage"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it would be nonsensical"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he will run into any mould"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he won\u2019t keep shape"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He might keep shape long enough to defer the marriage"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I know no harm of Casaubon"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Miss Brooke may be happier"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he has always been civil to me"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "You have nothing to say"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Humphrey! I have no patience"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "You would rather dine"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She does not do it for my amusement"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He has got no good red blood"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No. Somebody put a drop"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why does he not bring out his book"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "instead of marrying"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he has been making abstracts ever since"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a woman may be happy with"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he is what Miss Brooke likes"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t profess to understand"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But if she were your own daughter"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Casaubon is as good as most of us"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Freke was the brick-and-mortar incumbent"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was the angling incumbent"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "one is worse or better than the other"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "talking with more and more pleasure"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found himself talking"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "pay small attentions to Celia"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "talking with more and more pleasure"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found himself talking"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "pay small attentions to Celia"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "talking with more and more pleasure"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found himself talking"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "pay small attentions to Celia"
+    }
+  ]
+}

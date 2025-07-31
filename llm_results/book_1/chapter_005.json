@@ -1,0 +1,904 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "if you turn round now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "abusing everybody myself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "as much as a man expects to be admired",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Casaubon and I don't talk politics much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Sorry! It is her doing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Fitchett",
+      "evidence_snippet": "How do you do?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Miss Brooke\u2019s sake",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "before I go, my dear, I must speak to your Mrs. Carter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Now, do not let them lure you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "What business has an old bachelor like that to marry?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had made an impression on Celia\u2019s heart",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "no interview that could excite suspicion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Fitchett",
+      "evidence_snippet": "Take a pair of tumbler-pigeons for them",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "relaxed its hold",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "what can one do with a husband",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "I should prefer Celia",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "That is a piece of clap-trap",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James",
+      "evidence_snippet": "I must go straight to Sir James",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "I don\u2019t think he would",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Pray speak out",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "return with the same unperturbed keenness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Fitchett",
+      "character_2": "Master Fitchett",
+      "evidence_snippet": "Master Fitchett shall go and see \u2019em",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James",
+      "evidence_snippet": "he was rude to Sir James sometimes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "And there is no part",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "much relieved to see through the window that Celia was coming in",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had married Sir James",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "As if you could ever squeeze a resolution out of Brooke!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "his blood, I suppose the family quarterings",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "He is no better than a mummy!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Fitchett",
+      "character_2": "Master Fitchett",
+      "evidence_snippet": "Don\u2019t you and Fitchett boast too much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Fitchett",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I shall tell everybody",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "You will lose yourself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "A great bladder for dried peas to rattle in!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "You will make a Saturday pie",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "you are well rid of Miss Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "She thought so much about the cottages",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I don\u2019t mean to throw stones",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "to one of our best men",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "had made an impression on Celia\u2019s heart",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "as good as going to a nunnery",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Brooke ought not to allow it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "What has happened to Miss Brooke? Pray speak out.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "obliged to get my coals by stratagem",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "Come, come, cheer up",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "Your sex are not thinkers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Casaubon?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Why not?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "He means to draw it out again, I suppose.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "hint to the baronet that he had made an impression on Celia\u2019s heart",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I was prepared to be persecuted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "That is what I told him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Fitchett",
+      "evidence_snippet": "the cannibals! Better sell them cheap",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "you don\u2019t mean to say that you would like him to turn public man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "These charitable people never know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "pay her more attention",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "And you! who are going",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "Well, Humphrey doesn\u2019t know yet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Not he! Humphrey finds everybody charming.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "I do believe Brooke is going to expose himself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Engaged to Casaubon.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "somebody is wanted to take",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "until they have swallowed it and got the colic",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "busy about Miss Brooke\u2019s marriage",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "I should have liked",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "Why not? Casaubon is a good fellow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Your uncle will never tell him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "for this marriage to Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "a man\u2019s caring for nothing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Fitchett",
+      "evidence_snippet": "half-a-crown: I couldn\u2019t let \u2019em go",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Now, do turn respectable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "same high natural color",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "This is frightful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "you have been courting one and have won the other",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Is that all?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Fitchett",
+      "evidence_snippet": "Oblige me!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Not high-flown enough",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "My niece has chosen another suitor",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "scold Mr. Brooke with the friendliest frankness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I throw her over",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "He doesn't care much about the philanthropic side",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "you may depend on it he will say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "contrived the preliminaries of another",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "and make yourself a Whig sign-board",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Fitchett",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I shall inform against you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had infected some of her husband\u2019s weak charitableness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had no motive for obstinacy",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "no scene from which she did not return",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "What has happened",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "He has one foot in the grave.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "not going to renounce his ride",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "same unperturbed keenness of eye",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "you with a bad conscience",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I don\u2019t pretend to argue",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "I can see that she admires you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "But that is what you ladies",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "it will be too hard on him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Where your certain point is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "as good as your daughter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "You are a perfect Guy Faux",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "I wish you joy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "handed Mrs. Cadwallader to the phaeton",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "he will even speak well of the bishop",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "Casaubon is going to help you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "had made an impression on Celia\u2019s heart",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Why, whom do you mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "He only cares about Church questions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "I set a bad example",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "must decide on another match",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "She thinks so much about everything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Your sex is capricious, you know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "He may go with them up to",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "Sir James would be cruelly annoyed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "do turn respectable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "That is a piece of clap-trap",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "That is what I expect",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had chosen Mr. Casaubon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Fitchett",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Casaubon is going to help you",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "Humphrey finds everybody charming",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "He only cares about Church questions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "See if you are not burnt in effigy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "However, if I were a man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "And you! who are going to marry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "I hide it as well as I can",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "You don\u2019t know Virgil",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "I have a great shock for you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Young people should think of their families",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "That is not my line of action",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Fitchett",
+      "evidence_snippet": "half-a-crown, these times! Come now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "it is for Miss Brooke\u2019s sake",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Fitchett",
+      "evidence_snippet": "Master Fitchett shall go and see \u2019em",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "there was a chance",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Humphrey Cadwallader",
+      "evidence_snippet": "Oh, on my own account",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I knew\u201d\u2014Mr. Brooke reflected",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "How will you like going to Sessions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "How will you like going",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "married a poor clergyman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "What do you mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "same unperturbed keenness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I don\u2019t think he would have suited Dorothea",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "I hope Chettam and I shall always be good friends",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "Nobody knows where Brooke will be",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Casaubon has money enough",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "He doesn't care much about the philanthropic side",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "She is engaged to marry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "You ladies are always against",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James",
+      "evidence_snippet": "Sir James never seemed to please her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I don\u2019t pretend to argue",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "little Celia is worth two of her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "She thinks so much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "to marry your niece",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+--- Character Network Analysis Report ---
+
+Total Characters (Nodes): 25
+Total Unique Relationships (Edges): 59
+
+--- Top 10 Relationships by Interaction Count ---
+  170   | Celia Brooke -- Dorothea Brooke
+  135   | Dorothea Brooke -- Reverend Edward Casaubon
+  105   | Dorothea Brooke -- Mr. Arthur Brooke
+  92    | Mr. Arthur Brooke -- Reverend Edward Casaubon
+  73    | Dorothea Brooke -- Sir James Chettam
+  64    | Mary Garth -- Rosamond Vincy
+  60    | Fred Vincy -- Rosamond Vincy
+  50    | Mrs. Lucy Vincy -- Rosamond Vincy
+  42    | Mr. Arthur Brooke -- Mrs. Elinor Cadwallader
+  41    | Reverend Edward Casaubon -- Sir James Chettam
+
+--- Top 10 Characters by Degree Centrality ---
+  Dorothea Brooke                | Score: 0.4583
+  Mr. Arthur Brooke              | Score: 0.4583
+  Reverend Edward Casaubon       | Score: 0.4167
+  Rosamond Vincy                 | Score: 0.3750
+  Mrs. Elinor Cadwallader        | Score: 0.3333
+  Tertius Lydgate                | Score: 0.2917
+  Celia Brooke                   | Score: 0.2083
+  Sir James Chettam              | Score: 0.2083
+  Dowager Lady Chettam           | Score: 0.2083
+  Mr. Chichely                   | Score: 0.2083
+
+--- Top 10 Characters by Betweenness Centrality ---
+  Tertius Lydgate                | Score: 0.3859
+  Mr. Chichely                   | Score: 0.3750
+  Mr. Arthur Brooke              | Score: 0.3641
+  Rosamond Vincy                 | Score: 0.3641
+  Mr. Walter Vincy               | Score: 0.2953
+  Dorothea Brooke                | Score: 0.1540
+  Mrs. Elinor Cadwallader        | Score: 0.1431
+  Fred Vincy                     | Score: 0.0833
+  Mr. Peter Featherstone         | Score: 0.0833
+  Dowager Lady Chettam           | Score: 0.0417
+
+--- Top 10 Characters by Eigenvector Centrality ---
+  Dorothea Brooke                | Score: 0.6264
+  Reverend Edward Casaubon       | Score: 0.4566
+  Celia Brooke                   | Score: 0.3976
+  Mr. Arthur Brooke              | Score: 0.3929
+  Sir James Chettam              | Score: 0.2554
+  Mrs. Elinor Cadwallader        | Score: 0.1296
+  Will Ladislaw                  | Score: 0.0553
+  Dowager Lady Chettam           | Score: 0.0225
+  Mr. Tucker                     | Score: 0.0205
+  Reverend Humphrey Cadwallader  | Score: 0.0155
+
+
+--- Top 5 Most Important Characters by Chapter ---
+
+Chapter 1:
+  1. Dorothea Brooke                (Score: 1.0000)
+  2. Mr. Arthur Brooke              (Score: 0.4000)
+  3. Mrs. Elinor Cadwallader        (Score: 0.4000)
+  4. Celia Brooke                   (Score: 0.2000)
+  5. Reverend Edward Casaubon       (Score: 0.2000)
+
+Chapter 2:
+  1. Sir James Chettam              (Score: 1.0000)
+  2. Dorothea Brooke                (Score: 1.0000)
+  3. Mr. Arthur Brooke              (Score: 0.7500)
+  4. Reverend Edward Casaubon       (Score: 0.7500)
+  5. Celia Brooke                   (Score: 0.5000)
+
+Chapter 3:
+  1. Dorothea Brooke                (Score: 1.0000)
+  2. Sir James Chettam              (Score: 0.7500)
+  3. Mr. Arthur Brooke              (Score: 0.7500)
+  4. Reverend Edward Casaubon       (Score: 0.5000)
+  5. Celia Brooke                   (Score: 0.5000)
+
+Chapter 4:
+  1. Mr. Arthur Brooke              (Score: 1.0000)
+  2. Celia Brooke                   (Score: 0.6667)
+  3. Dorothea Brooke                (Score: 0.6667)
+  4. Reverend Edward Casaubon       (Score: 0.3333)
+
+Chapter 5:
+  1. Dorothea Brooke                (Score: 1.0000)
+  2. Reverend Edward Casaubon       (Score: 1.0000)
+  3. Celia Brooke                   (Score: 0.6667)
+  4. Mr. Arthur Brooke              (Score: 0.6667)
+
+Chapter 6:
+  1. Mr. Arthur Brooke              (Score: 0.6667)
+  2. Mrs. Elinor Cadwallader        (Score: 0.6667)
+  3. Celia Brooke                   (Score: 0.6667)
+  4. Dorothea Brooke                (Score: 0.5000)
+  5. Sir James Chettam              (Score: 0.5000)
+
+Chapter 7:
+  1. Mr. Arthur Brooke              (Score: 1.0000)
+  2. Reverend Edward Casaubon       (Score: 1.0000)
+  3. Dorothea Brooke                (Score: 1.0000)
+
+Chapter 8:
+  1. Sir James Chettam              (Score: 0.8333)
+  2. Reverend Edward Casaubon       (Score: 0.5000)
+  3. Reverend Humphrey Cadwallader  (Score: 0.3333)
+  4. Dorothea Brooke                (Score: 0.3333)
+  5. Mrs. Elinor Cadwallader        (Score: 0.3333)
+
+Chapter 9:
+  1. Reverend Edward Casaubon       (Score: 1.0000)
+  2. Mr. Arthur Brooke              (Score: 1.0000)
+  3. Dorothea Brooke                (Score: 0.8000)
+  4. Will Ladislaw                  (Score: 0.6000)
+  5. Celia Brooke                   (Score: 0.6000)
+
+Chapter 10:
+  1. Reverend Edward Casaubon       (Score: 0.4286)
+  2. Dowager Lady Chettam           (Score: 0.3571)
+  3. Dorothea Brooke                (Score: 0.3571)
+  4. Mr. Chichely                   (Score: 0.3571)
+  5. Tertius Lydgate                (Score: 0.3571)
+
+Chapter 11:
+  1. Rosamond Vincy                 (Score: 0.5000)
+  2. Mr. Walter Vincy               (Score: 0.5000)
+  3. Fred Vincy                     (Score: 0.3000)
+  4. Captain Lydgate                (Score: 0.3000)
+  5. Mrs. Lucy Vincy                (Score: 0.2000)
+
+Chapter 12:
+  1. Rosamond Vincy                 (Score: 1.0000)
+  2. Mr. Peter Featherstone         (Score: 0.6667)
+  3. Fred Vincy                     (Score: 0.5000)
+  4. Mary Garth                     (Score: 0.3333)
+  5. Mrs. Jane Waule                (Score: 0.3333)

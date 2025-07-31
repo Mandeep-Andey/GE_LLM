@@ -1,0 +1,1000 @@
+{
+  "interactions": [
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he did not in the least suppose"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had said of that particular woman"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he regarded as he did the other severe facts"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Rosamond Vincy seemed to have"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had seen Miss Vincy above his horizon"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had assembled his voluminous notes"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had made that sort of reputation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he took a wife"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she did not look at things from the proper feminine angle"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watching keenly the stealthy convergence"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "reverse of Miss Brooke"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "bear more resemblance to Rosamond Vincy"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had many patients among their connections"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had been second wife to rich old Mr. Featherstone"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had raised some partisanship"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was not retailed at the Vincys'"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "silently wished that her father"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had been at school with girls"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had known as boys"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Vincy had gone"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Miss Morgan",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Miss Morgan was already"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon visiting"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Her mamma",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Her mamma, who had returned"
+    },
+    {
+      "character_1": "Her mamma",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked up from the lace-mending"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Pritchard",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Knock at Mr. Fred\u2019s door"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "radiant good-humor"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked admiringly"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Her mamma",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "when Fred comes down I wish"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Her mamma",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot bear the smell"
+    },
+    {
+      "character_1": "Her mamma",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, my dear, you are"
+    },
+    {
+      "character_1": "Her mamma",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are so hard on your brothers"
+    },
+    {
+      "character_1": "Her mamma",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is the only fault I have to find with you"
+    },
+    {
+      "character_1": "Her mamma",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are the sweetest temper in the world"
+    },
+    {
+      "character_1": "Her mamma",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are so tetchy with your brothers"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not tetchy, mamma"
+    },
+    {
+      "character_1": "Her mamma",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you want to deny them things"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Brothers are so unpleasant"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will be married some day"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Not to any one who is like Fred"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t decry your own brother"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "few young men have less"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he couldn\u2019t take his degree"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019m sure I can\u2019t understand"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he seems to me most clever"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you know yourself he was thought"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "equal to the best society"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "so particular as you are"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wonder you are not glad"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "to have such a gentlemanly young man"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "for a brother"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are always finding fault"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "because he is not Fred"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh no, mamma, only because he is Bob"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Pritchard",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will not find"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She herself thought unfavorably"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But I shall not marry"
+    },
+    {
+      "character_1": "Pritchard",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you have as good as refused"
+    },
+    {
+      "character_1": "Pritchard",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there\u2019s no girl better deserves it"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Excuse me, mamma\u2014I wish you would not say"
+    },
+    {
+      "character_1": "Pritchard",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, what else are they?"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I mean, mamma, it is rather a vulgar expression"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What should I say"
+    },
+    {
+      "character_1": "Pritchard",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The best of them."
+    },
+    {
+      "character_1": "Pritchard",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If I had had time"
+    },
+    {
+      "character_1": "Pritchard",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you must know"
+    },
+    {
+      "character_1": "Mr. Fred",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What must Rosy know, mother?"
+    },
+    {
+      "character_1": "Mr. Fred",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What must Rosy know, mother?"
+    },
+    {
+      "character_1": "Mr. Fred",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What must Rosy know, mother?"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Whether it\u2019s right to say \u2018superior young men\u2019"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, there are so many superior"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Are you beginning to dislike slang"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Only the wrong sort"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "All choice of words is slang"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There is correct English"
+    },
+    {
+      "character_1": "Mr. Fred",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I beg your pardon"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will say anything, Fred"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "tell me whether it is slang"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "call an ox a leg-plaiter"
+    },
+    {
+      "character_1": "Mr. Fred",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Of course you can call it poetry"
+    },
+    {
+      "character_1": "Mr. Fred",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Aha, Miss Rosy, you don\u2019t know Homer from slang"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dear me, how amusing"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Pritchard",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you got nothing else for my breakfast"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Pritchard",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "walked round the table"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Should you like eggs, sir?"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Bring me a grilled bone"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Really, Fred"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish you would come down earlier"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You can get up at six o\u2019clock"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot understand why"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you find it so difficult"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is your want of understanding"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can get up to go hunting"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What would you think of me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should think you were"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "eating his toast"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot see why brothers"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t make myself disagreeable"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it is you who find me so"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "her daughter",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Disagreeable is a word that describes your feelings"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Look at my mother"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Come, Fred, tell us"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How is your uncle pleased"
+    },
+    {
+      "character_1": "Mr. Fred",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "screws up his face"
+    },
+    {
+      "character_1": "Mr. Fred",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ah, here comes my grilled bone"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "how came you to stay out"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You only said you were going"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate was there too"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Mr. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I dined at Plymdale\u2019s"
+    },
+    {
+      "character_1": "Mr. Plymdale",
+      "character_2": "Mr. Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "what do you think of him"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There was a Lydgate at John\u2019s"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I find this man is a second cousin of his"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But rich men may have very poor devils for second cousins"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Vincy had the air"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "remembering the fact"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thought it was odd his name was Tertius"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "but of course it\u2019s a name in the family"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But now, tell us exactly what sort of man he is"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "talks well\u2014rather a prig"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I never can make out"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "doctors must have opinions"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, mother"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the opinions they are paid for"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Lydgate"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mary Garth"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Mr. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Really, I can\u2019t say"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Mr. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "go oftener to Stone Court"
+    },
+    {
+      "character_1": "Mr. Fred Vincy",
+      "character_2": "Mrs. Jane Waule",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish you would not be so vulgar, Fred"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is true, though\u2014what your brother says"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019m fond of having you at home with me"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "your uncle Featherstone will do something for Mary Garth"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mary Garth can bear"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would rather not"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I have no ill-will towards Mary Garth"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Featherstone\u2019s first wife"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mrs. Jane Waule",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I have no ill-will towards Mary Garth"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Featherstone\u2019s first wife"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mrs. Jane Waule",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I have no ill-will towards Mary Garth"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Every one would not agree"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "if she had some fortune left her"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a man marries his wife\u2019s relations"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Jane Waule",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the Garths are so poor"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Jane Waule",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and live in such a small way"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But I shall leave you to your studies"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "for I must go and do some shopping"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fred\u2019s studies are not very deep"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Jane Waule",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "rising with her mamma"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, well, by-and-by he\u2019ll go"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There\u2019s a fire in the smoking-room"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s your father\u2019s wish, you know"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I always tell him you will be good"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "go to college again to take your degree"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Jane Waule",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "drew his mother\u2019s hand"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Jane Waule",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suppose you are not going out riding to-day"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Papa says I may have"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You can go with me"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Only I am going to Stone Court"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "really wished to go"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "if you are going to the piano"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray do not ask me this morning"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Really, Fred, I wish you would leave off playing the flute"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A man looks very silly playing the flute"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you play so out of tune"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "When next any one makes love to you"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why should you expect me"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And why should you expect me"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "set her mind on that particular ride"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "interactions": [
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "observed with pleasure"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "observed with pleasure"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Could I not be preparing"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "could I not learn"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I fear that would be wearisome to you"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the young women you have mentioned"
+    },
+    {
+      "character_1": "Miss Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope you don\u2019t expect me"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I expect you to be"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it were well to begin"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "dreading of all things to be tiresome"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "to be tiresome instead of helpful"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Miss Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Miss Brooke was certainly very naive"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Celia, whose mind had never been thought too powerful"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "saw the emptiness of other people\u2019s pretensions"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "To have in general but little feeling"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "teaching the alphabet"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "answers she got"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he came into the library"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "expressed himself with his usual strength"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "such deep studies"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dorothea is learning to read"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She had the very considerate thought"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I\u2019m a conservative in music"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Casaubon is not fond"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He says there is only"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "plays very prettily"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "is always ready to play"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Casaubon does not like it"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "However, since Casaubon does not like it"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you are all right"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "the bow always strung"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "that kind of thing"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "will not do"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watched them both"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watched them both"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watched them both"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Dorothea"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "When we were coming home"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Casaubon, she will be in your hands now"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you must teach my niece"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not wishing to hurt his niece"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "better for her to be early married"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she would not hear of Chettam"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "let Mrs. Cadwallader say"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should have been travelling"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he is pretty certain to be a bishop"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a deanery at least"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Brooke on this occasion"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "make a further remark"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "think with pleasure"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "make a Liberal speech"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "look at a subject"
+    }
+  ]
+}

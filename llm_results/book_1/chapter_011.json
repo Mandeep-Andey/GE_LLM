@@ -1,0 +1,1108 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Come into my room, Rosamond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Good-by, Mrs. Waule",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "I never said so, brother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "She is interesting to herself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Mr. Vincy mostly trades on the Bank money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Miss Vincy is a musician?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Flow on, thou shining river",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I should not like to marry a clergyman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "I mean, for people like them",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "it\u2019s very unbecoming",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Quarrel? Nonsense; we have not quarrelled",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Girls never know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Miss Vincy is a musician?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I wish no one said any worse of him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I don\u2019t defend him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I beg your pardon, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I did not mean to quarrel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Heyday, miss",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "pulled at both sides of his wig",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I can alter my will yet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Name the authority",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Dear me, I hope none of my uncle\u2019s horrible relations are there",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "old Featherstone\u2019s property",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I am not magnanimous enough",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I? Oh, minding the house\u2014pouring out syrup",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "What are you driving at there",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "you\u2019ve nothing to say against that, eh, doctor?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "There is no question of liking",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I can suppose that very well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "She might have waited till I did ask her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Just as you please. I never say what I am afraid of having repeated",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Home, sweet home",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "But when papa has been at the expense of educating him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Miss Vincy is a musician?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "He reached the whip",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You make me feel very uncomfortable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I would not marry him if he asked me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "It is a wretched life for you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "you have a fine color",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "There\u2019s Rebecca, and Joanna, and Elizabeth, you know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I should think that was enough",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "sentiment being the right thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "They did not think",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "You can do without me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I am not obliged to tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you must contradict this story",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "And yet they hang about my uncle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "But I contradict it again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "That\u2019s nonsense",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "It is of no use saying anything to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "No, thank you, Mrs. Waule",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Oh, fudge! Don't lecture me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "They amuse her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You two misses go away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "The best in Middlemarch",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "stood at the toilet-table",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Speak up for your sister",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Ay, I know what you mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "she detested",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Mrs. Waule has been telling uncle that Fred is very unsteady",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "we must really go",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "finding money to pay their debts is another",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "What would you not tell her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "What have you been doing lately?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Stuff and nonsense!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "your nephew John never took",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "she was being looked at",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "it\u2019s the talk up and down",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "their eyes met",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Come, out with it, Jane!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Who else, eh?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "What must you be bringing her more books for",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "delicate undulations",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "A little too fond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I think Fred is quite right",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Am I to repeat what you have said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "How do you know what men would fall in love with",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I\u2019m under eighty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "as the suitable garnish",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "you have a fine color",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "your son John took to billiards",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Haughtiness is not conceit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Was that all?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Not when they are interesting and agreeable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "No,",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "What did missy want with more books",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "He is not fit to be a clergyman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I? What can you blame me for",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "deep enough to hold",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Sit down, sit down",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "looked at each other",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "What must you be bringing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "It\u2019s pretty good authority",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You are the most unbecoming companion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "What do you mean by horrid?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "eyes of heavenly blue",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "prove it. You bring me a letter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Oh, Mr. Lydgate!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Oh, blameless people are always the most exasperating",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Where\u2019s Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "giving his arm",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "my brother Solomon tells me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "What a brown patch I am by the side of you, Rosy!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Where\u2019s Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Oh no! No one thinks of your appearance",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I like neither Bulstrode",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "That\u2019s a bargain. Here, give me your arm",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I like it better than your physic",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he fancied that he saw",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Then I wonder you can defend Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Does that always make people fall in love?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I rather like a haughty manner",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Before reaching home",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "What did missy want",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You know that he is of good family",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "He is so idle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Oh, Fred is horrid!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "That is hardly a thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he had said many foolish things",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Ring the bell",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Mr. Bulstrode?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Pray do not go into a rage",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "her voice was as clear as a blackbird\u2019s",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I am not ungrateful, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I knew it would nettle you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "But no one approves of them",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "How do you do, miss",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "So, sir, you\u2019ve been paying",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "And you are always so exasperating",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "That you were very unsteady",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "you said nothing o\u2019 the sort",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Yes; but Miss Morgan is so uninteresting",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Why should I not take his part",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "There\u2019s none more ready to nurse you than your own sister and your own nieces",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I am not ungrateful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Not at all. She would not have said so",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "At least, Fred, let me advise you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Seeing about the horses",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You must explain",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I like it better than your physic",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Yes, indeed, she did",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "She says she would not marry you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Yes, he would be a great hypocrite",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Rosy, did Mary tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he\u2019d make a fool of himself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "indulging your children is one thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Is he so haughty?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Mr. Bulstrode condemns Mrs. Vincy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "stand near him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "She is the best girl I know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I have contradicted it, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "you may see yourself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I did not tell you that Mr. Lydgate was haughty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "had fallen in love at first sight",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "What would you not tell her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "If your mamma is afraid",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Am I to repeat what you have said?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "il y en a pour tous les go\u00fbts",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "You bring me a writing from Bulstrode",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I\u2019m under eighty. I say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Brother, I hope the new doctor will be able to do something for you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "You must be joking, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "But of course if he were a clergyman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Mrs. Waule, you\u2019d better go",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I don\u2019t know at all. And she is not in the least evangelical",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "old Featherstone had almost bargained",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "No,\u201d said Rosamond, reflectively; \u201cone wonders",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Ay, ay; money\u2019s a good egg",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "There is no question of liking at present",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "There is the bell\u2014I think we must go down",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "the old man wanted to exercise",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You care so very much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "fundamentally fine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I can\u2019t abide",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Tchah! you said nothing o\u2019 the sort",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "young Vincy has raised money on his expectations",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he\u2019s been losing money for years",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "no more than can be proved",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "You mind and not bring",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "You bring me a writing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I think my life is pleasanter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mary, you are always so violent",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You want to know something about him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I should never have thought",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}
