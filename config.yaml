@@ -9,9 +9,9 @@ models:
   llm_host: "http://localhost:11434"
 
 processing:
-  target_book_filename: "book_1.txt"
-  chunk_size_sentences: 15  # The ideal number of sentences per chunk
-  chunk_overlap_sentences: 3 # How many sentences to include from the end of the previous chunk
+  target_book_filename: "book_2.txt"
+  chunk_size_sentences: 12  # The ideal number of sentences per chunk
+  chunk_overlap_sentences: 2 # How many sentences to include from the end of the previous chunk
 
 analysis:
   top_n_results: 10
