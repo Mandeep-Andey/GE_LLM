@@ -1,0 +1,118 @@
+--- Character Network Analysis Report ---
+
+Total Characters (Nodes): 46
+Total Unique Relationships (Edges): 117
+
+--- Top 10 Relationships by Interaction Count ---
+  99    | Rosamond Vincy -- Tertius Lydgate
+  92    | Captain Lydgate -- Mr. Nicholas Bulstrode
+  85    | John Raffles -- Mr. Nicholas Bulstrode
+  76    | Mr. Nicholas Bulstrode -- Tertius Lydgate
+  69    | Caleb Garth -- Mr. Nicholas Bulstrode
+  45    | Reverend Camden Farebrother -- Tertius Lydgate
+  41    | Captain Lydgate -- Rosamond Vincy
+  37    | Rosamond Vincy -- Sir Godwin Lydgate
+  35    | Fred Vincy -- Reverend Camden Farebrother
+  33    | Sir Godwin Lydgate -- Tertius Lydgate
+
+--- Top 10 Characters by Degree Centrality ---
+  Mr. Nicholas Bulstrode         | Score: 0.4667
+  Tertius Lydgate                | Score: 0.4222
+  Reverend Camden Farebrother    | Score: 0.3333
+  Rosamond Vincy                 | Score: 0.3333
+  Fred Vincy                     | Score: 0.3111
+  Mr. Frank Hawley               | Score: 0.3111
+  Captain Lydgate                | Score: 0.2444
+  Reverend Edward Thesiger       | Score: 0.1556
+  Mr. Chichely                   | Score: 0.1333
+  Mary Garth                     | Score: 0.1333
+
+--- Top 10 Characters by Betweenness Centrality ---
+  Mr. Nicholas Bulstrode         | Score: 0.3352
+  Fred Vincy                     | Score: 0.2836
+  Rosamond Vincy                 | Score: 0.2443
+  Tertius Lydgate                | Score: 0.2245
+  Mr. Frank Hawley               | Score: 0.1778
+  Captain Lydgate                | Score: 0.1756
+  Reverend Camden Farebrother    | Score: 0.1089
+  Mrs. Dollop                    | Score: 0.0998
+  Mrs. Abel                      | Score: 0.0909
+  Mr. Chichely                   | Score: 0.0746
+
+--- Top 10 Characters by Eigenvector Centrality ---
+  Mr. Nicholas Bulstrode         | Score: 0.5657
+  Tertius Lydgate                | Score: 0.4827
+  Rosamond Vincy                 | Score: 0.3709
+  Captain Lydgate                | Score: 0.3520
+  John Raffles                   | Score: 0.2522
+  Caleb Garth                    | Score: 0.2042
+  Reverend Camden Farebrother    | Score: 0.1542
+  Sir Godwin Lydgate             | Score: 0.1492
+  Fred Vincy                     | Score: 0.1079
+  Reverend Edward Thesiger       | Score: 0.0820
+
+
+--- Top 5 Most Important Characters by Chapter ---
+
+Chapter 1:
+  1. Reverend Camden Farebrother    (Score: 0.5789)
+  2. Tertius Lydgate                (Score: 0.3158)
+  3. Mr. Chichely                   (Score: 0.2632)
+  4. Mary Garth                     (Score: 0.2632)
+  5. Mrs. Lucy Vincy                (Score: 0.2632)
+
+Chapter 2:
+  1. Rosamond Vincy                 (Score: 0.8182)
+  2. Tertius Lydgate                (Score: 0.7273)
+  3. Mrs. Selina Plymdale           (Score: 0.4545)
+  4. Mr. Ned Plymdale               (Score: 0.3636)
+  5. Miss Sophy Toller              (Score: 0.2727)
+
+Chapter 3:
+  1. Sir Godwin Lydgate             (Score: 0.6000)
+  2. Rosamond Vincy                 (Score: 0.4000)
+  3. Tertius Lydgate                (Score: 0.4000)
+  4. Mr. Dover                      (Score: 0.2000)
+  5. Dorothea Brooke                (Score: 0.2000)
+
+Chapter 4:
+  1. Fred Vincy                     (Score: 0.9167)
+  2. Captain Lydgate                (Score: 0.3333)
+  3. Reverend Camden Farebrother    (Score: 0.2500)
+  4. Mr. Bambridge                  (Score: 0.1667)
+  5. Mr. Horrock                    (Score: 0.1667)
+
+Chapter 5:
+  1. Mr. Nicholas Bulstrode         (Score: 0.8333)
+  2. Captain Lydgate                (Score: 0.6667)
+  3. Reverend Edward Casaubon       (Score: 0.6667)
+  4. Dorothea Brooke                (Score: 0.5000)
+  5. Tertius Lydgate                (Score: 0.5000)
+
+Chapter 6:
+  1. Mr. Nicholas Bulstrode         (Score: 0.7500)
+  2. Caleb Garth                    (Score: 0.5000)
+  3. Fred Vincy                     (Score: 0.2500)
+  4. Edwin Larcher, Esq.            (Score: 0.1250)
+  5. John Raffles                   (Score: 0.1250)
+
+Chapter 7:
+  1. Mr. Nicholas Bulstrode         (Score: 0.5714)
+  2. Tertius Lydgate                (Score: 0.5714)
+  3. Caleb Garth                    (Score: 0.2857)
+  4. Rosamond Vincy                 (Score: 0.2857)
+  5. Mrs. Susan Garth               (Score: 0.1429)
+
+Chapter 8:
+  1. Mr. Nicholas Bulstrode         (Score: 0.8889)
+  2. Tertius Lydgate                (Score: 0.4444)
+  3. John Raffles                   (Score: 0.3333)
+  4. Captain Lydgate                (Score: 0.3333)
+  5. Mrs. Abel                      (Score: 0.3333)
+
+Chapter 9:
+  1. Mr. Frank Hawley               (Score: 0.6190)
+  2. Mr. Nicholas Bulstrode         (Score: 0.6190)
+  3. Tertius Lydgate                (Score: 0.2381)
+  4. Reverend Camden Farebrother    (Score: 0.2381)
+  5. Mrs. Dollop                    (Score: 0.2381)

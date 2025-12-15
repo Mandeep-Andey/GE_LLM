@@ -1,0 +1,970 @@
+{
+  "interactions": [
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why should you bring me into the matter"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "never see Mrs. Casaubon"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "am not likely to see her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had been made the more susceptible"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Brooke seemed now to contrive"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Sir James Chettam\u2019s indignant remonstrance"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Dorothea\u2019s account"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We are forever divided"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I might as well be at Rome"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "leaving Mr. Brooke in the lurch"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "leave Mr. Brooke in the lurch"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "coaching for the election"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "canvassing, direct and indirect"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "keep him steadily to the idea"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Farebrother\u2019s prophecy"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Hawley and his party"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Brooke\u2019s success"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You know there are tactics"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Of course it is"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But if you are to wait"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "this is not a time"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Ladislaw, who still appeared"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was again drawn"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was a little conscious of defeat"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "chief representative in Middlemarch"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "great social power, the retail trader"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "most doubtful voters"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "supply an equal quality of teas"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "agree impartially with both"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "feeling like the burgesses of old"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "necessity of electing members"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "painful necessity of disappointing"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "respectable people whose names"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He was accustomed to receive large orders from Mr. Brooke"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Mawmsey thinking that Mr. Brooke"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "As to Reform, sir, put it in a family light"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I ask you what, as a husband and a father"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, no, no\u2014that\u2019s narrow"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Sir, I am your humble servant"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Until my butler complains"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There would be some pleasure"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You would find it the right thing"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "This Reform will touch everybody"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We\u2019re all one family"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I beg your pardon, sir"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t afford that"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must know what I am doing"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must look to what will be the effects on my till and ledger"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Prices, I\u2019ll admit, are what nobody can know the merits of"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the sudden falls after you\u2019ve bought in currants"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "which is a rebuke to human pride"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "boasted to his wife"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had been rather too many for Brooke"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "went up and boasted"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "abstained from boasting"
+    },
+    {
+      "character_1": "Mr. Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "worked no meaner engine"
+    },
+    {
+      "character_1": "Will",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Will stopped his ears"
+    },
+    {
+      "character_1": "Will",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his share in bringing Mr. Brooke through"
+    },
+    {
+      "character_1": "Will",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Brooke\u2019s mind"
+    },
+    {
+      "character_1": "Will",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Brooke could be coerced"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Brooke himself observed"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Ladislaw\u2019s coaching was forthwith to be put to the test"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode, Mr. Standish"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode, Mr. Standish"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Plymdale",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode, Mr. Standish"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode, Mr. Standish"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Hawley and his associates"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had never thought of Mr. Brooke as a neighbor"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not more attached to him"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sent in a box from London"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Observation",
+      "evidence_snippet": "listened without much disturbance"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Observation",
+      "evidence_snippet": "spoke so fully"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll take another glass"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "handed him the supposed fortifier"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "This looks dangerous, by God!"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw, just hand me"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "observed in the ear"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "hand me the memorandum"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "This looks dangerous"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "lost other clews"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fell back on himself"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his qualifications"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "appropriate graceful subject"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it\u2019s all up now"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "floundering may answer"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am a close neighbor"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "gone a good deal into"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "concerned with machinery"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "must go on\u2014trade"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "look all over the globe"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Observation with extensive view"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "from China to Peru"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Johnson, I think, 'The Rambler'"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "must look all over the globe"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "The Rambler"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I\u2019ve not always stayed at home"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I\u2019ve been in the Levant"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "The Baltic"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watched them both"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Bulstrode asked"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had expected some Tory efforts"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That reminds me"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we want the Bill"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Blast your ideas"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The Bill, now"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you shall have the Bill"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You shall have the Bill"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "per electioneering contest"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a seat outside Parliament"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "five thousand pounds"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "seven shillings"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "fourpence"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "let his eye-glass fall"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "saw the image of himself"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "dolorously bespattered with eggs"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "hail of eggs"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "an unpleasant egg broke"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "hail of eggs"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "original, as if by chance"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "disagreeably anointed"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "stood his ground no longer"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It was Bowyer who did it"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It was Bowyer who did it"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should have gone into the Bill"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you never mentioned him to me"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would have invited him to dine"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There\u2019s not a more paltry fellow"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "but it seems as if the paltry fellows"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "were always to turn the scale"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why should he stay"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Dorothea Brooke"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Brooke\u2019s"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "she knew why"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "bear with Mr. Brooke"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He himself called this a strong measure"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have felt uneasy about the chest"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must pull up"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Poor Casaubon was a warning"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve made some heavy advances"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve dug a channel"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s rather coarse work"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "this electioneering, eh, Ladislaw"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "However, we have dug a channel"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you wish me to give it up?"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am ready to do so"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have the highest opinion"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have been consulting"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "they are inclined to take"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you might like to give up"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you might find a better field"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "These people might not take"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think of having a run into France"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve met Althorpe"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am exceedingly obliged to you"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Since you are going to part with the \u2018Pioneer\u2019"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I may choose to continue here"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "After Mr. Brooke had left him"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "The rest of the family have been urging him"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he doesn\u2019t care now about my going"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I shall stay as long as I like"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I shall go of my own movements"
+    }
+  ]
+}

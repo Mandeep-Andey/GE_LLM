@@ -1,0 +1,658 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "attractions which made it all the easier",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Poor Lydgate! or shall I say",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "clergyman whose abilities",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "and her cheery manners",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Tyke",
+      "evidence_snippet": "objection to Mr. Tyke\u2019s sermons",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I hope it will be long before this part of the country",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he seemed to be making himself eminently agreeable",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "looking at her with an involuntary emphasis of admiration",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred Vincy had called Lydgate a prig",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Each lived in a world",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I can\u2019t let you off",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "evidence_snippet": "had seen the Miss Brookes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "put up her hand to touch her wondrous hair-plaits",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "for she was clever with that sort of cleverness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I have only once been to London",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "evidence_snippet": "Farebrother seems to be an anomaly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I suppose it is the fashion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Mr. Chichely was inclined to call him prick-eared",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "legal training only makes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "gave more effect to Rosamond\u2019s refinement",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I suppose all country towns",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I assure you my mind is raw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Farebrother",
+      "evidence_snippet": "Farebrother seems to be an anomaly",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "moving to the other side",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "which was beyond what Lydgate had expected",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You will not like us",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Questions of medical jurisprudence",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Ah, you have heard Mr. Bowyer",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "What line shall you take, then?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Louis",
+      "evidence_snippet": "had known Louis in Paris",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Dr. Sprague",
+      "evidence_snippet": "To a certain extent\u2014with regard to populous districts",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Bulstrode may have his good reasons",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Lydgate",
+      "evidence_snippet": "You might as well say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "She and Lydgate readily got into conversation",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Rosamond could say the right thing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "preference for Mr. Farebrother",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "to fall in love with the daughter",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "He had not meant",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Some good rousing tunes first",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Bowyer",
+      "evidence_snippet": "you have heard Mr. Bowyer",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Dr. Sprague",
+      "evidence_snippet": "I shall roll some of my responsibility on your shoulders, Doctor",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "Nobody can know everything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "You have studied music, probably?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "small feet and perfectly turned shoulders",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Ah, there is Fred beginning to strum",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "the right thing said seems quite astonishingly right",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "and this perhaps was the most decisive mark",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "It was part of Rosamond\u2019s cleverness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "In Rosamond\u2019s romance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "the tinge of unpretentious",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "which catches every tone except the humorous",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "of her cleverness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "power exercised in the town by Mr. Bulstrode",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Happily she never attempted to joke",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You perceive, the bears will not always be taught",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Yes, yes, give me a coroner who is a good coursing man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "one need not be surprised",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I have heard very little",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "the two volatile pink strings",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "twisting it upward for her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "family connection with Mr. Bulstrode",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "family connection with Mr. Bulstrode",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate was taken possession of",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I disapprove of Wakley",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "And as to poisoning, why",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "had seen the Miss Brookes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Who is often almost as ignorant",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I blame no man for standing up in favor of his own cloth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Her mother",
+      "evidence_snippet": "Her mother sat",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred... listened to her music",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "when it is accompanied with exquisite curves of lip and eyelid",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "Most things are \u2018visitation of God\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I will let you hear my attempts",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "they floated in his mind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "you\u2019re safest with a lawyer",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he thought of Rosamond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "he dwelt on the image of her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "was certainly among the great attractions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Louis",
+      "evidence_snippet": "he was specially interested in",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "I blame no man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "Come, shall we join the ladies",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "how a coroner is to judge",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "his ardor was absorbed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Camden Farebrother",
+      "evidence_snippet": "had seen the Miss Brookes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I shall roll some of my responsibility on your shoulders, Doctor",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "inoffensive vulgarity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "the Vincys and all the pictures",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "And in my opinion, you\u2019re safest with a lawyer",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You will let me hear some music to-night",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred, pray defer your practising",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you will make Mr. Lydgate ill",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "aid the impression of refined manners",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "the matron\u2019s blooming good-natured face",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "his lips were curled",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "he chose to walk",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "Lydgate\u2019s private opinion",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "She resigned no domestic function to her daughter",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Her father",
+      "evidence_snippet": "Her father looked round",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "preference for Mr. Farebrother",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dr. Sprague",
+      "evidence_snippet": "divested his large heavy face of all expression",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Mr. Vincy said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Tyke",
+      "evidence_snippet": "question whether Mr. Tyke should be appointed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "He seems a very pleasant fellow",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "rubbing his hands",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he had easily monopolized in a t\u00eate-\u00e0-t\u00eate",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "But Rosamond had registered",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I must go and hinder him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Chichely",
+      "evidence_snippet": "what you want to know is the law",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Louis",
+      "evidence_snippet": "look into Louis\u2019 new book",
+      "interaction_type": "Observation"
+    }
+  ]
+}

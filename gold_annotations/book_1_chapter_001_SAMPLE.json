@@ -1,0 +1,28 @@
+{
+    "_metadata": {
+        "source": "book_1",
+        "chapter": 1,
+        "annotator": "gold_standard",
+        "annotation_date": "2024-12-15",
+        "annotation_guidelines_version": "1.0",
+        "notes": "Sample gold annotation - replace with actual annotations"
+    },
+    "interactions": [
+        {
+            "character_1": "Dorothea Brooke",
+            "character_2": "Celia Brooke",
+            "interaction_type": "Direct Dialogue",
+            "evidence_snippet": "Dorothea, dear, if you don't mind",
+            "annotator_confidence": 5,
+            "notes": "Celia initiating conversation about jewels"
+        },
+        {
+            "character_1": "Dorothea Brooke",
+            "character_2": "Mr. Arthur Brooke",
+            "interaction_type": "Memory/Reference",
+            "evidence_snippet": "uncle gave them to you",
+            "annotator_confidence": 4,
+            "notes": "Reference to past action by uncle"
+        }
+    ]
+}

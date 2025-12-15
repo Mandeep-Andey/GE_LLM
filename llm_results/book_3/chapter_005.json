@@ -1,0 +1,520 @@
+{
+  "interactions": [
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "Mrs. Cadwallader says it is nonsense",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "every thing is to be got ready",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "bridesmaid as well as sister",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "carrying the red-leather cases",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "We are not going to be married yet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "It is as I used to hope",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "hurrying along",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "observing her expression",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "looked at this miniature",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "you must go to Celia",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Lady Chettam",
+      "evidence_snippet": "Lady Chettam is very kind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Julia",
+      "evidence_snippet": "could see how she was looking",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Julia",
+      "evidence_snippet": "it had an ear for her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I overdid it at one time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Celia\u2019s color changed again",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "go and see her husband",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Marriage, which was to bring guidance",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "she first saw this room",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It must mean more than Celia\u2019s blushing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Lady Chettam says she went",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "talked to a figure",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "visible world",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "saw something which",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "containing the cameos for Celia",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Nothing to alarm you, my dear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Kitty",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I do believe you could not marry better",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Lady Chettam",
+      "evidence_snippet": "And you are very happy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Sir James is a good, honorable man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "meeting these timely questions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I don\u2019t want to be married so very soon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "It was only three days ago",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon\u2019s aunt Julia",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "rose quickly",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "carrying it rather too far",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Reverend Edward Casaubon",
+      "character_2": "Mrs. Reverend Edward Casaubon",
+      "evidence_snippet": "returning from their wedding journey",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "He will tell you about them when he comes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It would not suit all",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "taking her sister\u2019s face between her hands",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Julia",
+      "evidence_snippet": "Here was a woman who had known",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "still held Dorothea\u2019s hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "had not yet freed her from",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "said Mr. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "She says they get tired",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "quietly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Well, it\u2019s very pleasant",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "still held Dorothea\u2019s hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "nobody but me for Sir James to talk to",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "arms encircled her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Do you think it nice",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "for Celia",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "passed from her dressing-room",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "looking at her half anxiously",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she felt herself smiling",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "not you, dear, for example",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "said Dorothea, coming",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "about topography, ruins, temples",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Julia",
+      "evidence_snippet": "saw something which",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Oh, it was cruel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "you must go to Celia",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Reverend Edward Casaubon",
+      "character_2": "Mr. Tucker",
+      "evidence_snippet": "giving audience to his curate",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Julia",
+      "evidence_snippet": "She felt a new companionship",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "I understand. It is as I used to hope and believe",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "kissed her sister",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "you understand all about art now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "How can you ask me?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I need not ask how you are",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "it is nice to be engaged",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Tucker",
+      "evidence_snippet": "Perhaps Mr. Tucker was gone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Celia! has something happened?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "Only I was afraid you would be getting so learned",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "He has gone on with the cottages",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Dodo!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "exchanging welcomes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "turned his face to Mr. Casaubon",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "went out of the room",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I need not ask",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "see her husband glad",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Studying hard in his holidays",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dodo! said Celia",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "kissed her forehead",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "He is not indeed an author...",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "my dear: that had been",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "evidence_snippet": "Shall you be glad to see him?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "after kissing her forehead",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "complete superior",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "But Casaubon is a little pale",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

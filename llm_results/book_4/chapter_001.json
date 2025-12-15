@@ -1,0 +1,700 @@
+{
+  "interactions": [
+    {
+      "character_1": "Solomon",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "I\u2019ve no desire to put my foot",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Joshua Rigg",
+      "evidence_snippet": "the second will revoked everything",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "And I thought I should be able",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Mary dared not look at Fred",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "Brother Solomon, I shall be going",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Joshua Rigg",
+      "character_2": "Mr. Standish",
+      "evidence_snippet": "putting business questions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Martha Cranch",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "I never was covetous, Jane",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Rigg",
+      "evidence_snippet": "engaging Mr. Rigg in conversation",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mrs. Martha Cranch",
+      "evidence_snippet": "I never was covetous, Jane",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "saturnine cousin",
+      "evidence_snippet": "was a sort of legacy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "It\u2019ll do him no good where he\u2019s gone",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "that\u2019s my belief",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "his wife had gone to Fred\u2019s side",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Jonah Featherstone",
+      "evidence_snippet": "he rather enjoyed the zest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "general expectation now",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Peter Featherstone",
+      "character_2": "Lord Grey",
+      "evidence_snippet": "Lord Grey came into office",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "sister Martha",
+      "evidence_snippet": "sank under the rush of questions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Take another situation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Joshua Rigg",
+      "character_2": "Mr. Rigg Featherstone",
+      "evidence_snippet": "discontent with immediate visible consequences",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cranch",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "we\u2019ve been at the expense of travelling",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "Hopes are often delusive",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Jonah Featherstone",
+      "evidence_snippet": "Solomon found time to reflect",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "the lawyer",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "That\u2019s a strange sentiment",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "the lawyer",
+      "evidence_snippet": "words were the hardest part",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Old Featherstone",
+      "evidence_snippet": "Old Featherstone had often reflected",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Jane Featherstone",
+      "character_2": "Martha Cranch",
+      "evidence_snippet": "used their arithmetic",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "Don\u2019t make a fool of yourself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Standish",
+      "evidence_snippet": "she had virtually determined",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "shook it",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Standish",
+      "evidence_snippet": "I should say this last will was void",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "rose to accompany her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Go and order the phaeton",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Mr. Rigg",
+      "evidence_snippet": "A most singular testamentary disposition",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Rigg",
+      "evidence_snippet": "some letting their lower lip fall",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Joshua Rigg",
+      "evidence_snippet": "Mr. Trumbull had the gold-headed cane",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "last of three which he had drawn up",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "had sat alone with him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Peter Featherstone",
+      "character_2": "Christian Carnivora",
+      "evidence_snippet": "Christian Carnivora who",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "She had found an opportunity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "I shouldn\u2019t wonder if",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Martha Cranch",
+      "character_2": "Jane Featherstone",
+      "evidence_snippet": "Martha, more lax",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred",
+      "evidence_snippet": "felt rather sick",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Peter Featherstone",
+      "character_2": "Christian Carnivora",
+      "evidence_snippet": "most of them having",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "described by Mrs. Cadwallader",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Martha Cranch",
+      "evidence_snippet": "Dear, dear!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "sat alone with him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Standish",
+      "evidence_snippet": "Everything is quite regular",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he half smilingly rubbed his chin",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cranch",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "if I was to be struck helpless I must say it\u2019s hard",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "What is a fellow to do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Ah! said Mrs. Waule",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred",
+      "evidence_snippet": "his wife had gone to Fred\u2019s side",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cranch",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Dear, dear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "It\u2019ll do him no good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "saturnine cousin",
+      "evidence_snippet": "offensive dribbling",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "ten thousand pounds",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "said Solomon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Jonah",
+      "character_2": "Mr. Joshua Rigg",
+      "evidence_snippet": "showed a notable change of manner",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "sister Martha",
+      "evidence_snippet": "Dear, dear!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "Trumbull himself is pretty sure of five hundred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "move next to that great authority",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "Them who\u2019ve made sure of their good-luck",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "the lawyer",
+      "evidence_snippet": "There\u2019s nothing very surprising",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "though his tone could not help being sly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I must go into the Church",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "happiest of women",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "I suppose you know everything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Jonah Featherstone",
+      "evidence_snippet": "Jonah to abuse Solomon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Good-by",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "possible revocation shrinking",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he expected to read",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "examined the stranger with more",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "The will I hold in my hand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "sister Martha",
+      "evidence_snippet": "I shall begin by reading",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Jonah Featherstone",
+      "evidence_snippet": "wished that Jonah Featherstone did not live there",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "as if he were valuing a tree",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "several besides Solomon shook",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "Don\u2019t give way, Lucy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "move next to that great authority",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Jonah Featherstone",
+      "evidence_snippet": "I\u2019ll put a white hat and drab coat on to-morrow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Jonah Featherstone",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "he always was a fine hypocrite",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Be brave, Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "What shall you do now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Borthrop Trumbull",
+      "evidence_snippet": "I never noticed any alienation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "glanced at the passive face",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Jonah Featherstone",
+      "evidence_snippet": "this will cuts out everything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cranch",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "it\u2019s the first time I ever heard my brother Peter was so wishful to please God Almighty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I have no time to waste",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Standish",
+      "evidence_snippet": "Mary Garth\u2019s",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Peter Featherstone",
+      "character_2": "Christian Carnivora",
+      "evidence_snippet": "limited store which",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Jane Featherstone",
+      "character_2": "Martha Cranch",
+      "evidence_snippet": "Jane, the elder sister",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "saturnine cousin",
+      "evidence_snippet": "left a man nowhere",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Standish",
+      "evidence_snippet": "took out his white handkerchief",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "And all the while",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "And you have not even a hundred pounds",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Mrs. Vincy felt herself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Joshua Rigg",
+      "evidence_snippet": "Every one stared afresh",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Jonah",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "It\u2019s a poor tale how luck goes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Martha Cranch",
+      "character_2": "Jane Featherstone",
+      "evidence_snippet": "used their arithmetic",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "shot intelligent glances much",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "What was the good of it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "he rather enjoyed the zest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "with a bitterness which was remarkably genuine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Old Featherstone",
+      "evidence_snippet": "he rather enjoyed the zest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Jonah Featherstone",
+      "evidence_snippet": "he always was a fine hypocrite",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Rigg",
+      "evidence_snippet": "Mr. Vincy found",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Old Featherstone",
+      "evidence_snippet": "he would be surprised some day",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "felt the most throbbing excitement",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Stone Court was cleared",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Cranch",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "that poor lad sitting idle here so long",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Good-by",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Rigg",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Mr. Vincy found",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Jonah Featherstone",
+      "evidence_snippet": "Solomon found time to reflect",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Borthrop Trumbull",
+      "evidence_snippet": "I was always willingly of service",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Jonah Featherstone",
+      "evidence_snippet": "they showed a thoroughly neutral gravity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "sister Martha",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Dear, dear!",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

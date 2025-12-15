@@ -1,0 +1,718 @@
+{
+  "interactions": [
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "Exactly,",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "I said to Humphrey long ago",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "I think you must have taught them that word in the \u2018Pioneer\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "I don\u2019t suppose you could",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "I see they are beginning",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "throwing down the paper",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Casaubon won\u2019t like that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "Oh, that is Keck",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "A sort of Byronic hero",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rector",
+      "evidence_snippet": "Why, yes,",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "It is frightful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "broadening himself by sticking his thumbs in his armholes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "shrugged her shoulders",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Rector",
+      "evidence_snippet": "There is some foreign blood",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "interposed Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "stinginess may be abused",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Well, that is really a hit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I thought the most expensive hobby",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "What! Brooke?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Cadwallader",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "evidence_snippet": "Bulstrode, the banker, is his foremost man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "you and I have a different system",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Garth",
+      "evidence_snippet": "he would make a different parish",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "If I were Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "under all circumstances, you know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I know,\u201d said Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Garth has invented a new pattern",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Rector",
+      "evidence_snippet": "I think of getting Garth to manage",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rector",
+      "evidence_snippet": "Eh? no",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "you ply him with the 'Trumpet'",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "That\u2019s a showy sort of thing to do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "most stirred Mr. Brooke",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he had that fit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Sir James",
+      "evidence_snippet": "I suppose it\u2019s no use trying any persuasion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I know what you mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "But talk of an independent",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I agree with you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Rector",
+      "evidence_snippet": "You should have proved",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "In point of fact",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I would choke the \u2018Trumpet\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "It might hurt her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Why, yes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "ride on sticks at home",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "he is nettled",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "You go in for fancy farming",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Hawley says you have men",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Rector",
+      "evidence_snippet": "said the Rector",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "I warned you all of it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Rector",
+      "evidence_snippet": "What can you expect",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "you know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Rector",
+      "evidence_snippet": "Casaubon won\u2019t like that,\u201d said the Rector",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rector",
+      "evidence_snippet": "that about roaring",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Lying in bed all day",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "Retrogressive, now! Come, that\u2019s capital",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Rector",
+      "evidence_snippet": "I have a notion that he will be brought round in time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rector",
+      "evidence_snippet": "Well, he might have taken it into his head to marry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Oh, he\u2019s a dangerous young sprig",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "said Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "Look here!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "They said the last unsuccessful candidate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "Come, that\u2019s a blessing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "but I like a fair valuation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "I can\u2019t talk to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "remarked Sir James",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "He thinks it means destructive",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "said the Rector",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "no new tenant would take the farms",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I was going up to the Hall",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he says that Brooke is getting up a pretty strong party",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "by getting Garth to make a new valuation of the farms",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "he thinks Brooke would come off badly at a nomination",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Mr. Brooke is going to make a splash in the mud",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Rector",
+      "evidence_snippet": "want him to have a proper man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "There ought to be a new valuation made from time to time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Come, that\u2019s rather good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "and giving him carte blanche about gates and repairs",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "And now he has done it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Well, you know, Chettam",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Garth",
+      "evidence_snippet": "he told me point-blank",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I do wish people would behave",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Rector",
+      "evidence_snippet": "He got rid of Garth twelve years ago",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Well, what do you think of things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Rector",
+      "evidence_snippet": "It is Aquinas\u2019s fault",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Rector",
+      "evidence_snippet": "I have been talking to this young Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Here is a sharp stroke or two",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "Hawley says you have men",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Is he really going to be put in nomination",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "said Sir James",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "I don\u2019t believe a man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "you are all for outlay with your farms",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "they want to make me out a destructive",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "put him a-horseback on politics",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "and laughing towards Mr. Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I didn\u2019t want to take a liberty with Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Dagley complained to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "We have had him two or three times",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Thomas Aquinas is not fond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Here you all are, eh?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Well, that is really a hit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "Returns are very well occasionally",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "One ought to use some of one\u2019s timber",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "I hope he won\u2019t go into",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Well, he might have taken it into his head to marry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Rector",
+      "evidence_snippet": "I don\u2019t like to begin",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Cadwallader",
+      "evidence_snippet": "I think he knows the meaning",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Rector",
+      "evidence_snippet": "If you put him a-horseback",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "said Mr. Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "said Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "Somebody was saying",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "I don\u2019t think it signifies",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "We can hardly get her to dine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "said the Rector",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I do wish Brooke would leave that off",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "What do you say, Cadwalladerr?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I don\u2019t like to begin",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "She might have got some power",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rector",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "That was a nasty attack",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "going on a little fast",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I don\u2019t want to make out that my system is good under all circumstances",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "that\u2019s my view of the political situation",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

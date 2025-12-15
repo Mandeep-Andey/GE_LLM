@@ -1,0 +1,544 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "since the epoch of Mr. Larcher\u2019s sale"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had in vain attempted"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could not altogether hinder"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles proved more unmanageable"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his chronic state of mental restlessness"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the growing effect of habitual intemperance"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shaking off every impression"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "kept him in his own room"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "saw him to bed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "sympathy with his friend\u2019s pleasure"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "amusing himself with the annoyance"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "told his wife"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "implied without the direct form"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "signs of mental alienation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "drive the unfortunate being away"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "supplying Mrs. Bulstrode"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "accounting for his allowing"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "hinder her"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "betray his terror"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "produced an effect"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "showing himself hopelessly unmanageable"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "took Raffles to bed"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shrank from a direct lie"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "carried his candle"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "stood silent"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "awaited his recovery"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I came to call you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Be silent, sir"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall supply you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will furnish you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will have to live"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall supply you with money"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will have to live on such fruits"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know the worst you can do against me"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Get up, sir, and do as I order you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you shall have no sixpence from me"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "send for a policeman to take you off my premises"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Get up, sir, and do as I order you"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "taken off quietly in the carriage"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watching Raffles in his uneasy sleep"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "had repeated the incisive statement"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "penetrate Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "freed from his repulsive presence"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "returned to his quiet home"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "brought with him no confidence"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had a loathsome dream"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could not shake off its images"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "dangerous reptile had left"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "slimy traces"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "deposit of uneasy presentiment"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "carefully avoided any allusion"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "carefully avoided any allusion"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "defiance of Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watched or measured"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he said to himself"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he recoiled from the imagined burning"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he judged that it must be more for the Divine glory"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he made preparations for quitting Middlemarch"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he would be at a less scorching distance from the contempt"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he would have preferred to stay where he had struck root"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he made his preparations at first in a conditional way"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he wished to leave on all sides an opening for his return"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he knew, be extremely painful to his wife"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his conversation with Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had consulted Caleb Garth"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wanted to get the agent"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "May I trust to you to find me a tenant"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "will you mention to me the yearly sum"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll think about it"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll see how I can make it out"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had to consider Fred Vincy\u2019s future"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He mentioned his notion to Mrs. Garth"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "placing Fred Vincy there"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Garth"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Caleb"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "He took his earliest opportunity"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "On that ground he made no objection"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there was also another reason"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think you are always a little hard"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "no one ever had to say"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My dear Harriet"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have supplied"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot be expected"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thought of shutting up"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "got the assurance he desired"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wifely scolding"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "kept in strict privacy"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "more eager in these visits"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But suppose the whole scheme"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the castle will tumble about"
+    }
+  ]
+}

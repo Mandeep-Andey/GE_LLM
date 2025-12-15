@@ -1,0 +1,700 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "summons from Dorothea"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your views may possibly have"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "reopen the subject with Mrs. Casaubon"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "awaited his arrival"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your views may possibly have undergone some change"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "awaited his arrival with eager interest"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Lydgate\u2019s position"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "preoccupied her desire"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "full of confident hope"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "live through again all the past scenes"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "image of Lydgate had come painfully"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "pain had been allayed for Dorothea"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "awakened conjecture as to what Lydgate\u2019s marriage might be"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was almost shocked"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put out her hand to him"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have wished very much to see you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know that the advantage"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And I am sure you will not refuse"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot conscientiously advise"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You want to decide whether"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I may be obliged to leave"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not because there is no one to believe in you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know the unhappy mistakes about you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have never done anything vile"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You would not do anything dishonorable"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Thank you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I beseech you to tell me how everything was"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am sure that the truth would clear you"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Tell me, pray"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we can consult together"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is wicked to let people think evil"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking up at him with a sweet trustful gravity"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "saw Dorothea\u2019s face"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t want"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Bulstrode, who has lent me money"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do trust me"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will not repeat"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I could say that you"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Farebrother would believe"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "my uncle, and Sir James Chettam"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nay, there are persons"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "they would believe me"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would take any pains"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "made his first application to Bulstrode"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "opposed to the dominant practice"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his treatment of the patient"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his doubts at the last"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his ideal of medical duty"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "uneasy consciousness"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "acceptance of the money"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "private inclination"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "professional behavior"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he told her everything"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "suspicions against me"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode had strong motives"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he gave me the money"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "accepted a bribe"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode\u2019s character has enveloped me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I understand the difficulty"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know you meant that"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I remember what you said"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You may still win a great fame"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you may still win"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nothing galls me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It would be quite worth"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I am very uncomfortable"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "childlike grave-eyed earnestness"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "blurred shortsighted knowledge"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "ready understanding of high experience"
+    },
+    {
+      "character_1": "Mrs. Casaubon",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think you see now"
+    },
+    {
+      "character_1": "Mrs. Casaubon",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The hospital would be one good"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have the goodness as well as the money"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why should I not tell you"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You know what sort of bond marriage is"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will understand everything"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He hesitated a little while"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she sat in silent expectation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you know what sort of bond marriage is"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Dorothea felt her heart beginning"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know, I know\u2014you could not give her pain"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She wishes to go"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But when she saw the good"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She would not see it"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would tell her"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would cheer her heart"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "May I go and see her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Will you ask her if I may go"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did see her once"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She would feel honored"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will not speak to her"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She might then be glad"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And if Mrs. Lydgate knew"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you need not decide immediately"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A few days hence it will be early enough"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I prefer that there should be no interval"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It hurts me very much"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It would be a happiness"
+    },
+    {
+      "character_1": "Mrs. Casaubon",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "God bless you, Mrs. Casaubon"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rising as if with the same impulse"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now that is not brave"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, it is not brave"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you have made a great difference"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yet you have made a great difference"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Everything seems more bearable"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Farebrother will believe"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can say of you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I remember how pretty"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope she will like"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope she will like me"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She seems to have"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Casaubon must have"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Ladislaw?\u2014there was"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "relieving Lydgate"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had formed a plan"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She pleaded"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "enclosed a check"
+    }
+  ]
+}

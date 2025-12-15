@@ -1,0 +1,358 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "wrote down \"Tyke\"",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Frank Hawley",
+      "evidence_snippet": "I have feelings on the other side",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Dr. Minchin",
+      "evidence_snippet": "they enjoyed about equally the mysterious privilege",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Confound their petty politics",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Larcher",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "I think we owe something to the public",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Hackbutt",
+      "character_2": "Mr. Powderell",
+      "evidence_snippet": "But in my judgment",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I merely mean that you are expected to vote with Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Dr. Minchin",
+      "evidence_snippet": "Dr. Minchin was soft-handed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he was a likable man",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I shall not desist from voting with him on that account",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Mr. Farebrother should have taken pains",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Dr. Minchin",
+      "evidence_snippet": "Dr. Sprague was superfluously tall",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "could not help hearing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "valid objection to Mr. Farebrother",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Toller",
+      "evidence_snippet": "agreed that Lydgate was a jackanapes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Excuse me, Mr. Hawley",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Thesiger",
+      "evidence_snippet": "I trust there is no personal hostility",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he continued to waive the question",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "was constantly confirming",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Tyke",
+      "evidence_snippet": "He is a real Gospel preacher",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Tyke",
+      "evidence_snippet": "nothing to say against Mr. Tyke",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Mr. Bulstrode, treasurer and chairman",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Hawley",
+      "evidence_snippet": "saw Lydgate enter",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "We all know how Mr. Lydgate will vote",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Walter Tyke",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "The world has been too strong for me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "his liking for the Vicar",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I suppose we all know whom we mean to vote for",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Toller",
+      "evidence_snippet": "standing apart and having a friendly colloquy",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Banker would not overlook",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Hackbutt",
+      "character_2": "Mr. Tyke",
+      "evidence_snippet": "displacing the gentleman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Hawley",
+      "evidence_snippet": "the merits of the question may be very briefly stated",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I perceive that the votes are equally divided",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Walter Tyke",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Mr. Farebrother met him with the same friendliness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Bulstrode",
+      "evidence_snippet": "voting on the side obviously convenient for himself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "were often in consultation",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "his sermons were delivered without book",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Dr. Minchin",
+      "evidence_snippet": "I must have you on the right side",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Thesiger",
+      "evidence_snippet": "I\u2019ll swear there is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hackbutt",
+      "evidence_snippet": "I call it a confounded job",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Bulstrode",
+      "evidence_snippet": "vassal of Bulstrode\u2019s",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he deferred the predetermination",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he would have taken the more convenient side",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "averse to Mr. Bulstrode",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hackbutt",
+      "evidence_snippet": "everybody turned away",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Tyke",
+      "evidence_snippet": "I consider Mr. Tyke an exemplary man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "He is an amiable man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "he will make a little attendance here go as far",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "understood her constitution",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Dr. Sprague",
+      "evidence_snippet": "I go for Farebrother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Frank Hawley",
+      "evidence_snippet": "It seems to me that you have been crammed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "he would have played very much less",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Powderell",
+      "evidence_snippet": "Ho, ho! Doctor",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Plymdale",
+      "character_2": "Mr. Hackbutt",
+      "evidence_snippet": "I should not have known",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "his preaching was ingenious",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dr. Sprague",
+      "evidence_snippet": "Dr. Sprague, the two other surgeons",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Larcher",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "You don\u2019t set up Farebrother as a pattern",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "Lydgate thought that there was a pitiable infirmity of will in Mr. Farebrother",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Camden Farebrother",
+      "evidence_snippet": "he would have played very much less",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I don\u2019t see the good of that",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

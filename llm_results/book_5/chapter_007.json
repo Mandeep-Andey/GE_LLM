@@ -1,0 +1,856 @@
+{
+  "interactions": [
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sat with Celia"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watching the remarkable acts"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "conversation was interrupted"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "appeals for their interpretation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Sir James, of course, had told Celia"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "important it was that Dorothea should not know"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "told Celia everything"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "said\u2014"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Tucker",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had been provided for"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had been right"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think I ought to have the keys"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Tyke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Tyke has been strongly recommended"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon has not left any expression"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should like to have fuller knowledge"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nothing in the will"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish to exert myself"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am quite well now"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you are an aunt, you know, now"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it would not be his (Mr. Brooke\u2019s) fault"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Look, Dodo! look at him!"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What, Kitty?"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Isn\u2019t it wonderful!"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t be sad, Dodo"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am sure you did everything"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You should be happy now"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wonder if Sir James would drive me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are not to go"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "here you are, nurse"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it vexes me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Where am I wrong, Kitty?"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can see what you are thinking"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are wanting to find out"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He has behaved very badly"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He doesn\u2019t deserve it"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "James",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "James is as angry with him"
+    },
+    {
+      "character_1": "James",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I had better tell you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Celia, said Dorothea"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, he has made"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is of no consequence"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But if you married"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Of course that is"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That only makes it"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "James",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "James says so"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "James",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He says it is abominable"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "James",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there never was a better judge"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon wanted"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must just go and look"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "throwing a light shawl"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "threw herself back"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "her relation to Will Ladislaw"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What I think, Dodo"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon was spiteful"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "James",
+      "interaction_type": "Observation",
+      "evidence_snippet": "James never did"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I am sure religion"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "you ought to be grateful"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "We should not grieve"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We should not grieve, should we"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had the most remarkable fists"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was Bouddha in a Western form"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I fear you are not so well"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "allow me to feel your pulse"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She wants to go to Lowick"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She ought not, ought she"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She ought not, ought she?"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Thank you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall ask you to tell me"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have a living to give away"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You know Mr. Tyke"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But Dorothea\u2019s effort was too much"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Lydgate made her drink"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "made her drink"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Sir James",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let Mrs. Casaubon do as she likes"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Sir James",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "asked to see"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "attendance on Dorothea"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Celia had already told"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have no wish"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am much happier"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not yet, I think"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no word passed"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James",
+      "interaction_type": "Observation",
+      "evidence_snippet": "both of them felt"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she did wish that Sir James could know"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "her husband\u2019s injustice"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Will Ladislaw\u2019s moral claim"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his bitter resistance"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "that idea of claim"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "word quoted from Mrs. Cadwallader"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "searched desk and drawer"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found no paper addressed especially to her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had come at last to create a trust"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "create a trust for himself out of Dorothea\u2019s nature"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "erect a tomb with his name upon it"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "the Key to all Mythologies"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "the pledge given from the depths of her pity"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "the hidden alienation of secrecy and suspicion"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "half of it ought to go to Will Ladislaw"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon had taken"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his heart had gone out to her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "the half of it ought to go to Will Ladislaw"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Dorothea tried now to turn her thoughts"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "one of these was of a kind"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Lydgate\u2019s ear had caught eagerly"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should like to speak of another man"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "His living is a poor one"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "His mother, aunt, and sister all live with him"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I believe he has never married"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I never heard such good preaching"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "His talk is just as good"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why has he not done more?"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That\u2019s a hard question"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Farebrother often hints"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he has got into the wrong profession"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he wants a wider range"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he is very fond of Natural History"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he is hampered in reconciling"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he has no money to spare"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he does play for money"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he wins a good deal"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wonder whether he suffers"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wonder whether he wishes"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My uncle says that Mr. Tyke"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t pretend to say"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Walter Tyke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I see something of that in Mr. Tyke"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Walter Tyke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a good deal of his doctrine is a sort of pinching"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Walter Tyke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "make people uncomfortably aware of him"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Walter Tyke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I have been looking into a volume of sermons by Mr. Tyke"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Walter Tyke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "such sermons would be of no use at Lowick"
+    },
+    {
+      "character_1": "Reverend Walter Tyke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "have been looking into a volume of sermons"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should like to see Mr. Farebrother and hear him preach"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Reverend Edward Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do"
+    },
+    {
+      "character_1": "Mr. Ladislaw",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw gallants her about sometimes"
+    },
+    {
+      "character_1": "Mr. Ladislaw",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "reaching up to his arm"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "constantly seeing Mr. Brooke"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "would be glad to sing the Vicar\u2019s praises"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate\u2019s innocent introduction"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no one present to make"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "see him and hear him"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had forgotten Rosamond\u2019s remark"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had hardly seen Ladislaw"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had heard no rumor"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his picture of Ladislaw lingered"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she could see"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he smiled down"
+    }
+  ]
+}

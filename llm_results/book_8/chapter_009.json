@@ -1,0 +1,856 @@
+{
+  "interactions": [
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you think that Mrs. Lydgate"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have no doubt she will"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She has not been very well"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think it is very likely"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was in the room close by"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he heard her voice"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "immediately came to her"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wrote this last night"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is I who have most to thank"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have consented?"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw is come"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Rosy, dear, Mrs. Casaubon"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "colored and gave rather"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "lacerating words"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "thought of Dorothea"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Will had bruised her pride"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray tell Martha"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray tell Martha"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Had Mrs. Casaubon come"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put a light shawl"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am going out"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "observing to himself"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking like the lovely ghost"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "paused at three yards\u2019 distance"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "came forward"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put out her hand"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put her small hand into Dorothea\u2019s"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Casaubon\u2019s face looked pale"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found her heart swelling"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "emotion only passed over her face"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Casaubon\u2019s state of mind"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sat down without a word"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I had an errand yesterday"
+    },
+    {
+      "character_1": "Mrs. Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will not think me too troublesome"
+    },
+    {
+      "character_1": "Mrs. Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It will cheer you\u2014will it not?"
+    },
+    {
+      "character_1": "Mrs. Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will like to know"
+    },
+    {
+      "character_1": "Mrs. Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will let me speak of this"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall like to hear anything you will say to me about Tertius"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know you have been very good"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "asked him to come to Lowick"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he told me everything about his conduct"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he confessed to me that he had never told it before"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have told Mr. Farebrother"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have told Mr. Brooke"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he thought then and still thinks"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That will cheer you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Thank you: you are very kind"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she felt something like bashful timidity"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she felt something like bashful timidity"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he felt that he had been so wrong"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it hurts him more than anything"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could speak to me because I am an indifferent person"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I asked him if I might come to see you"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I felt so much for his trouble and yours"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "That is why I came yesterday"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "That is why I am come to-day"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Trouble is so hard to bear"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we could help them"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and never try"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "laid her hand again"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "burst into hysterical crying"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her thought being drawn"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "struggling against her own rising sobs"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "this moment was unlike any other"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she and Rosamond could never be together"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was under the first great shock"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she had been walking in an unknown world"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the way in which her own feelings were involved was fully known to Mrs. Lydgate"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "eyes met Dorothea\u2019s"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We were talking"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He ought not to wonder"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What he said of you"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he could not be happy"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "his marriage was of course"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he would not undertake"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "discerned a faint pleasure"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could not be happy"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he refused my proposal"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he would not undertake"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he knows that I had much trial"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he knows that I have felt"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Marriage is so unlike"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "there is something even awful"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "marriage drinks up all our power"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "marriage stays with us like a murder"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "our husband\u2014if he loved and trusted us"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put her hands on Rosamond\u2019s"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know, I know that the feeling"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we are weak\u2014I am weak"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put her lips to Dorothea\u2019s forehead"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "clasped each other"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are thinking what is not true"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "When you came in yesterday\u2014it was not as you thought"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "movement of surprised attention"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He was telling me how he loved another woman"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He said he loved another woman"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He said he could never explain to you"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He said you could never think well of him"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He said no other woman existed for him"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He said he cannot reproach me any more"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she had gathered the sense"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she cared for Rosamond"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she responded earnestly"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, he cannot reproach you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are not sorry"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, you have been"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did not think"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am not happy"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Everything is so sad"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But better days"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your husband will"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He loves you best"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The worst loss"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you have not lost"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Tertius did not find fault"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, indeed! How could"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate might have said anything"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Perhaps there was a faint"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A smile began to play"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Casaubon looked as much"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am come back in my quality"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was haunted by two pale faces"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I had not done my duty"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I came home again"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "noticed that you were walking"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "May I send some one"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said an earnest, quiet good-by"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "said nothing of Rosamond"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "told him of Mr. Farebrother"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, Rosy"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "touching her hair"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think she must be better"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you go to talk to her"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How heavy your eyes"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "push your hair back"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "lifted up his large white hand"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How heavy your eyes are"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "push your hair back"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "vagrant fancy had come back"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "narrowed lot with sad resignation"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "chosen this fragile creature"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "taken the burthen of her life"
+    }
+  ]
+}

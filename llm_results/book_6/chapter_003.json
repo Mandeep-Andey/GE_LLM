@@ -1,0 +1,778 @@
+{
+  "interactions": [
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found the family group"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wishing to assure himself"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Christy Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had come home for a short holiday"
+    },
+    {
+      "character_1": "Christy Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "poor Fred"
+    },
+    {
+      "character_1": "Christy Garth",
+      "character_2": "Jim Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was lying on the ground"
+    },
+    {
+      "character_1": "Jim Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "reading aloud"
+    },
+    {
+      "character_1": "Jim Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "suffered much interruption"
+    },
+    {
+      "character_1": "Jim Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "making himself dreadfully disagreeable"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Brownie",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no one wished to do except Brownie"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Brownie",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking on with the dull-eyed neutrality"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the centre of interest was changed"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "strode across Fred\u2019s outstretched leg"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Take me!"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, and me too"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You can\u2019t keep up with Fred and me"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall stay with Christy"
+    },
+    {
+      "character_1": "Jim Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall stay with Christy"
+    },
+    {
+      "character_1": "Jim Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have the advantage of those simpletons"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Jim Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put her hand up to her head"
+    },
+    {
+      "character_1": "Christy Garth",
+      "character_2": "Letty Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let us all go and see Mary"
+    },
+    {
+      "character_1": "Christy Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let us all go and see Mary"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Children, run away"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it is too warm to hang about"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Take your brother and show him the rabbits"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Christy Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How glad you must be"
+    },
+    {
+      "character_1": "Christy Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he has come sooner than I expected"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Christy Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wonderful progress Christy"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "paid his expenses"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But I fear you will think"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Caleb likes taking trouble"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know you think me very undeserving"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I happen to have behaved just the worst"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t see why I should give myself up"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Assuredly"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Assuredly,"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope it will not be so with me"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not surprised that Mary has given you encouragement"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, I confess I was surprised"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She never did give me any\u2014not the least in the world"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Fred, eager to vindicate Mary"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "talked to her myself"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You made a great mistake"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Did I?"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You made a great mistake"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Did I?"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Farebrother has always been"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot conceive how it could be"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot conceive how it could be any pain"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Precisely; you cannot conceive"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you mean to say, Mrs. Garth, that Mr. Farebrother is in love with Mary?"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And if it were so, Fred, I think you are the last person who ought to be surprised"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Then you think I am standing in his way, and in Mary\u2019s too?"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Then you think I am standing"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Garth seemed pleased"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I spoke from inference only"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am not aware"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she hesitated to beg"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was hesitating"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "shouted and clapped his hands"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Brownie",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "barked"
+    },
+    {
+      "character_1": "Brownie",
+      "character_2": "kitten",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "jumped on the tea-table"
+    },
+    {
+      "character_1": "kitten",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "upset the milk"
+    },
+    {
+      "character_1": "kitten",
+      "character_2": "Letty Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "cried out to her mother"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "cried out to her mother"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "kitten",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "swept half the cherries"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "kitten",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "snatching up the half-knitted sock-top"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "kitten",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "fitted it over the kitten\u2019s head"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Mrs. Garth was obliged to interfere"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Brownie",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "shouted and clapped his hands"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "God bless you"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Caleb\u2019s blame"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Fred Vincy a great deal"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mary might have made"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "asked that intervention"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "new anxiety raised"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had a rival"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had a rival"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he suspected that she might be wrong"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he suspected that she might be wrong"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "told her first of Christy\u2019s arrival"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "told her of his own engagement"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found her looking cheerful"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am so glad"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am glad of both"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have a dreadfully secular mind"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I never liked any clergyman"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now why, my dear"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now why, my dear?"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have always a good reason"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t like their neckcloths"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, you don\u2019t like Camden\u2019s"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, I do"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t like the other clergymen\u2019s"
+    },
+    {
+      "character_1": "Miss Noble",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How very puzzling!"
+    },
+    {
+      "character_1": "Miss Noble",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My dear, you are joking"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you are joking"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you would have better reasons"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Miss Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Miss Garth has such severe notions"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she makes an exception"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am glad at least"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "looked at Mary\u2019s labels"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "felt horribly jealous"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "placed Farebrother above everybody"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "these women",
+      "interaction_type": "Observation",
+      "evidence_snippet": "encouraging the affair"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fred, help me to carry"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray come too, Miss Garth"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Wait here a minute or two"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "went out"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is of no use"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What do you mean"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are sure to marry"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are behaving very ill"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is impossible"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How can you have taken up such an idea"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish I had never told Mr. Farebrother"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I told your father everything"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "For this? for what"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you really like me best"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I only said that no mortal"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish you would tell me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Never dare to mention this any more to me"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t know whether it is more stupid or ungenerous"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Farebrother has left us together on purpose"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we might speak freely"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am disappointed that you should be so blind"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "to his delicate feeling"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Fred has lost all his other expectations"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "he must keep this"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Fred forsaken and looking sad"
+    }
+  ]
+}

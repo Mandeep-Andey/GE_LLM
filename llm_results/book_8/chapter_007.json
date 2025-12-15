@@ -1,0 +1,196 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "saw on the table Dorothea\u2019s letter"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Did not Mrs. Lydgate tell you"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thought it better to tell you"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "your name is mixed up with the disclosures"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I travelled all night"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have been shutting myself up"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have not been long enough"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suppose you are only just come down"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will be sure to hear it"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, said Will, sardonically"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be fortunate if gossip"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I plotted with Raffles to murder"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should think the latest version"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rejected Bulstrode\u2019s money"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate\u2019s misfortune to have accepted it"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mrs. Casaubon has been the one person"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Observing a change in Will\u2019s face"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it was only Will who guessed"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "said nothing"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "entreated him to urge"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said with a faint smile"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he were beholding"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he were sliding into"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "we are on a perilous margin"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "see our own figures led"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "into insipid misdoing"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shabby achievement"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Poor Lydgate was inwardly groaning"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Will was arriving at it"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he dreaded Lydgate\u2019s unsuspecting good-will"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his outburst to Rosamond"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he dreaded his own distaste"
+    }
+  ]
+}

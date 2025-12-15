@@ -1,0 +1,334 @@
+{
+  "interactions": [
+    {
+      "character_1": "John Raffles",
+      "character_2": "the person",
+      "evidence_snippet": "considered it pretty well seasoned",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "I\u2019m very fond of you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "sleek, neat, and cool",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "a little capital might enable me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "Mind, said Rigg",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Joshua Rigg Featherstone",
+      "evidence_snippet": "transactions referred to by Caleb Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "made a grimace",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "low characteristics",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "thought the rural Featherstones",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "Do you think I forget",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "Come, now, Josh",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Rigg Featherstone",
+      "evidence_snippet": "He played this part now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "The tobacco trade is growing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "Come, Josh",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "shoved it under the leather",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "the person",
+      "evidence_snippet": "turning his back to a person",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "frog he resembled",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Rigg Featherstone",
+      "evidence_snippet": "The paper with which he had wedged",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "Not while you live",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "The next time you show yourself inside the gates here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "that shall be stopped if you dare to come on to these premises again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "looked at Raffles with his prominent frozen eyes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "still more Peter\u2019s property",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "regarded his bringing up",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "the person",
+      "evidence_snippet": "none to stare at him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "Joshua Rigg Featherstone",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "What I give her, you\u2019ll take",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "took a small allowance",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "She shall have her weekly allowance paid and no more",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "their brother Peter",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "The more you say anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "Have you done?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "The more you want me to do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "Do you think I mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "the person",
+      "evidence_snippet": "water-rats rustled away",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "you shall be driven off with the dogs and the wagoner\u2019s whip",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "deposited it in his side-pocket",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Rigg Featherstone",
+      "evidence_snippet": "resorting at frequent intervals",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "the person",
+      "evidence_snippet": "looked as incongruous",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Leonard Lamb",
+      "evidence_snippet": "Leonard Lamb of Finsbury",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "I should cut my own nose off",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "screwed it up",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "transactions referred to by Caleb Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "the person",
+      "evidence_snippet": "none to show dislike",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "she\u2019d no right to give me a father-in-law",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "Yes, I\u2019ve done",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "Farewell, Josh\u2014and if forever!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Rigg Featherstone",
+      "evidence_snippet": "observing to his fellow-passengers",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "John Raffles",
+      "evidence_snippet": "That\u2019s a pity, now, Josh",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "Mr. Rigg Featherstone",
+      "evidence_snippet": "Have you done?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "handed Raffles a sovereign",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "filled the flask",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "regarded his \u201cbringing up\u201d",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Joshua Rigg Featherstone",
+      "evidence_snippet": "You bear me a grudge",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "Peter Featherstone",
+      "interaction_type": "Memory/Reference"
+    }
+  ]
+}

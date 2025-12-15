@@ -1,0 +1,292 @@
+{
+  "interactions": [
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "I saw her wedding-ring on that wonderful left hand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Not at all: the result of the struggle is the same thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "Ah! it is no use looking after her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "He was conscious",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "searching in his friend\u2019s face for responding admiration",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You and I shall quarrel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "German",
+      "evidence_snippet": "Sch\u00f6n, sch\u00f6n. Don\u2019t be snappish",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "German",
+      "evidence_snippet": "You are singular, Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Confound you, Naumann!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am amateurish if you like",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You must wait for movement and tone",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "There is a difference in their very breathing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "German",
+      "evidence_snippet": "I have only seen her once",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "I saw him parting from her a good while ago",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "You are singular, Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "placing a hand on his shoulder",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "I found her in that magnificent pose",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "German",
+      "evidence_snippet": "kept at his side and watched him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "German",
+      "evidence_snippet": "You are not angry with me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "how would you paint her voice",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You are jealous",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "German",
+      "evidence_snippet": "I know that she is married",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "But it is, my dear!\u2014so far as it is straining through me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Yes, for those who can\u2019t paint",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Your great-aunt",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "What is a portrait of a woman?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "What do you think of that for a fine bit of antithesis",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "There you have perfect right",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "find that she very much wishes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "putting a hand on Ladislaw\u2019s shoulder",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Your painting and Plastik are poor stuff after all",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "English ladies are not at everybody\u2019s service as models",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Bah! that is because you are",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "was mayor of the old corporation in Middlemarch",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I did not recommend you to paint",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "What do you think of that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You would only have made a better or worse portrait",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Der Neffe als Onkel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Suppose I get acquainted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "But how if another claw in the shape of me is straining to thwart it?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "had taken her wedding journey to Rome",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "This is serious",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "Come here, quick! else she will have changed her pose",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Yes, suppose!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "German",
+      "character_2": "young man",
+      "evidence_snippet": "No, no",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "German",
+      "evidence_snippet": "What! the Geistlicher? He looks",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Come now, my friend\u2014you will help?",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

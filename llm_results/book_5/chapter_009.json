@@ -1,0 +1,850 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The greatest comfort"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "half the deserving"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There shall be sugar-candy"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you shall have a great many"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you shall darn your own"
+    },
+    {
+      "character_1": "Miss Henrietta Noble",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "As for you, Winny"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Miss Winifred Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall make no difficulty"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Miss Winifred Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "As for you, Winny"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Miss Winifred Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You must set me the example"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Miss Winifred Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You must marry now"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What do you say, mother?"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are a handsome man"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish you would marry Miss Garth"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You talk as if young women"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But you would like Miss Garth"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My son\u2019s choice shall be mine"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a wife would be most welcome"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall do without whist now"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why so, Camden?"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be too busy"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t feel bound"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have thought of that"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think it would be easier"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I used often to wish"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is the well-beneficed"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am ashamed to trouble you"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Sit down, Fred"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wanted to tell you"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I might go into the Church"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t see anything else to do"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wanted to tell you\u2014"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I might go into the Church now"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t see anything else to do"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t like it"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t like divinity"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t like preaching"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t like feeling obliged"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I like riding across country"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I like doing as other men do"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t mean that I want to be a bad fellow"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve no taste for the sort of thing"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t mean that I want"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My father can\u2019t spare me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And he has no room for me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And of course I can\u2019t begin"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s all very well to say"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But those who say so"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you any difficulties"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No; I suppose the Articles"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suppose the Articles are right"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think it would be rather ridiculous"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did not tell you before"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did not tell you before"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Miss Garth, I suppose"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes. I shouldn\u2019t mind"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And I know I could"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I saw Mrs. Garth last night"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you wish to go there"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, I want to ask"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you wish to go there?"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I want to ask a great favor"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t know what to do"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have never been without loving Mary"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Will she not be hurt"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, I feel sure"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She respects you more"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There is no one else"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And she ought to"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Very well, my boy"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will do what you wish"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "putting out his hand"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found Mary in the garden"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sun was low"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "tall trees sent their shadows"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "moving without bonnet"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had just stooped down"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mary Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "took his fore-paws in one hand"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fly",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fly, Fly, I am ashamed"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are unmerciful"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fly",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It always answers to reason with Fly"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "young gentlemen",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But not with young gentlemen"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it must be Fred Vincy"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope you know by those marks"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, I think I do"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it must be Fred Vincy"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "On the contrary, Mr. Farebrother"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "whenever you have anything to say to me"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Garth told me"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "just after he had gone to college"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "how you refused to burn the will"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "you had been the innocent means"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "hindering Fred from getting his ten thousand pounds"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "looked at Mary"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mary\u2019s cheeks had begun to burn"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Thank you, Mr. Farebrother"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have questioned him on the subject"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I confess I see no insuperable objection"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He says that he could turn his mind"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If that condition were fulfilled"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He has opened his heart"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let us walk a little"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "To speak quite plainly"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot possibly say"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t mean for a moment"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What you say is most generous"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I could not love a man"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Fred has sense and knowledge"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Crowse",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Crowse, with his empty face"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What right have such men"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Young women are severe"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But you don\u2019t put Fred Vincy"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, indeed, he has plenty"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Then the answer is quite"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But if he braved all"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "will you give him the support"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think Fred ought not"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he ought not to put"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I understand that you resist"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he may count on your remaining"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I mean that he ought not to put such questions"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I understand that you resist any attempt to fetter you"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pardon me, Mary\u2014you know I used to catechise you under that name"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "when the state of a woman\u2019s affections touches the happiness of another life\u2014of more lives than one\u2014I think it would be the nobler course for her to be perfectly direct and open"
+    },
+    {
+      "character_1": "Miss Garth",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have too strong a feeling"
+    },
+    {
+      "character_1": "Miss Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "espoused her with the umbrella ring"
+    },
+    {
+      "character_1": "Miss Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "we were very little"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Then I have fulfilled"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mr. Farebrother"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall ride back"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we shall get Fred"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope I shall live"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "God bless you"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, please stay"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "let me give you"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Her eyes filled"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "resolute suppression"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "something like the"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "made her feel"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, my dear, no"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Crowse",
+      "interaction_type": "Observation",
+      "evidence_snippet": "must get back"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Crowse",
+      "interaction_type": "Observation",
+      "evidence_snippet": "go on horseback"
+    }
+  ]
+}

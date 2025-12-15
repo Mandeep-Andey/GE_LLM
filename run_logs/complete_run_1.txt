@@ -1,0 +1,1304 @@
+~/Development/GE_LLM git:[main]
+uv run run_llm_extraction.py
+--- LLM Extraction Pipeline with Adaptive Chunking Started ---
+
+--- Loading all books from 'data/Middlemarch' ---
+Found 8 books to process.
+Initializing Character Mapper...
+Character map built successfully with 247 total aliases.
+LLM Client initialized for Ollama GENERATE server at http://localhost:11434/api/generate
+
+
+--- Processing Book: book_1 ---
+Found 12 chapters.
+Skipping Chapter 1 as its result file already exists.
+Skipping Chapter 2 as its result file already exists.
+Skipping Chapter 3 as its result file already exists.
+Skipping Chapter 4 as its result file already exists.
+Skipping Chapter 5 as its result file already exists.
+Skipping Chapter 6 as its result file already exists.
+Skipping Chapter 7 as its result file already exists.
+Skipping Chapter 8 as its result file already exists.
+Skipping Chapter 9 as its result file already exists.
+Skipping Chapter 10 as its result file already exists.
+Skipping Chapter 11 as its result file already exists.
+Skipping Chapter 12 as its result file already exists.
+
+
+--- Processing Book: book_2 ---
+Found 10 chapters.
+Skipping Chapter 1 as its result file already exists.
+Skipping Chapter 2 as its result file already exists.
+Skipping Chapter 3 as its result file already exists.
+Skipping Chapter 4 as its result file already exists.
+Skipping Chapter 5 as its result file already exists.
+Skipping Chapter 6 as its result file already exists.
+Skipping Chapter 7 as its result file already exists.
+Skipping Chapter 8 as its result file already exists.
+Skipping Chapter 9 as its result file already exists.
+Skipping Chapter 10 as its result file already exists.
+
+
+--- Processing Book: book_3 ---
+Found 11 chapters.
+Skipping Chapter 1 as its result file already exists.
+Skipping Chapter 2 as its result file already exists.
+Skipping Chapter 3 as its result file already exists.
+Skipping Chapter 4 as its result file already exists.
+Skipping Chapter 5 as its result file already exists.
+Skipping Chapter 6 as its result file already exists.
+Skipping Chapter 7 as its result file already exists.
+Skipping Chapter 8 as its result file already exists.
+Skipping Chapter 9 as its result file already exists.
+Skipping Chapter 10 as its result file already exists.
+Skipping Chapter 11 as its result file already exists.
+
+
+--- Processing Book: book_4 ---
+Found 9 chapters.
+Skipping Chapter 1 as its result file already exists.
+Skipping Chapter 2 as its result file already exists.
+Skipping Chapter 3 as its result file already exists.
+Skipping Chapter 4 as its result file already exists.
+Skipping Chapter 5 as its result file already exists.
+Skipping Chapter 6 as its result file already exists.
+Skipping Chapter 7 as its result file already exists.
+Skipping Chapter 8 as its result file already exists.
+Skipping Chapter 9 as its result file already exists.
+
+
+--- Processing Book: book_5 ---
+Found 11 chapters.
+Skipping Chapter 1 as its result file already exists.
+Skipping Chapter 2 as its result file already exists.
+Skipping Chapter 3 as its result file already exists.
+
+--- Processing Chapter 4/11 ---
+Chapter 4 Chunks:  93%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊           | 26/28 [09:22<00:36, 18.06s/it]
+WARNING: Skipping one malformed interaction object. Details:
+2 validation errors for Interaction
+interaction_type
+  Field required [type=missing, input_value={'character_1': 'Rosamond... 'character_2': 'Tert,'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+evidence_snippet
+  Field required [type=missing, input_value={'character_1': 'Rosamond... 'character_2': 'Tert,'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Rosamond Vincy', 'character_2': 'Tert,'}
+--------------------
+Chapter 4 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [11:44<00:00, 25.17s/it]
+Saved 144 unique interactions for Chapter 4
+
+--- Processing Chapter 5/11 ---
+Chapter 5 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [05:38<00:00, 19.90s/it]
+Saved 74 unique interactions for Chapter 5
+
+--- Processing Chapter 6/11 ---
+Chapter 6 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 27/27 [08:26<00:00, 18.75s/it]
+Saved 121 unique interactions for Chapter 6
+
+--- Processing Chapter 7/11 ---
+Chapter 7 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 12/12 [04:44<00:00, 23.67s/it]
+Saved 71 unique interactions for Chapter 7
+
+--- Processing Chapter 8/11 ---
+Chapter 8 Chunks:   7%|███████████▏                                                                                                                                                 | 2/28 [00:48<10:36, 24.48s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Mr. Broo...t': 'No hurry, my dear'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Mr. Brooke', ' ': '', 'interaction_type': 'Direct Dialogue', 'evidence_snippet': 'No hurry, my dear'}
+--------------------
+Chapter 8 Chunks:  43%|██████████████████████████████████████████████████████████████████▊                                                                                         | 12/28 [04:28<06:22, 23.92s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Lydgate'...ly know. In my opinion'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Lydgate', ' ': 'Dorothea Brooke', 'interaction_type': 'Direct Dialogue', 'evidence_snippet': 'I hardly know. In my opinion'}
+--------------------
+Chapter 8 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [09:55<00:00, 21.25s/it]
+Saved 142 unique interactions for Chapter 8
+
+--- Processing Chapter 9/11 ---
+Chapter 9 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 38/38 [11:14<00:00, 17.76s/it]
+Saved 161 unique interactions for Chapter 9
+
+--- Processing Chapter 10/11 ---
+Chapter 10 Chunks: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 27/27 [09:25<00:00, 20.93s/it]
+Saved 141 unique interactions for Chapter 10
+
+--- Processing Chapter 11/11 ---
+Chapter 11 Chunks:  37%|█████████████████████████████████████████████████████████                                                                                                  | 14/38 [03:36<07:53, 19.74s/it]
+WARNING: Skipping one malformed interaction object. Details:
+3 validation errors for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'John Raf..._snippet': 'Thank you'}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+interaction_type
+  Field required [type=missing, input_value={'character_1': 'John Raf..._snippet': 'Thank you'}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+evidence_snippet
+  Input should be a valid string [type=string_type, input_value={'character_1': 'John Raf...e_snippet': 'Thank you'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+--- Invalid Interaction Object ---
+{'character_1': 'John Raffles', ' ': 'interaction_type', 'evidence_snippet': {'character_1': 'John Raffles', 'character_2': 'Mr. Nicholas Bulstrode', 'interaction_type': 'Direct Dialogue', 'evidence_snippet': 'Thank you'}}
+--------------------
+Chapter 11 Chunks: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 38/38 [11:10<00:00, 17.64s/it]
+Saved 163 unique interactions for Chapter 11
+
+
+--- Processing Book: book_6 ---
+Found 9 chapters.
+
+--- Processing Chapter 1/9 ---
+Chapter 1 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 29/29 [10:43<00:00, 22.19s/it]
+Saved 135 unique interactions for Chapter 1
+
+--- Processing Chapter 2/9 ---
+Chapter 2 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 12/12 [03:27<00:00, 17.29s/it]
+Saved 45 unique interactions for Chapter 2
+
+--- Processing Chapter 3/9 ---
+Chapter 3 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 57/57 [17:47<00:00, 18.74s/it]
+Saved 259 unique interactions for Chapter 3
+
+--- Processing Chapter 4/9 ---
+Chapter 4 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 27/27 [09:32<00:00, 21.19s/it]
+Saved 129 unique interactions for Chapter 4
+
+--- Processing Chapter 5/9 ---
+Chapter 5 Chunks:   8%|████████████                                                                                                                                                 | 4/52 [00:54<10:23, 12.98s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Tertius ... generally not to hear'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Tertius Lydgate', ' ': 'Captain Lydgate', 'interaction_type': 'Physical Action', 'evidence_snippet': 'pretended generally not to hear'}
+--------------------
+Chapter 5 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 52/52 [15:33<00:00, 17.96s/it]
+Saved 227 unique interactions for Chapter 5
+
+--- Processing Chapter 6/9 ---
+Chapter 6 Chunks: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [02:31<00:00, 18.93s/it]
+Saved 35 unique interactions for Chapter 6
+
+--- Processing Chapter 7/9 ---
+Chapter 7 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 33/33 [11:54<00:00, 21.65s/it]
+Saved 156 unique interactions for Chapter 7
+
+--- Processing Chapter 8/9 ---
+Chapter 8 Chunks:   5%|████████▍                                                                                                                                                    | 2/37 [01:08<17:48, 30.53s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Mrs. Abe...ook very ill, Nicholas'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Mrs. Abel', ' ': 'Mr. Bulstrode', 'interaction_type': 'Direct Dialogue', 'evidence_snippet': 'You look very ill, Nicholas'}
+--------------------
+Chapter 8 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 37/37 [13:53<00:00, 22.53s/it]
+Saved 176 unique interactions for Chapter 8
+
+--- Processing Chapter 9/9 ---
+Chapter 9 Chunks:  42%|█████████████████████████████████████████████████████████████████▍                                                                                          | 13/31 [04:00<06:19, 21.08s/it]
+ERROR: LLM output was not valid JSON. Details: Expecting ',' delimiter: line 868 column 2 (char 23959)
+--- LLM Raw Output ---
+{
+
+
+  "interactions": [
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Kell",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Go in first"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Kell",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mrs. Casaubon is coming in"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Dorothea’s heart seemed to turn over"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not perceptibly checked"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sense that Will was there"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all-satisfying to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sight of something precious"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was not percept,ically checked"
+    }
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+Chapter 9 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [16:21<00:00, 31.66s/it]
+Saved 114 unique interactions for Chapter 9
+
+
+--- Processing Book: book_7 ---
+Found 9 chapters.
+
+--- Processing Chapter 1/9 ---
+Chapter 1 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [09:11<00:00, 22.98s/it]
+Saved 128 unique interactions for Chapter 1
+
+--- Processing Chapter 2/9 ---
+Chapter 2 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 49/49 [15:24<00:00, 18.87s/it]
+Saved 212 unique interactions for Chapter 2
+
+--- Processing Chapter 3/9 ---
+Chapter 3 Chunks:   8%|████████████                                                                                                                                                 | 1/13 [00:15<03:11, 15.95s/it]
+WARNING: Skipping one malformed interaction object. Details:
+3 validation errors for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Tertius ...ate', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+interaction_type
+  Field required [type=missing, input_value={'character_1': 'Tertius ...ate', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+evidence_snippet
+  Field required [type=missing, input_value={'character_1': 'Tertius ...ate', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Tertius Lydgate', ' ': 'character_2'}
+--------------------
+Chapter 3 Chunks:  62%|████████████████████████████████████████████████████████████████████████████████████████████████▌                                                            | 8/13 [02:53<02:00, 24.08s/it]
+WARNING: Skipping one malformed interaction object. Details:
+2 validation errors for Interaction
+interaction_type
+  Field required [type=missing, input_value={'character_1': 'Rosamond..., 'character_2': 'Lyd,'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+evidence_snippet
+  Field required [type=missing, input_value={'character_1': 'Rosamond..., 'character_2': 'Lyd,'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Rosamond Vincy', 'character_2': 'Lyd,'}
+--------------------
+Chapter 3 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 13/13 [06:03<00:00, 27.97s/it]
+Saved 61 unique interactions for Chapter 3
+
+--- Processing Chapter 4/9 ---
+Chapter 4 Chunks:  74%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                        | 20/27 [06:15<02:21, 20.28s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Fred Vin...ill not affect to deny'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Fred Vincy', ' ': '', 'interaction_type': 'Direct Dialogue', 'evidence_snippet': 'I will not affect to deny'}
+--------------------
+Chapter 4 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 27/27 [08:30<00:00, 18.89s/it]
+Saved 119 unique interactions for Chapter 4
+
+--- Processing Chapter 5/9 ---
+Chapter 5 Chunks:  95%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌       | 20/21 [05:24<00:16, 16.29s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Mr. Lydg...ot improve my prospect'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Mr. Lydgate', ' ': 'Mr. Nicholas Bulstrode', 'interaction_type': 'Direct Dialogue', 'evidence_snippet': 'That would not improve my prospect'}
+--------------------
+Chapter 5 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 21/21 [05:43<00:00, 16.35s/it]
+Saved 80 unique interactions for Chapter 5
+
+--- Processing Chapter 6/9 ---
+Chapter 6 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 22/22 [06:16<00:00, 17.10s/it]
+Saved 90 unique interactions for Chapter 6
+
+--- Processing Chapter 7/9 ---
+Chapter 7 Chunks:  10%|████████████████▏                                                                                                                                            | 3/29 [01:18<11:57, 27.59s/it]
+ERROR: Could not connect to Ollama server. Details: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=600)
+Chapter 7 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 29/29 [18:41<00:00, 38.69s/it]
+Saved 124 unique interactions for Chapter 7
+
+--- Processing Chapter 8/9 ---
+Chapter 8 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 35/35 [11:14<00:00, 19.28s/it]
+Saved 163 unique interactions for Chapter 8
+
+--- Processing Chapter 9/9 ---
+Chapter 9 Chunks:  21%|████████████████████████████████▊                                                                                                                           | 12/57 [03:37<13:33, 18.08s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Mr. Fare...prised than the lawyer'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Mr. Farebrother', ' ': 'Mr. Bulstrode', 'interaction_type': 'Observation', 'evidence_snippet': 'not more surprised than the lawyer'}
+--------------------
+Chapter 9 Chunks:  44%|████████████████████████████████████████████████████████████████████▍                                                                                       | 25/57 [08:25<09:34, 17.95s/it]
+WARNING: Skipping one malformed interaction object. Details:
+3 validation errors for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Fletcher', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+interaction_type
+  Field required [type=missing, input_value={'character_1': 'Fletcher', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+evidence_snippet
+  Field required [type=missing, input_value={'character_1': 'Fletcher', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Fletcher', ' ': 'character_2'}
+--------------------
+Chapter 9 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 57/57 [18:30<00:00, 19.48s/it]
+Saved 234 unique interactions for Chapter 9
+
+
+--- Processing Book: book_8 ---
+Found 15 chapters.
+
+--- Processing Chapter 1/15 ---
+Chapter 1 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [03:54<00:00, 23.43s/it]
+Saved 58 unique interactions for Chapter 1
+
+--- Processing Chapter 2/15 ---
+Chapter 2 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [03:39<00:00, 19.97s/it]
+Saved 46 unique interactions for Chapter 2
+
+--- Processing Chapter 3/15 ---
+Chapter 3 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [10:38<00:00, 19.96s/it]
+Saved 148 unique interactions for Chapter 3
+
+--- Processing Chapter 4/15 ---
+Chapter 4 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 21/21 [06:40<00:00, 19.06s/it]
+Saved 100 unique interactions for Chapter 4
+
+--- Processing Chapter 5/15 ---
+Chapter 5 Chunks:  50%|██████████████████████████████████████████████████████████████████████████████                                                                              | 14/28 [04:30<03:43, 16.00s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Lydgate'...ippet': 'That might do'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Lydgate', ' ': 'Dorothea Brooke', 'interaction_type': 'Direct Dialogue', 'evidence_snippet': 'That might do'}
+--------------------
+Chapter 5 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [08:07<00:00, 17.42s/it]
+Saved 116 unique interactions for Chapter 5
+
+--- Processing Chapter 6/15 ---
+Chapter 6 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 20/20 [05:38<00:00, 16.92s/it]
+Saved 75 unique interactions for Chapter 6
+
+--- Processing Chapter 7/15 ---
+Chapter 7 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [03:27<00:00, 18.87s/it]
+Saved 53 unique interactions for Chapter 7
+
+--- Processing Chapter 8/15 ---
+Chapter 8 Chunks: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6/6 [02:16<00:00, 22.72s/it]
+Saved 32 unique interactions for Chapter 8
+
+--- Processing Chapter 9/15 ---
+Chapter 9 Chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 22/22 [05:48<00:00, 15.86s/it]
+Saved 82 unique interactions for Chapter 9
+
+--- Processing Chapter 10/15 ---
+Chapter 10 Chunks:   7%|███████████▏                                                                                                                                                | 2/28 [00:40<08:10, 18.87s/it]
+WARNING: Skipping one malformed interaction object. Details:
+1 validation error for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Mr. Lydg... up-stairs to Rosamond'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Mr. Lydgate', ' ': 'Rosamond Vincy', 'interaction_type': 'Physical Action', 'evidence_snippet': 'went up-stairs to Rosamond'}
+--------------------
+Chapter 10 Chunks: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [09:41<00:00, 20.76s/it]
+Saved 142 unique interactions for Chapter 10
+
+--- Processing Chapter 11/15 ---
+Chapter 11 Chunks: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [03:31<00:00, 21.10s/it]
+Saved 54 unique interactions for Chapter 11
+
+--- Processing Chapter 12/15 ---
+Chapter 12 Chunks: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 20/20 [05:46<00:00, 17.32s/it]
+Saved 88 unique interactions for Chapter 12
+
+--- Processing Chapter 13/15 ---
+Chapter 13 Chunks:   7%|███████████▏                                                                                                                                                | 2/28 [01:02<12:45, 29.43s/it]
+WARNING: Skipping one malformed interaction object. Details:
+2 validation errors for Interaction
+interaction_type
+  Field required [type=missing, input_value={'character_1': 'Celia Br... 'character_2': 'Dow, '}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+evidence_snippet
+  Field required [type=missing, input_value={'character_1': 'Celia Br... 'character_2': 'Dow, '}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Celia Brooke', 'character_2': 'Dow, '}
+--------------------
+Chapter 13 Chunks: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [17:15<00:00, 36.98s/it]
+Saved 184 unique interactions for Chapter 13
+
+--- Processing Chapter 14/15 ---
+Chapter 14 Chunks:  43%|███████████████████████████████████████████████████████████████████▎                                                                                         | 3/7 [00:50<01:01, 15.35s/it]
+WARNING: Skipping one malformed interaction object. Details:
+3 validation errors for Interaction
+character_2
+  Field required [type=missing, input_value={'character_1': 'Mrs. Har...ode', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+interaction_type
+  Field required [type=missing, input_value={'character_1': 'Mrs. Har...ode', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+evidence_snippet
+  Field required [type=missing, input_value={'character_1': 'Mrs. Har...ode', '': 'character_2'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+--- Invalid Interaction Object ---
+{'character_1': 'Mrs. Harriet Bulstrode', ' ': 'character_2'}
+--------------------
+Chapter 14 Chunks: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [02:11<00:00, 18.80s/it]
+Saved 29 unique interactions for Chapter 14
+
+--- Processing Chapter 15/15 ---
+Chapter 15 Chunks: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 33/33 [12:33<00:00, 22.83s/it]
+Saved 184 unique interactions for Chapter 15
+
+
+--- LLM Extraction Complete ---

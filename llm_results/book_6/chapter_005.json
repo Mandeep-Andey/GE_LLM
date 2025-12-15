@@ -1,0 +1,214 @@
+{
+  "interactions": [
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Camden was the most wonderful"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "spiders, which Miss Winifred"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had something to do with"
+    },
+    {
+      "character_1": "Miss Henrietta Noble",
+      "character_2": "Miss Winifred Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "made many small compassionate"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Miss Noble made many small compassionate mewings"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Fred and Rosamond had little to say"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "he happened to see Ladislaw going away"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "giving up the Church to take to such a business"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had once been set thinking"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "relation between Will and Dorothea"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "imagined that there was"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "imagined that there was"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not quite trust her reticence"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Take care you don\u2019t drop"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know all about it"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There is a powerful magnet"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "To be sure there is"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nobody knows that better than you"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Great God! what do you mean"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t joke; tell me what you mean"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You don\u2019t really know?"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No! he returned, impatiently"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t know that Mr. Casaubon"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How do you know that it is true"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "started up from his chair"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I dare say she likes you"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray don\u2019t say any more"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "So I am"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You ought to be obliged to me"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I expect to hear of the marriage"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Never! You will never hear of the marriage"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put out his hand to Rosamond"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "tease her about expenses"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "ask her father to help them"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "he had ended decisively"
+    }
+  ]
+}

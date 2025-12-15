@@ -1,0 +1,772 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you seen much"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not much"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is he? I am glad"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I hear of that from"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He gives a great deal"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And preparing theories"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Come, Toller, be candid"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am sure you and Wrench"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "looking towards Toller"
+    },
+    {
+      "character_1": "Mr. Harry Toller",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Lydgate has been living"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you and Wrench ought to be obliged to him"
+    },
+    {
+      "character_1": "Mr. Harry Toller",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Lydgate has been living"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the prettiest girl in the town"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the best too"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Standish",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My friend Vincy didn\u2019t half like"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, I shouldn\u2019t think"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "air of excited effort"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "noticed in him an air"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had none of those definite"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he seemed to be talking widely"
+    },
+    {
+      "character_1": "Mr. Standish",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not occur to him"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He may have been taking"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "tic-douloureux perhaps"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "medical worries"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he believed, as the rest did"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she never seemed to see"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate\u2019s marriage was not delightful"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate shrank from a burn"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Rosamond was an amiable"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Henrietta Noble",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Henrietta Noble was in the room"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate fell in love with her"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate was a proud man"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could hardly allow enough"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate shrank from a burn"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Observation",
+      "evidence_snippet": "conversation at Mr. Toller\u2019s"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watch the more eagerly"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "opportunity to indirectly let"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "party at Mr. Vincy\u2019s"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was irresistibly invited"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "party was thoroughly friendly"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "all the ladies of the Farebrother family were present"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the Vincy children all dined"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mary being their particular friend"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Fred had persuaded his mother"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mary came"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Fred was in high spirits"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his enjoyment was of a checkered kind"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "triumph that his mother should see Mary\u2019s importance"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "jealousy when Mr. Farebrother sat down by her"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Fred used to be much more easy"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "this terror was still before him"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Farebrother noticed that Lydgate seemed bored"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Vincy spoke as little as possible"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate seemed bored"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "spoke as little as possible"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "total absence of that interest"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "never looked towards him"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "intensely aware of Lydgate\u2019s voice"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have to give up"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the life of a medical man"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is dreadfully dull"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You know, Mrs. Farebrother"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Rosamond always had an angel"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "make her tell them stories"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh mamma, mamma"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you shall tell me all about it"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Go and listen!"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "if Fred wished her to invite"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Letty Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the delicious tale of Rumpelstiltskin"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "seating himself behind Louisa"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "must hear Rumpelstiltskin"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "must tell it over again"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will never care"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, I shall"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Tell about him now"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "ask Mr. Farebrother to tell"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "ask Mr. Farebrother"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Please, said Louisa"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Louisa Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Shall I preach you a sermon"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, said Louisa"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Against cakes"
+    },
+    {
+      "character_1": "Louisa Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "got down from the Vicar\u2019s knee"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ah, I see it will not do"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watching her son\u2019s movements"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Miss Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is a pity she is not better-looking"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot say that"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I put good manners first"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Miss Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had a prospective reference"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "were still hoping"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "got Mr. Chichely to take"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Observation",
+      "evidence_snippet": "regard her occasional whist"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had just come in"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are the man I was going to look for"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You see, I can leave the whist-table"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I owe that to you, Mrs. Casaubon says"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How?"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ah, you didn\u2019t mean me to know it"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I call that ungenerous reticence"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You should let a man have the pleasure"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "spoke of you to Mrs. Casaubon"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He paid me the compliment"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "leaning his back"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He was very glad"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "praised me up as a Ken"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mrs. Casaubon would hear of no one else"
+    },
+    {
+      "character_1": "Mr. Chichely",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, Brooke is such a leaky-minded fool"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was glad of the leakiness then"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t see why you shouldn\u2019t like me to know"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you certainly have done me one"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s rather a strong check to one\u2019s self-complacency"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A man will not be tempted to say the Lord\u2019s Prayer backward"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have no need to hang"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t see that there\u2019s any money-getting"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ah, there\u2019s enormous patience"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh yes"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh yes, said Lydgate"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "People make much more"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "this was an offer"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he could not bear it"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "so strangely determined"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "after having been long"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the suggestion that"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he should mention his case"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "imply that he wanted"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that he should mention"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "suicide seemed easier"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What time are you?"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "After eleven"
+    }
+  ]
+}

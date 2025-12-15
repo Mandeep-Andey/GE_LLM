@@ -1,0 +1,1120 @@
+{
+  "interactions": [
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "What a late comer you are",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "looked down",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I think I shall turn round on you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "bore himself with the careless politeness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "seeing Rosamond alone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "made some enemies",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "walk by her side",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I suspect you know nothing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Young Plymdale",
+      "character_2": "Mr. Plymdale",
+      "evidence_snippet": "is it Mr. Plymdale\u2019s book",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Wrench",
+      "evidence_snippet": "would rather have remained neutral",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "irresistible woman for the doomed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "men in Middlemarch",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "wrote out his daily notes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "idea of seeing Rosamond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "called himself her captive",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "the very best thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Plymdale",
+      "evidence_snippet": "What! is it Mr. Plymdale\u2019s book",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "young Plymdale",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "embarrassed in their manners",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "her one low cry was to Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "lay not only in need",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Young Plymdale",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I shall begin to admit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "he held it one of the prettiest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "Mrs. Bulstrode\u2019s naive",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "wondering why Lydgate did not come",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "bring her and Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "An eminent philosopher among my friends",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "How do you find Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "never left Fred\u2019s side",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "venturing to look from the portrait to its rival",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "doted on his wife",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "she appealed to him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Miss Morgan",
+      "character_2": "children",
+      "evidence_snippet": "sent away to a farmhouse",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Come down with me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Mrs. S.",
+      "evidence_snippet": "I think the Honorable Mrs. S. is something like you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "On the contrary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Young Plymdale",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I didn\u2019t think about it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "had never enjoyed the days",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "to Stone Court, for example",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "There are a great many",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "missed his visits sadly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "rare compound of beauty",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "blind and unconcerned",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "young Plymdale",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "were Middlemarch gentry",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "were obliged to look at each other",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "satisfied with his own appearance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "looked down, or anywhere",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You are so severe",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "felt this sort of consciousness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "sure of being admired",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "messages by Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "seemed to have the right clothes on",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "He has always been good to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "I have good hope, Mrs. Vincy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I should like to know when",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "insistence she would have taken no rest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "Mrs. Bulstrode\u2019s naive way",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "As usual; going on well, but slowly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "had been stopped by a servant",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "creating that peculiar intimacy",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I want him to go away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "against Mr. Wrench",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "How rash you are",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "you know nothing about Lady Blessington and L. E. L.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "came into the drawing-room",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "conscious of it",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "eyes seemed to have got larger",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "best damask",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "considered himself very fortunate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "Poor fellow!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "his voice took a gentler tone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "pointing to comic verses",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Not if they won\u2019t have me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "dwelling on the ladies",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "visits became cheerful",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "we have looked to Mr. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "she hoped would by-and-by be vacant",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "rid herself adroitly of all the visitors",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "sweet to look at as a half-opened blush-rose",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Mrs. Vincy felt as if",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "paying addresses",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "nourished Rosamond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "men in Middlemarch",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Plymdale",
+      "evidence_snippet": "Do you see that you have given offence",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "you know nothing about Lady Blessington",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "young Plymdale",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "could speak on no subject",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "feeling sure that she",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "walked by her side",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "adroitness in carrying",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "could not do without him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "It would be worth knowing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "was in t\u00eate-\u00e0-t\u00eate",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Poor fellow!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "watchful blue eyes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "much alone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "If I can only see my boy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Mr. Lydgate thought",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I read so much when",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "young Plymdale",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "had not a notion of French",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "advised calling in Dr. Sprague",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "brief impersonal conversations",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "young Plymdale",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "timidly jocose",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he approached her with a distinguishing smile",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond",
+      "evidence_snippet": "Her back is very large",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "I did not say she was as beautiful as you are",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "your mamma seems to have",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "detected in that immodest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "weight of her husband\u2019s invariable seriousness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "made their intercourse lively",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I suspect you know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "unconscious of her costume",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "consciousness at once of filthy rags",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "What are you laughing at so profanely",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "looked at his phials",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "refined amusement of man",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "young Plymdale\u2019s jaw fell",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "took his seat with easy confidence",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "made a change for her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "young Plymdale",
+      "character_2": "Lydgate",
+      "evidence_snippet": "But Sir Walter Scott",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "constant understanding",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "never thought of staying long",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "was at Mr. Vincy\u2019s",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Save my boy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "put her hand on his arm",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "protected her from a passing drove",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "Fred was above them",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred\u2019s illness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "brief impersonal conversations",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "young Plymdale",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I read no literature",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he seemed to her almost perfect",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he never had a hard word for his mother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "old Mr. Featherstone sent",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "led her to the parlor",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "because then I might",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "But Sir Walter Scott",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "old man himself was getting",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "irresistible woman for the doomed man",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Oh, take a bit of jelly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "As usual; going on well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "did you ever see",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "told these messages",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Not if they won\u2019t have me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "led her to the parlor",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I suspect you of being",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "I should like to know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "protected her from a drove",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Mr. Wrench\u2019s mistake",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Mr. Lydgate would say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "must make haste and get",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Lydgate was always listened to",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "You will see Fred so changed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "looking could not be carried through",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he held it one of the prettiest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "delightful interchange of influence",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "How different he was from Mr. Caius Larcher",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "was in t\u00eate-\u00e0-t\u00eate with Rosamond",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "she had a delicious sense",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Young Plymdale",
+      "character_2": "Mr. Plymdale",
+      "evidence_snippet": "I shall begin to admit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "slid gracefully into ease",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "adorned with accomplishments",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Young Plymdale",
+      "character_2": "Lydgate",
+      "evidence_snippet": "went to look at the whist-playing",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Young Plymdale",
+      "character_2": "Mr. Plymdale",
+      "evidence_snippet": "there is a bird who can teach me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "brightness was all bedimmed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Young Plymdale",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Well, there is a bird",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Caius Larcher",
+      "evidence_snippet": "Lydgate was always listened to",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ned Plymdale",
+      "evidence_snippet": "You are so severe",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "senses dulled to the sights and sounds",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "presence of mind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "consciousness at once",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "calling himself her captive",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "took his seat with easy confidence",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "delightful interchange of influence",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "saw her before going",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "took his seat by Rosamond\u2019s side",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "Mr. Ned smiled nervously",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "mamma",
+      "evidence_snippet": "appealed to him as to",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Miss Morgan",
+      "evidence_snippet": "Miss Morgan and the children",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "her thoughts were much occupied with Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "eyes met again",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "they flirted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "Miss Vincy, for example",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "turned towards her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "young Plymdale",
+      "evidence_snippet": "How different he was from young Plymdale",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Young Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "To Rosamond it seemed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Ned Plymdale",
+      "character_2": "Lydgate",
+      "evidence_snippet": "wondering why Lydgate did not come",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "took his seat by Rosamond\u2019s side",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Plymdale",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "had got down from his horse",
+      "interaction_type": "Physical Action"
+    }
+  ]
+}

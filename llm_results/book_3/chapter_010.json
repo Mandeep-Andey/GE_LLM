@@ -1,0 +1,406 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "and the rest\u2014they come every day, I\u2019ll warrant\u2014Solomon and Jane",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "How many of \u2019em are in the house?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Jonah Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "They come peeping",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Missy, look here! take the money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I will not touch your key",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I will not touch your iron chest or your will",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "rattling his bunch of keys",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I will not let the close of your life soil the beginning of mine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "his left hand lying on the heap",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I will call him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "evident alarm lest she and Fred should be alone together",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I made two wills on purpose",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I tell you, I\u2019m in my right mind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I will not touch your keys",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "I shall do as I like",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "touched him and listened",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "still light of the sky fell",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Let me give you some cordial",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I will do anything else I can",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I\u2019ve made two wills",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Jonah Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I\u2019ve made two wills",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You mean of your own relations, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Jonah Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You hearken, missy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Wait till broad daylight",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mr. Jonah Featherstone and young Cranch are sleeping here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I will not touch your key or your money, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Pray put up your money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "sat there alone through the small hours",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Let me call Simmons",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I will not do it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "You come here\u2014you come here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "she saw that the old man was lying",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "had never returned him a harsh word",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Missy, come here!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Oh ay, they stick, do they?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "close observation of old Featherstone\u2019s nature",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "No, sir, I will not",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "You let me alone",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Nobody else",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "trying to grasp his stick",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "propped aside the curtain",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "she could see through the chink",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "lifted the stick",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "retreated to her chair",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I tell you, there\u2019s no time to lose",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "movement of the flame communicating itself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "She sat to-night revolving",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "dropping his keys",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "people were so ridiculous",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he had not snapped",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "relieved the watch in Mr. Featherstone\u2019s room",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Jonah Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Not all of them every day",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "his right hand clasping the keys",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "No, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "waited on him faithfully",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Call the young chap",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I will not touch your money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I cannot help that, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I tell you, you must",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Lawyer? What do I want",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "ran to the bell and rang",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Peter Featherstone",
+      "evidence_snippet": "his face looked strangely motionless",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Take the money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Jonah Featherstone",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Mr. Jonah Featherstone and young Cranch",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Jonah Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "The more fools they",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Take it and do as I tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Nobody shall know",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

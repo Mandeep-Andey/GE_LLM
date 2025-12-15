@@ -1,0 +1,610 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "thinking only of Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "had to hear Mrs. Vincy say",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred was in the pink-skinned stage",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "threatened Wrench",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "inwardly considered him in need",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "neglect her children",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "changed looks and general misery",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "did not care if he never came",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "Oh, nonsense, mother!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he was in the room",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "I will meet Mr. Wrench",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "likely enough to damage himself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "he was very angry",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Don\u2019t say so, Vincy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Lydgate smarted as much as Wrench",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Wrench",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I feel very ill",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Larcher",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Mr. Wrench saved me",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "evidence_snippet": "Why, mother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you must come again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "accused him of poisoning",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Peacock",
+      "evidence_snippet": "in preference to Mr. Peacock",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Larcher",
+      "evidence_snippet": "had not neglected",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "had not said about coming again",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "I\u2019ll tell you what, Wrench",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "bring him forward",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "unprofessional openness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "paraded flighty, foreign notions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "did not take it at all well",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "sprang to the window",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Peacock",
+      "evidence_snippet": "equally a friend",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "what have I ever done",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I should be sorry to think",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "impatient of the foolish expectations",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "But as to Bulstrode",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "thought it very ill usage",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "there is Mr. Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "apologized for Mr. Wrench",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "He threw out biting remarks",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "It was no joke to have fever",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "succeeded in nothing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "turned round at the sound",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Taft",
+      "character_2": "Mrs. Farebrother",
+      "evidence_snippet": "communicated this piece",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "I\u2019m the last man to give in",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Dr. Minchin",
+      "evidence_snippet": "meet Dr. Minchin",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Oh, Mr. Wrench, what have I ever done",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "opened it in an instant",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "would not wear",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "It will worret you to death",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "I shall soon be all right",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Wrench shall know what I think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "spirit quite broke down",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "stopping to speak to some one",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate smarted",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Wrench",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "did not speak of coming again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Taft",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "natural son of Bulstrode\u2019s",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Larcher",
+      "evidence_snippet": "had not neglected Mrs. Larcher\u2019s",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "truckle to anybody",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate paraded flighty",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Wrench",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "slight derangement",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "I feel very ill",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "threw out biting remarks",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "had black and drastic contents",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "out of Fred\u2019s hearing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "I think you must send for Wrench",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "was very angry with Wrench",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "was wonderfully clever",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Everybody must be sent to now",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate should go on now",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "write to Mr. Wrench",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "installed as medical attendant",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Mrs. Vincy\u2019s mind insisted",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "brandy was the best thing against infection",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "decline further attendance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "attended their house",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "I bear nobody ill-will",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Ellen Bulstrode",
+      "evidence_snippet": "cured Ellen Bulstrode",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Pritchard needn\u2019t get up any wine",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mayor",
+      "evidence_snippet": "I\u2019ll tell you what, Wrench",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "she went out",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "effect was not alleviating",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Dr. Sprague",
+      "evidence_snippet": "she would send for Dr. Sprague",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "swallowed his ire",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "supporting her arm",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Mrs. Vincy\u2019s mind insisted",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "started up when he heard Wrench come in",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "However, Wrench shall know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Lucy Vincy",
+      "character_2": "Ellen Bulstrode",
+      "evidence_snippet": "He has cured Ellen Bulstrode",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I will meet Mr. Wrench",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Wrench did not take it at all well",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "in point of fact",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "not to come to dinner on Thursday",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "I must have taken cold",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate was as polite",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "this form of fever",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "he\u2019d better have let me die",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "would not have wished",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "I should not be surprised",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "sent the usual white parcels",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "He\u2019s an uncommonly unfortunate lad",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Wrench",
+      "evidence_snippet": "threw himself on the sofa",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Wrench",
+      "evidence_snippet": "Mr. Wrench had said",
+      "interaction_type": "Observation"
+    }
+  ]
+}

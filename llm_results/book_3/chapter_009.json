@@ -1,0 +1,934 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "standing between Mrs. Waule and Solomon",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "Well, Mr. Trumbull, you\u2019re highly favored",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Solomon",
+      "evidence_snippet": "standing between Mrs. Waule",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Shall my mother and I leave",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "I shall be happy to lend",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Brother Solomon",
+      "evidence_snippet": "Featherstone blood",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "put his hand before her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "did not want to sit with Solomon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Solomon",
+      "evidence_snippet": "His first wife was a poor",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "walked to Miss Garth\u2019s work-table",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Jane",
+      "character_2": "Mr. Trumbull",
+      "evidence_snippet": "from the way Mr. Trumbull talks",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "Do you mean to say for certain",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Mary",
+      "evidence_snippet": "observed her when she",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "young Cranch",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "to give his uncle company",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "never been unnatural",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "But you can\u2019t take your own time to die in",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "had been named as a Bearer",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Jonah",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "what that led to might",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "young Cranch",
+      "character_2": "Mr. Jonah Featherstone",
+      "evidence_snippet": "follow her with his cold detective eyes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "always received",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "You will not get any writer to beat him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "I could sit up with you to-night",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "second cousin to Peter Featherstone",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "You are a reader",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "standing between Mrs. Waule",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "Solomon and Jane would",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Peter had done nothing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "he might have money",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "standing with his back to the fire",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "You have an interesting work there",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "Peter\u2019s maxim",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "total abstinence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "I pity them who are not such",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "no shadow of such claims",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Fred and his mother should not leave him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Jonah Featherstone",
+      "character_2": "Tom",
+      "evidence_snippet": "Why, Tom, you don\u2019t wear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "Oh, Mr. Trumbull, you never",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "he would remember them",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "I have bought one of his works",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Old Featherstone",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "Back, Mrs. Waule!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "While Mrs. Waule was speaking",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "shut his eyes with his mouth-widening grimace",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "Some don\u2019t like so much sugar",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "second cousin to Peter Featherstone",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "from Jupiter to Judy",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "every form is there",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Jonah Featherstone",
+      "evidence_snippet": "gave way to laughter",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "I shall be down-stairs",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Solomon",
+      "evidence_snippet": "A man might as well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "you and me are not fine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "Ah, there it is, you see, there it is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "Ah, you see he has relied on me considerably",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "different point of view",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "superior claims",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Jane",
+      "character_2": "Mr. Trumbull",
+      "evidence_snippet": "Anybody would think so",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Martha",
+      "evidence_snippet": "Martha said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Solomon",
+      "evidence_snippet": "concerning whom he had",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Jonah Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you don\u2019t wear such gentlemanly trousers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Solomon",
+      "evidence_snippet": "let me ring the bell",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "Might anybody ask what their brother has been saying",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Solomon",
+      "character_2": "Mary",
+      "evidence_snippet": "pointing with his head",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "observing the cunning Mary Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "everybody must watch everybody else",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "polite attentions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "young Cranch",
+      "evidence_snippet": "converse with young Cranch",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "carrying their messages",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Mr. Featherstone\u2019s insistent demand",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "had her share of compliments",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "turned her narrow eyes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "advised him to the best of his experience",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "I have just been reading a portion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "What! seeing the old man?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "money was a good egg",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "no argument",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "giving occasional dry wrinkly indications",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "I don\u2019t mind if I have",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "read the title aloud",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "patrolling with his fore-finger",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Almighty",
+      "evidence_snippet": "the Almighty was watching him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Solomon",
+      "evidence_snippet": "both in black\u2014Mrs. Waule",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "named as a Bearer",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "Good-by, Solomon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "sent her down with the still more unpleasant task",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "pull his wig on each side",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "were rich",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Jonah",
+      "evidence_snippet": "watch lest his uncle Jonah",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "Oh, sister",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "Good-by, Brother Peter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "other guests",
+      "evidence_snippet": "Such conversation paused",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "kept away Sister Martha",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "It\u2019s nothing but right",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Jonah",
+      "evidence_snippet": "Jonah argued",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "he would remember them",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "It\u2019s not necessary for you to go out",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Jonah Featherstone",
+      "character_2": "Tom",
+      "evidence_snippet": "winking at the same time",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Solomon",
+      "evidence_snippet": "watching Mr. Trumbull\u2019s movements",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "I am a great bookman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "useful in matters of business",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "describing the kitchen scene",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Solomon",
+      "evidence_snippet": "observed to his sister",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "You have an interesting work",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Jonah",
+      "evidence_snippet": "converse with Mr. Jonah",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Jane Waule",
+      "character_2": "feminine visitors",
+      "evidence_snippet": "in conversation with Mrs. Waule",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "old man\u2019s blood-relations",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "old Mr. Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "seeing old Mr. Featherstone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "coming into the parlor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Jonah",
+      "evidence_snippet": "converse with Mr. Jonah",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "not allowed to go into Mr. Featherstone\u2019s room",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Old Featherstone",
+      "character_2": "Solomon",
+      "evidence_snippet": "Back, Solomon!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Brother Jonah",
+      "evidence_snippet": "Brother Jonah, I say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "Probabilities are as various",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Old Featherstone",
+      "evidence_snippet": "I shan\u2019t think of any of you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "look with creative inclination",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "in a soft tone of humility",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Old Featherstone",
+      "evidence_snippet": "you can\u2019t take your own time to die in",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "banish from his house",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Jonah",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "what that led to might",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "Brother Peter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "and frowned meditatively",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "family candor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "Featherstone blood",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "I shall be down-stairs",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "treated by him with more amenity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "There\u2019s things you might repent of",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "had behaved like as good a soul",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Solomon",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "I should say my brother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "laid in a warm nest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "treated by him with more amenity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Solomon",
+      "evidence_snippet": "What, Blue-Coat land?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Waule",
+      "evidence_snippet": "watching Mr. Trumbull\u2019s movements",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Brother Solomon",
+      "evidence_snippet": "old man\u2019s blood-relations",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "since Peter had done nothing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "expect to keep open house",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mrs. Jane Waule",
+      "evidence_snippet": "Good-by, Mrs. Waule",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "Here he pressed his lips together",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "asked them in good provincial fashion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Jonah Featherstone",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "followed her with cold eyes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "I have no less than two hundred volumes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "Yes, I shall take my own time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "It is by the author of 'Waverley'",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "he informed Mary Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "young Cranch",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "she should remark how he was squinting",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Solomon Featherstone",
+      "evidence_snippet": "Then he knows more than I want to know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "after having had the exceptional privilege",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Solomon",
+      "evidence_snippet": "standing between Mrs. Waule and Solomon",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "my poor brother would always have sugar",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "young Cranch",
+      "evidence_snippet": "converse with young Cranch",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Especially from Mr. Borthrop Trumbull",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "opened a book which lay there",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary",
+      "character_2": "Mr. Borthrop Trumbull",
+      "evidence_snippet": "I am much obliged",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mr. Solomon",
+      "evidence_snippet": "You may depend",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Brother Solomon",
+      "character_2": "Sister Jane",
+      "evidence_snippet": "kept away Brother Jonah",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "walked to Miss Garth\u2019s work-table",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mary",
+      "evidence_snippet": "she brought him nothing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Miss Garth",
+      "evidence_snippet": "read the title aloud",
+      "interaction_type": "Observation"
+    }
+  ]
+}

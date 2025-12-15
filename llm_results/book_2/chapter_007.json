@@ -1,0 +1,460 @@
+{
+  "interactions": [
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "walked with him through",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she was gradually ceasing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "driven about at first with Mr. Casaubon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the sense of disagreement is",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "to claim justice",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Ladislaw",
+      "evidence_snippet": "had to await Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "The notes I have here made",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Both were shocked",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "caressed his shoe-latchet",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he would have given her the same sort",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "And it were well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "obliged him to much consideration",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "And all your notes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "Mrs. Casaubon",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "to have reversed a previous arrangement",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I am very glad",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I hope you are thoroughly satisfied",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had often dwelt",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "driven to be more particular",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "kissed Mr. Casaubon\u2019s coat-sleeve",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "These characteristics, fixed and unchangeable",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon was certain to remain away",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "saw her in that brooding",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "evidence_snippet": "chiefly with Tantripp",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "her wifely relation",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Should you like to go to the Farnesina",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I hope when we get to Lowick",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "My judgment was a very superficial",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "But do you care about them?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "My love, you may rely",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "reverent resolve",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "rose to leave the table",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "had he only given it a more substantial presence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had first seen her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I never heard you speak of the writing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "capable of agitating him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she had been becoming",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "new pain",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "more of a subjection",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have been led farther",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "not appear altogether the same",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "changing with the secret motion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "My dear Dorothea",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I am ready to stay if you wish it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she had been troublesome",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "had been at home",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he forgot the absence of windows",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "force of her nature",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "disclosed as something better",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "You showed me the rows",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "conversation difficult",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ladislaw",
+      "character_2": "Naumann",
+      "evidence_snippet": "had walked on finishing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she had listened",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Poor Mr. Casaubon himself was lost",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ladislaw",
+      "character_2": "Naumann",
+      "evidence_snippet": "parted, Ladislaw lingering",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Neither of them felt it possible",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "hand a glass of water without looking",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "to give tenderness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the clash would have been less embarrassing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "parted with him at the entrance",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "you may rely upon me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Does this interest you, Dorothea?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "drove with Mr. Casaubon",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "light had changed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "called courtship",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea was anxious to follow",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he would have listened with the delight",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It had been easy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he had become indifferent to the sunlight",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he would have held her hands between his",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "we must now think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "But I never heard",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "changing all prospects",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Mr. Casaubon showed a tenacity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "recover it",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference"
+    }
+  ]
+}

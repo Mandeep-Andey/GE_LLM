@@ -1,0 +1,982 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Farebrother read himself"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "read himself into the quaint little church"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had bought"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he might gradually enlarge"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should enter on it"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had not allowed his parent"
+    },
+    {
+      "character_1": "Joshua Rigg Featherstone",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had not allowed his parent"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Joshua Rigg Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "interpreting it as a cheering dispensation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Joshua Rigg Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "offering up his thanksgiving"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "induction to the living clearly was"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Farebrother\u2019s induction"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Joshua Rigg Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Joshua Rigg\u2019s destiny"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Peter Featherstone"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Solomon Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the tables were now turned"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Peter Featherstone",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "make false Featherstones"
+    },
+    {
+      "character_1": "Sister Martha",
+      "character_2": "Peter Featherstone",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "cut off the genuine"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "affectionate Mrs. Bulstrode"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "riding thither and looking"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "give an opinion"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "advising the bailiff"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was conscious of being"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sense of demerit does not take"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "depth of our sinning"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "memory has as many moods"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sunshine were all one with"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "texts were there still"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he exclaimed\u2014"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked along the lane"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "By Jove, Nick, it\u2019s you!"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Come, shake us by the hand"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did not indeed expect"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019m not so surprised"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t care about seeing"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "adjusting himself in a swaggering attitude"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he\u2019s not affectionate"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his poor mother\u2019s gone now"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I came out of love to you"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was peculiar"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he preferred not to know it"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was more embarrassed"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish you good evening"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You didn\u2019t put your full address"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That was not like the first-rate man"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The old lady must have been dead"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But, by Jove! you\u2019re very pale"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you\u2019re very pale and pasty, Nick"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was going home"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Thank you"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t care now"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019d rather go home with you"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well then, I\u2019ve no objection"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What I like is a smart vehicle"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What a pleasant surprise"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If I remember rightly"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "our acquaintance many years ago"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Any services you desire of me"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will avoid a tone of familiarity"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "can hardly be warranted by more than twenty years"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "my feelings have ripened for you"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Josh",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "my feelings have ripened"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Josh",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "filled my flask well"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your habits and mine"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we can hardly enjoy"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the wisest plan"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will invite you"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will ride over"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can receive"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "With all my heart"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "this is a comfortable place"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can put up with it"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the prospect of seeing"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Josh",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "owed me a bit of a grudge"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will invite you to remain"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019re a much better host"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "get rid of John Raffles"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "reappearance could not be regarded"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "threaten Mr. Bulstrode\u2019s subversion"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "threat must have been permitted"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "chastisement of a new kind"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "struggle had been securely private"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "secret misdeeds were pardoned"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "services accepted"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "misdeeds even when committed"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "work within him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode\u2019s mind"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the life-long habit of Mr. Bulstrode\u2019s mind"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the forecast of disgrace"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "awaited the descent of Mr. Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "were seated together"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It was not long before they were seated"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be obliged if you will mention"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I presume that you have a home"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, if a man has got any heart"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must call you Nick"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We always did call you young Nick"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Aren\u2019t you glad to see me again"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "May I ask why you returned"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Never knew that a wish"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019m not going again, Nick"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "winked slowly"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That could be supplied"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That must be as it suits"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I see no reason"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you intend to rely on me"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ah, to be sure"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve often thought since"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I might have done better"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it would have suited my feelings"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve got a soft place in my heart"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But you\u2019ve buried the old lady"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And you\u2019ve got your fortune"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ve taken to being a nob"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Still in the Dissenting line"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Or taken to the Church as more genteel"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "slow wink and slight protrusion of his tongue"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "slow wink and slight protrusion"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "felt a shuddering nausea"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not speak"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shrank from the direct falsehood"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve not had such fine luck as you, by Jove!"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Things went confoundedly with me in New York"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I married when I came back"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She had been settled there a good many years"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Josh and I never hit it off"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I made the most of the position"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve always taken my glass in good company"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s been all on the square with me"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You won\u2019t take it ill of me"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thought you were trading and praying away in London still"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you see I was sent to you"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "no man felt his intellect"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had his share"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will do well"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am willing to supply"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall decline to know you"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your allusions are lost on me sir"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the law has no hold on me"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I only meant that I should never decline to know you"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your quarterly payment won\u2019t quite suit me"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rose and stalked once or twice up and down the room"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll tell you what!"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, I have one hundred"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, I\u2019ll wait here till you bring it"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, I\u2019ll wait here"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll take a stroll"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did have another look"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I didn\u2019t find her"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I made a note of it"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I lost my pocketbook"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019d like to do something"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that might reduce my power"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Raffles winked slowly"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watch the banker riding"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But what the deuce was the name"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "invention of annoyances for Bulstrode"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "gathered as much as he wanted to know about Mr. Bulstrode\u2019s position"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "gathered as much as he wanted"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode\u2019s position"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Ladislaw!"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not going to tell Bulstrode"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "to a mind like that of Mr. Raffles"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the black spot might reappear"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the black spot might become inseparable"
+    }
+  ]
+}

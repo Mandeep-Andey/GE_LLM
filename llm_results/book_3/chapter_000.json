@@ -1,0 +1,1270 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "turned sideways in his saddle",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "had to work for her bread",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "look sulky",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "bully one about expenses",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "pushed his spectacles upward",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "twitched his own bridle",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "I never heard but one worse roarer",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "I say his trot is an uncommonly clean one",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you never threw your leg",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "awe of her opinion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "he used to drive him in his gig",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "showed a deepened depression",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only the tendency to that diffusive form of gambling which has no alcoholic intensity, but is carried on with the healthiest chyle-fed blood, keeping up a joyous imaginative activity which fashions events according to desire, and having no fears about its own weather, only sees the advantage there must be to others in going aboard with it",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "pushed the paper a little way from him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "you gave him for this brute",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "effect of a subdued unchangeable sceptical smile",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "stress of circumstances",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "attraction towards Bambridge and Horrock",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "distinguished figure in the bar",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he had to blame any one",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "it is virtually our own judgment",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "know how to draw",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "had got possession of the dappled gray",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "Bambridge and Horrock",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only the tendency to that diffusive form of gambling which has no alcoholic intensity, but is carried on with the healthiest chyle-fed blood, keeping up a joyous imaginative activity which fashions events according to desire, and having no fears about its own weather",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "condescending terms",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only the tendency to that diffusive form of gambling which has no alcoholic intensity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "Thank you, Peg, I don\u2019t deal in wind-instruments",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "too definite expectation",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "being implicitly convinced",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "accumulation of college debts",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "not Mr. Bambridge\u2019s weakness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "had renewed this bill",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "going to their house",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "Costume, at a glance, gave him a thrilling association",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "passionate asseveration",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "company was much sought",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "He would ride to Houndsley",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "did not tell his friends",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "had the highest opinion of Fred",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Mrs. Garth remained ignorant",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "proportionate disappointment",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "he regarded horse-dealing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Rosamond\u2019s fibs",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "mamma",
+      "evidence_snippet": "mamma had those",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "had a debt on his mind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "old gentleman\u2019s pride in him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Fred liked play, especially billiards, as he liked hunting or riding a steeple-chase",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "drew down his spectacles",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "mamma",
+      "evidence_snippet": "had those running accounts",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "the poorest and the kindest",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "Why, you said just now his was worse than mine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "he did not want to be a clergyman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "impressed with its merit",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "distrust was your only clew",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "life would come to a standstill",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "The hunter was in a friend\u2019s stable",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "mamma",
+      "evidence_snippet": "see his mother cry",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only the tendency to that diffusive form of gambling which has no alcoholic intensity, but is carried on with the healthiest chyle-fed blood, keeping up a joyous imaginative activity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "at the price of his old horse",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "pursuit of these things was gay",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "his wife",
+      "evidence_snippet": "Vincys were on condescending terms",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only the tendency",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "dukes",
+      "evidence_snippet": "could not any more than dukes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had not that specific disease",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "he himself would have",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "had made his father the agent",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "the longer he thought",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "not being aware",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "had required something",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only the tendency to that diffusive form of gambling which has no alcoholic intensity, but is carried on with the healthiest chyle-fed blood, keeping up a joyous imaginative activity which fashions events according to desire",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "went with his request",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Fred liked play, especially billiards",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "every one who looked",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "had taken the wise step",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "had not given them to Mr. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "look sulky instead of having fun",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "would rather not 'go on with that'",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "he felt sure that if he did not come to a bargain with the farmer, Bambridge would",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mary",
+      "evidence_snippet": "increasing ardor of his affection",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred",
+      "evidence_snippet": "alarm lest Fred should engage",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "parted with his new horse",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "had been a teacher",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "kept twenty pounds in his own pocket",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "converted into something more positive",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "number of miles they would trot",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "face which by dint of Mongolian eyes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "he goes on like twenty sawyers",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "drew down his spectacles",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "his father\u2019s pocket",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "scepticism can never be thoroughly applied",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Fred\u2019s sky",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "He would ride to Houndsley",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "might yield more than threefold",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "not be a spoon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "the friend whom he chose",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "riding out of Middlemarch",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "called him a vicious man",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "visits to Mrs. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "watered by luck",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "Fred checked off all his friends",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "felt a little worried",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "reputation of an invincible understanding",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only the tendency to that diffusive form of gambling which has no alcoholic intensity, but is carried on with the healthiest chyle-fed blood",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "that was a roan",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "a slight infusion of Mr. Bambridge",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "and thirty pounds in addition",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "he wanted me to take him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "cut from an umbrella",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Mr. Vincy himself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Mr. Vincy\u2019s own habits",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Vincys",
+      "evidence_snippet": "Vincys were on condescending terms",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "was sometimes spoken of",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Bambridge",
+      "evidence_snippet": "Bambridge and Horrock",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "his father\u2019s pocket",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "thrash Horrock\u2019s opinion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "he had seen worse horses",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "test a man\u2019s admissions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "nice distinctions of rank",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "conscious of an inherent",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "has no numerals at command",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "his assignees",
+      "evidence_snippet": "conducted that business for the benefit",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "kept his affection",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "You\u2019ll be wiser another time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "men whose names",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "dread of breaking his word",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "he had seen worse horses",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "regarded horse-dealing as the finest of the arts",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "total debt was a hundred",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "uncle Featherstone\u2019s present",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "let it out in the course",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "old manufacturers could",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "It was a misfortune, eh",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "regard this as a reasonable demand",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you might trust him for anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "appeared to give forth his ideas",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "critical judgment which, if you could ever be fortunate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "run down Diamond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "never been at her ease",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "mamma",
+      "evidence_snippet": "see his mother cry",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "set out alone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "look glum under scolding",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "had been accommodating",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only the tendency to that diffusive form of gambling",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "he knew some anecdotes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "breaking his word to Mr. Garth",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "sharpening his acuteness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "contradicted himself twenty times",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "planted by judgment",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Not but what the roan was a better trotter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "looked into his favorite\u2019s clear young eyes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "apparent fondness for him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "even before the fair had well set in",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "meant to make the sum complete",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he and Rosamond were little",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "lifted up his spectacles again",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "intercourse between them",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "failure in passing examination",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "had gone to his father",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Fred liked play, especially billiards, as he liked hunting or riding a steeple-chase; and he only liked it the better because he wanted money and hoped to win",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "unpardonable by his father",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "had left another untold",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "a reasonable demand",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "he himself would have",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "deficit temporarily thrown",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "only five pounds more than he had expected",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "horse being a friend\u2019s",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "felt sure that if",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "part thus played in dialogue",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "deficit thrown on Mr. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You\u2019ll be wiser another time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "watched the horse\u2019s action",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "blood asserted its pre-eminence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "more open manners",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "something we must believe in and do",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "usually pessimists",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "had renewed this bill with",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "retain the advantage",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "wished to get indirectly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "society of Messieurs Bambridge and Horrock",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "It was a misfortune, eh",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You made a bad hand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I said a lie, then",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "if he had anything more",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "apparent unfathomableness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "clever tricks of Marquesses",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "had more open manners",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "creditor was Mr. Bambridge",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "entered into conversation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "uncle Featherstone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "I said a lie, then",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "the friend\u2019s stable had to be reached",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "flourished like the green bay-tree",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "you never threw your leg",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "making her his wife",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "old manufacturers",
+      "evidence_snippet": "could not any more than dukes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "the field is a young gentleman\u2019s infinite soul",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "a very poor rate of multiplication",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "handed it to Fred",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "color come and go",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "unprecedented storm at home",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Lucy Vincy",
+      "evidence_snippet": "get the eighty pounds",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "remained silent with a profile",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "constructive power of suspicion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "defined with great nicety",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "reckon his own judgment",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "awe of her opinion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Pegwell",
+      "evidence_snippet": "Thank you, Peg, I don\u2019t deal",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "evidence_snippet": "solemnly swearing that they never saw",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "acquainted with Mr. Bambridge",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "evidence_snippet": "riding out of Middlemarch",
+      "interaction_type": "Physical Action"
+    }
+  ]
+}

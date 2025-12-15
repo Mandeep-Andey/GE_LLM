@@ -1,0 +1,430 @@
+{
+  "interactions": [
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish to God we could hinder Dorothea"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That would be difficult, you know"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She is an executrix"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She likes to go into these things"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She has her notions"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She would like to act"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She was twenty-one last December"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will tell you what we can do"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you must get rid of Ladislaw"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you must send him out of the country"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is easily said, Chettam"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it was you who brought him here"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t dismiss him in an instant"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw has been invaluable"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I consider that I have done"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s a pity this part of the country didn\u2019t do without him"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "as Dorothea\u2019s brother-in-law"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You admit, I hope"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you and I have different ideas"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not about this action of Casaubon\u2019s"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I say that he has most unfairly compromised Dorothea"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I say that there never was a meaner, more ungentlemanly action than this"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a codicil of this sort to a will"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a positive insult to Dorothea"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, you know, Casaubon was a little twisted about Ladislaw"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a positive insult to Dorothea"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Casaubon was a little twisted"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw didn\u2019t think much"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s all very well for Ladislaw"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Casaubon was only jealous of him"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My dear Chettam, it won\u2019t lead"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "This paper, now, \u2018Synoptical Tabulation\u2019"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My dear sir, that is neither"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My dear sir"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "whether you don\u2019t see"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "sending him away won\u2019t hinder"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I might get rid of Ladislaw"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw has his ideas"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I might get rid of Ladislaw"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw has his ideas"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "let us get him a post"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "let us spend money on him"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If he could go in the suite"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Grampus might take him"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I could write to Fulke"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw won\u2019t be shipped off"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ladislaw has his ideas"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you\u2019d only hear the more of him"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "few men could come up to him"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Agitator!"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she had better go to Celia"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she can stay under your roof"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "things may come round quietly"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t let us be firing off our guns"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Standish will keep our counsel"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Casaubon was not"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am glad to hear it"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It would have been worse"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Casaubon\u2019s freaks"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She doesn\u2019t want"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t believe anything of the sort about Dorothea"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suspect Ladislaw"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I couldn\u2019t take any immediate action on that ground"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we distrusted her"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it would look all the worse for Dorothea"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think Dorothea was sacrificed"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Dorothea was sacrificed"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall do what I can"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "get her to Freshitt"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I approve that plan"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I approve that plan altogether"
+    }
+  ]
+}

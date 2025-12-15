@@ -1,0 +1,131 @@
+--- Character Network Analysis Report ---
+
+Total Characters (Nodes): 47
+Total Unique Relationships (Edges): 121
+
+--- Top 10 Relationships by Interaction Count ---
+  86    | Caleb Garth -- Mr. Arthur Brooke
+  86    | Mary Garth -- Mr. Peter Featherstone
+  84    | Fred Vincy -- Mary Garth
+  72    | Dorothea Brooke -- Reverend Edward Casaubon
+  62    | Caleb Garth -- Fred Vincy
+  46    | Captain Lydgate -- Rosamond Vincy
+  41    | Fred Vincy -- Mrs. Susan Garth
+  40    | Fred Vincy -- Mr. Bambridge
+  35    | Rosamond Vincy -- Tertius Lydgate
+  32    | Mrs. Jane Waule -- Solomon Featherstone
+
+--- Top 10 Characters by Degree Centrality ---
+  Fred Vincy                     | Score: 0.3261
+  Mrs. Lucy Vincy                | Score: 0.3261
+  Rosamond Vincy                 | Score: 0.3261
+  Mr. Peter Featherstone         | Score: 0.3043
+  Tertius Lydgate                | Score: 0.2826
+  Mary Garth                     | Score: 0.2609
+  Mr. Arthur Brooke              | Score: 0.2391
+  Mr. Wrench                     | Score: 0.1957
+  Dorothea Brooke                | Score: 0.1957
+  Mrs. Susan Garth               | Score: 0.1739
+
+--- Top 10 Characters by Betweenness Centrality ---
+  Mrs. Lucy Vincy                | Score: 0.5677
+  Captain Lydgate                | Score: 0.4240
+  Rosamond Vincy                 | Score: 0.3176
+  Reverend Edward Casaubon       | Score: 0.2434
+  Fred Vincy                     | Score: 0.2050
+  Celia Brooke                   | Score: 0.1981
+  Ellen Bulstrode                | Score: 0.1905
+  Tertius Lydgate                | Score: 0.1867
+  Dr. Sprague                    | Score: 0.1857
+  Reverend Camden Farebrother    | Score: 0.1625
+
+--- Top 10 Characters by Eigenvector Centrality ---
+  Fred Vincy                     | Score: 0.5195
+  Mary Garth                     | Score: 0.4815
+  Caleb Garth                    | Score: 0.4243
+  Mr. Arthur Brooke              | Score: 0.3620
+  Mr. Peter Featherstone         | Score: 0.2791
+  Mrs. Susan Garth               | Score: 0.2286
+  Mr. Bambridge                  | Score: 0.1164
+  Mr. Walter Vincy               | Score: 0.0863
+  Mr. Horrock                    | Score: 0.0790
+  Mrs. Lucy Vincy                | Score: 0.0693
+
+
+--- Top 5 Most Important Characters by Chapter ---
+
+Chapter 1:
+  1. Fred Vincy                     (Score: 1.0000)
+  2. Caleb Garth                    (Score: 0.4000)
+  3. Mrs. Lucy Vincy                (Score: 0.3000)
+  4. Mrs. Susan Garth               (Score: 0.3000)
+  5. Mr. Walter Vincy               (Score: 0.3000)
+
+Chapter 2:
+  1. Mrs. Susan Garth               (Score: 0.8750)
+  2. Fred Vincy                     (Score: 0.8750)
+  3. Caleb Garth                    (Score: 0.7500)
+  4. Mr. Arthur Brooke              (Score: 0.3750)
+  5. Ben Garth                      (Score: 0.3750)
+
+Chapter 3:
+  1. Mary Garth                     (Score: 1.0000)
+  2. Mr. Peter Featherstone         (Score: 0.8000)
+  3. Fred Vincy                     (Score: 0.6000)
+  4. Mr. Arthur Brooke              (Score: 0.6000)
+  5. Caleb Garth                    (Score: 0.4000)
+
+Chapter 4:
+  1. Mrs. Lucy Vincy                (Score: 0.6923)
+  2. Mr. Wrench                     (Score: 0.6154)
+  3. Tertius Lydgate                (Score: 0.4615)
+  4. Rosamond Vincy                 (Score: 0.4615)
+  5. Fred Vincy                     (Score: 0.3846)
+
+Chapter 5:
+  1. Rosamond Vincy                 (Score: 0.8125)
+  2. Tertius Lydgate                (Score: 0.4375)
+  3. Mr. Walter Vincy               (Score: 0.3125)
+  4. Mr. Ned Plymdale               (Score: 0.2500)
+  5. Mrs. Lucy Vincy                (Score: 0.2500)
+
+Chapter 6:
+  1. Dorothea Brooke                (Score: 0.8750)
+  2. Celia Brooke                   (Score: 0.6250)
+  3. Mr. Arthur Brooke              (Score: 0.3750)
+  4. Mrs. Elinor Cadwallader        (Score: 0.2500)
+  5. Reverend Edward Casaubon       (Score: 0.2500)
+
+Chapter 7:
+  1. Dorothea Brooke                (Score: 1.0000)
+  2. Reverend Edward Casaubon       (Score: 0.6667)
+  3. Sir James Chettam              (Score: 0.6667)
+  4. Celia Brooke                   (Score: 0.5000)
+  5. Mr. Arthur Brooke              (Score: 0.5000)
+
+Chapter 8:
+  1. Mr. Arthur Brooke              (Score: 1.0000)
+  2. Reverend Edward Casaubon       (Score: 0.8000)
+  3. Dorothea Brooke                (Score: 0.8000)
+  4. Tertius Lydgate                (Score: 0.6000)
+  5. Will Ladislaw                  (Score: 0.6000)
+
+Chapter 9:
+  1. Rosamond Vincy                 (Score: 0.5455)
+  2. Mrs. Harriet Bulstrode         (Score: 0.4545)
+  3. Mr. Walter Vincy               (Score: 0.4545)
+  4. Captain Lydgate                (Score: 0.3636)
+  5. Mr. Peter Featherstone         (Score: 0.2727)
+
+Chapter 10:
+  1. Mr. Peter Featherstone         (Score: 1.0000)
+  2. Mary Garth                     (Score: 0.8889)
+  3. Mrs. Jane Waule                (Score: 0.6667)
+  4. Solomon Featherstone           (Score: 0.6667)
+  5. Mr. Borthrop Trumbull          (Score: 0.5556)
+
+Chapter 11:
+  1. Mary Garth                     (Score: 0.6667)
+  2. Mr. Peter Featherstone         (Score: 0.6667)
+  3. Mrs. Lucy Vincy                (Score: 0.3333)
+  4. Fred Vincy                     (Score: 0.3333)

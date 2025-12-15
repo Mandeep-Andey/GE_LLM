@@ -1,0 +1,868 @@
+{
+  "interactions": [
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Things will grow"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "public temper will soon"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "another election before long"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Quite right, Ladislaw"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I want to keep myself independent"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I want to take up Wilberforce\u2019s and Romilly\u2019s line"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should support Grey"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you go in for the principle of Reform"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the whole question would go to tatters"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I agree with you\u2014I quite take that point of view"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should put it in that light"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But that is what the country wants"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Write that down"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a two-inch card will hold plenty"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Will"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Good: draw that out a little more"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Put the figures and deduce the misery"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have a way of putting things"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019d never get elected"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We shall always want talent"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That avalanche and the thunder"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pocket-boroughs would be a fine thing"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "if they were always in the right pocket"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there were always a Burke at hand"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he was beginning thoroughly to like the work"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "where Dorothea was"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the needs of the English people"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "criticising English statesmanship"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the wants of knowing what else to do"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rambling in Italy"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sketching plans for several dramas"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "trying prose and finding it too jejune"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "trying verse and finding it too artificial"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "beginning to copy \u201cbits\u201d from old pictures"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "leaving off because they were \u201cno good\u201d"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "self-culture was the principal point"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sympathizing warmly with liberty and progress in general"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Shift the pegs a little"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "new distance between himself and Dorothea"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "new distance between himself and Dorothea"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Brooke has taken him up"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Casaubon has devilish good reasons"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon would have nothing to do with him"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "turning the cold shoulder"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "preternatural quickness"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Keck",
+      "interaction_type": "Observation",
+      "evidence_snippet": "appeared to support"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not only a Polish emissary"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "crack-brained"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "facility which cast"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Keck",
+      "interaction_type": "Observation",
+      "evidence_snippet": "appeared to support Mr. Keck"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Ladislaw, if the truth were known"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "crack-brained, which accounted"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "preternatural quickness and glibness"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "speaking with a facility which"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "cast reflections on solid Englishmen"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "speech at a Reform meeting"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "violence of an energumen\u2014a miserable"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "brilliance of fireworks the daring"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "poverty of a knowledge which"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Keck",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That was a rattling article"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Keck",
+      "interaction_type": "Observation",
+      "evidence_snippet": "It was disgusting to Keck"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Dr. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But what is an energumen"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Dr. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, a term that came up"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He had a fondness"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "little hatless boys",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "led out on gypsy excursions"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "little hatless boys",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "gathered sticks for a bonfire"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "little hatless boys",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "improvised a Punch-and-Judy drama"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "little girls",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "tossed their hair out of their eyes"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he got friendly"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was given to stretch"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was apt to be discovered"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "such an irregularity"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "dangerously mixed blood"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "general laxity"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "articles and speeches"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "new strictness"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "marked off on the side"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Reform"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "invited to Mr. Bulstrode\u2019s"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could not lie down"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mode of talking"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Catholic countries"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "truce with Antichrist"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "usual tendency"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "unsoundness"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "intellectual men"
+    },
+    {
+      "character_1": "Mr. Keck",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Bulstrode felt"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "little Miss Noble",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "escort when he met"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "little Miss Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "insisting on going"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could not lie down"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "whom the irony of events"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "whom the irony of events"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the house where he visited"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate...assailed Will"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he pouted and was wayward"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was gradually becoming necessary"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "confirmed her dislike of the medical profession"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "assailed Will with troublesome questions"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydge",
+      "interaction_type": "Observation",
+      "evidence_snippet": "noticing he was perturbed"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "noticing he was perturbed"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s no use your puffing"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No matter; those who read"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Farebrother says, he doesn\u2019t believe"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why? said Lydgate"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "They represent the local stupidity"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Brooke is not a bad fellow"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He\u2019s not fitted to be a public man"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He\u2019s not fitted to be a public man"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode holds the reins"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he would disappoint everybody"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He\u2019s good enough for the occasion"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is the way with you political writers"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Men may help to cure themselves"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Men may help to cure"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is no excuse"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You go against rottenness"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Look what Stanley said"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Wait for wisdom and conscience"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That general talk"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am not begging"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Should you go on"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "should you inquire which had the better motives"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he has the sense and the resolution"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you mean that I cry up Brooke"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you mean that I cry up Brooke"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was simply explaining my own action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Then, why don\u2019t you extend your liberality to others"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My personal independence is as important to me as yours is to you"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have no more reason to imagine that I have personal expectations from Brooke"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have no more reason"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have personal expectations"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think it is pretty clear"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You quite mistake me"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should rather attribute"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How very unpleasant"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You can both of you go on quarrelling"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "putting out his hand to her"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have some music. Ask Ladislaw to sing"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What put you out of temper"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You hurt me very much"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do I? Then I am a brute"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "caressing her penitently"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What vexed you?"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, outdoor things\u2014business"
+    }
+  ]
+}

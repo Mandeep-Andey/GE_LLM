@@ -1,0 +1,1108 @@
+{
+  "interactions": [
+    {
+      "character_1": "Reverend Edward Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "talked with ... Sir James Chettam"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Cadwallader, the Dowager Lady Chettam"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Dowager Lady Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Cadwallader, the Dowager Lady Chettam"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Cadwallader, Celia"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "little Arthur",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Cadwallader, Celia"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Cadwallader, Celia"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Truberry",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Truberry had gone over"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Truberry's wife",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Truberry had gone over"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Truberry's wife",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had scented peerages in the air"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Truberry's wife",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sign her soul away"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thought that such conduct"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Celia again, stopping to look at Arthur"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It would be very nice"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It would be very nice"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "his lordship\u2019s little tooth"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "stopping to look at Arthur"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dowager Lady Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My dear Celia"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dowager Lady Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "James\u2019s title is worth"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dowager Lady Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I never wished his father"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "slipped her arm through"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Cadwallader",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "slipped her arm through"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, my dear!"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t take the throwing out of the Bill"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you\u2019ve got all the riff-raff"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The Lords are going too far"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "They\u2019ll have to pull up"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Sad news, you know"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you must not blame me, Chettam"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is the matter?"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not another gamekeeper shot"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "nodding at the Cadwalladerrs"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "As to poachers like Trapping Bass"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you\u2019re not a Draco, a Jeffreys"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "chat with Sir James"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019m dying to know"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ve no notion"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ve no notion"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve got to break it to you"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ve no notion what it is"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And, Chettam, it will annoy you"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It must be about Dodo"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "For God\u2019s sake let us hear what it is"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, you know, Chettam"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I couldn\u2019t help Casaubon\u2019s will"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Exactly"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But what is worse"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dorothea is going to be married again"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "nodding towards Celia"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "looked up at her husband"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put her hand on his knee"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put her hand on his knee"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Merciful heaven!"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not to young Ladislaw?"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes; to Ladislaw"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You see, Humphrey!"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "So he might be, and yet come back"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "When did you learn this?"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yesterday"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dorothea sent for me"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did my duty, Chettam"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that would have been very disagreeable"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Be reasonable, Chettam"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mr. Cadwalladerr"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mr. Brooke"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wanted what was impossible"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wanted him shipped off"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I told you Ladislaw was not to be done"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He was a remarkable fellow"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "seeing a woman like Dorothea"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We are indebted to that"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I pointed everything out to her"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "she has a dislike to Casaubon\u2019s property"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I cannot bear to see her again"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Be just, Chettam"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think you should not condemn it"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dorothea commits a wrong action"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we are rather apt to consider"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had the knack of saying"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is very dreadful of Dodo"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She said she never would"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wishing to justify her husband"
+    },
+    {
+      "character_1": "Lady Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I heard her say the same thing"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There was no safety in anything else"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He made himself disagreeable"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t know what you mean"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must be a father to her"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "I won\u2019t refuse to give you away"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can cut off the entail"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "nodded at Sir James"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "showing his own force of resolution"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "propitiating what was just"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "touched a motive"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mass of his feeling"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "jealous repugnance"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "repugnance hardly less"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "marriage was a fatal one"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Tipton and Freshitt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "union of the two estates"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James",
+      "interaction_type": "Observation",
+      "evidence_snippet": "noddingly appealed to that motive"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "blushed"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "uncle\u2019s suggestion of the marriage ceremony"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you mean that Dodo is going to be married directly"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "In three weeks, you know"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you mean that Dodo is going to be married directly, uncle?"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can do nothing to hinder it, Cadwalladerr"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "turning for a little countenance toward the Rector"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should not make any fuss about it"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Here is Elinor"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And a clergyman too"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is difficult to say"
+    },
+    {
+      "character_1": "Reverend Humphrey Cadwallader",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Celia looked up at him"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It must be admitted"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nonsense, Elinor"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He is a pretty sprig"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You must all come"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will, James\u2014won\u2019t you?"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "taking her husband\u2019s hand"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you know\u2014eh, Celia, my dear"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will, James\u2014won\u2019t you?"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, of course, if you like"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is to say, if it is not to meet anybody else"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, no, no"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Dorothea would not come"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you mind about my having the carriage"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What, now, directly?"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, it is very important"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Remember, Celia, I cannot see her"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not if she gave up marrying?"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is the use of saying that?\u2014however, I\u2019m going to the stables"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "felt a glow of pleasure"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "prefigured to herself"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "feared that Celia might be kept aloof"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "understand Dodo so well"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "love her so tenderly"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "open a little window"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "strange colored lamps"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "habitually saw"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "more able to advise"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "how could any one understand"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "childless sister"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "O Kitty, I am delighted"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I almost thought you would not come"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have not brought Arthur"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You know, Dodo, it is very bad"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have disappointed us all so"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You never can go and live in that way"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You never can have thought of that"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You never can have thought of that"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I never could do anything that I liked"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have never carried out any plan yet"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Because you always wanted things that wouldn\u2019t do"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Other plans would have come"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And how can you marry Mr. Ladislaw"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It shocks James so dreadfully"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And then it is all so different from what you have always been"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You would have Mr. Casaubon because he had such a great soul"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And now, to think of marrying Mr. Ladislaw"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suppose it is because you must be making yourself uncomfortable"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dorothea laughed"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, it is very serious, Dodo"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How will you live"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will go away among queer people"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dear Celia"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How can I come"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you always were wrong"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "nobody can think"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am going to London"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How can you always live"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Bless you, Kitty"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Take comfort"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But it would be much better"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you would not do what nobody thought"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "James always said you ought"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nobody thinks Mr. Ladislaw"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you said you would never"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is quite true"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I might be a wiser person"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "this is what I am going to do"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have promised to marry Mr. Ladislaw"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is he very fond of you, Dodo?"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope so. I am very fond of him"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is nice"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "pinching her sister\u2019s chin"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Can\u2019t you tell me?"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you would have to feel"
+    }
+  ]
+}

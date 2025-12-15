@@ -1,0 +1,1168 @@
+{
+  "interactions": [
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "It makes me very happy, Mr. Farebrother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Vicar",
+      "evidence_snippet": "I congratulate you heartily, Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "land they\u2019ve been all along expecting",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "old Featherstone\u2019s delusive behavior",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "great deal too choice",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "He has sense enough and quickness enough",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I have said so many impertinent things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "getting a bit of good contriving",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Oh, don\u2019t sew, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I am not fond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "they were",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "first shrug",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "I shall go to the school",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "write and give up that school",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "taking a pinch of snuff",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "There\u2019s no sort of work",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "it is a difficult case to advise upon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "ascertain whether Mr. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You don\u2019t mean your horse",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Mrs. Garth was more of a lady",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "No, said Caleb",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Alfred Garth",
+      "evidence_snippet": "Do find a fitter word",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "Clearly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "laughed, but could not conceal",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "double agency might be held",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "we must forgive young people",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Alfred Garth",
+      "evidence_snippet": "It wouldn\u2019t make me happy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "seeing Mary in the orchard",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "show that the double agency",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "What is the treasure-trove",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "I am very glad",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "putting men into the right way",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I call it improper pride",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "patted Letty\u2019s head",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mary would not be happy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mr. Arthur Garth",
+      "evidence_snippet": "putting her hand on his shoulder",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "he dwelt a good deal",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "she can\u2019t be married",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "But Bulstrode has long",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Vicar",
+      "evidence_snippet": "smiling at the Vicar",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Jim Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "They can neither throw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "never would bank with him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred Vincy would have had",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I will not oppose any plan",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "chin pinched and cheek kissed",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "The lad is of age and must get his bread",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "you know she is fond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "to have the chance of getting",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "Letty in a corner",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "scattered his snuff",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "the feeling you mention",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "I\u2019m pretty sure of that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I have said so many impertinent things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "What reason could the miserable creature have",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Susan Garth",
+      "evidence_snippet": "Now Mary\u2019s gone out",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "you will come to see her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "chin pinched and her cheek kissed",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "she was in the right",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "No, no; but it\u2019s a fine thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "She gets her tongue from you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "watching him closely",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Not its flippancy, father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "What care I about their objecting",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "No",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "vexing everybody",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "pricked his hand lightly",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "If you did her a kindness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "swaying his head slowly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "reading the letter together",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "I congratulate you heartily, Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Vicar",
+      "evidence_snippet": "We haven\u2019t seen the lad for months",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "mother",
+      "evidence_snippet": "father, mother, and five of the children",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "had an expression of mingled delight and sorrow",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "I\u2019m going to be agent",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Susan Garth",
+      "evidence_snippet": "She gets her tongue from you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "The Vicar",
+      "evidence_snippet": "admired the keen-faced handsome little Vicar",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "there\u2019s always something fresh",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he is so miserable about his debt to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "screwing up his mouth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "there was the very devil in that old man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "it may be better to wait",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "Now, mind you ask fair pay",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "And it\u2019s a difficult",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "father",
+      "evidence_snippet": "father, mother, and five of the children",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "the poor fellow must not begin to study yet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he has asked me to come and tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "It is rather too bad of Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Things hang together",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "seeing Mary in the orchard with Letty",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "resumed the agency of the Tipton",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred Vincy",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "The Vicar",
+      "evidence_snippet": "said Caleb",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I am very glad he did",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Alfred Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "I shall want help by-and-by",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "he supposes you will never think well",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "old man never meant to leave",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mr. Arthur Garth",
+      "evidence_snippet": "What do you think, Susan?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "second shrug",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Vicar",
+      "evidence_snippet": "Tell him it doesn\u2019t signify a farthing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "He writes handsomely, doesn\u2019t he",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he gave his mind to it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "I am less unfit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mary\u2019s heart beat",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Is it the situation you had heard of",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mr. Arthur Garth",
+      "evidence_snippet": "his face had an expression of grave surprise",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "sitting up with him by herself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "Have you made up your mind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "went to say good-by",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he can\u2019t bear to come himself even to bid you good by",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "Poor child! I wish she could stay",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "It\u2019s a thousand pities Christy didn\u2019t take to business, Susan",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he came and poured himself out to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "showed beforehand for the predicted imperfections",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "We are such old playfellows",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "raised her hand from his shoulder to his ear",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "The Vicar",
+      "evidence_snippet": "It\u2019s the feeling",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "He likes being on the land",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "with a touch of rebuke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Alfred Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "Such a set of nincompoops",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "A bad workman of any sort",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "the children are like nephews and nieces to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "old man hated him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "pushing her head",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "Can that man be going",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "we are going to have",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "forgetting his tea and toast",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "pausing from her work",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Vicar",
+      "evidence_snippet": "I couldn\u2019t think what was become of him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Vicar",
+      "evidence_snippet": "We\u2019ve had the pinch and have got over it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "crude young gentleman",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Letty",
+      "evidence_snippet": "snatched up like an eager terrier",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "He quoted to me what you said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "May I go with you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "Deuce knows",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "Mind you don\u2019t, though",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "took a fragrant apple",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Teaching seems to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Alfred Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "she\u2019s an old brick",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Susan Garth",
+      "evidence_snippet": "you\u2019ll not tell it again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Mrs. Garth and Mary",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "putting her hand on his shoulder",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "laying them open one above the other",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Garth",
+      "evidence_snippet": "I have something to say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Alfred Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "kiss her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "kept in the dark",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I come as an envoy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "there is nothing else",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "There\u2019s something in what she says",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mrs. Garth and Mary",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I am going straight",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "two men should have been at me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "What do you think, Susan?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "he has taken me into his confidence",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Pooh! where\u2019s the use of asking",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "it\u2019s my belief that he could learn business well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Mary could not have acted otherwise",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "The Vicar",
+      "evidence_snippet": "grave shake of the head",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "it makes me very happy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I have been disappointed in Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Something to soften",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Alfred Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "What is that Mary doesn\u2019t like",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "We should not value our Vicar",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "If you made her angry",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "You must have it inside you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "sang, 'She\u2019s an old brick'",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Have you any message",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he is going away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Garth",
+      "evidence_snippet": "he would be glad to see",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "turning the threatening needle",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "went to say good-by to her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "regard of old playfellows",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "no man ought to make",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Here is an honor",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "you will really be doing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "he means to try again",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Vicar",
+      "character_2": "Lydgate",
+      "evidence_snippet": "home was a little too hot for him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "The rotation of crops",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "hoped to be able to show",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "thought of his sticking there",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "cut off a large red seal",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "What is that Mary doesn\u2019t like",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "seated in silence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I could understand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "those who are living and those",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Where is he going?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "allowed that inappropriate language to pass",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "knew that he did unwise ones",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Alfred Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "pulling Mary\u2019s head",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "Why can\u2019t she, Mary?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "repeat my flippant speeches",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "Brooke didn\u2019t like to ask me",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "If you made her smile",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "it\u2019s a secret",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "I like to teach classes",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

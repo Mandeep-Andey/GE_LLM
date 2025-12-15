@@ -1,0 +1,496 @@
+{
+  "interactions": [
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "No! he wearied me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "read the indecent passages",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "He was brutal to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate\u2019s spots of commonness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "I will wait, but I want",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "All these things might be alleged",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "it gave a man an",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "it happened that",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "found a contusion on her head",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he was ambitious",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "found her more and more adorable",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He stood on a chair to get them down",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "opened the volume",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he cared not only",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He had then read through",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I meant to do it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "I came because I could not live",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "obtained leave to visit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He had not yet liked to do anything remarkable",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he did not mean to imitate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he was not going to have his vanities provoked",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "He was certainly a happy fellow",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "did not hinder",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "young lady",
+      "evidence_snippet": "How could there be any commonness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he felt himself experienced",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he went to study",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he would keep away",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He was deep in any sort of book",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I know, I know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I will tell you something",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he would settle",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "The faults will not, I hope",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate was not blind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He had apparently got already more than was necessary",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "his nature demanded",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he was an emotional",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He was not pre-eminent in them",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He was sent to the small home library",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "There was a secret",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He was a vigorous animal",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "young lady",
+      "evidence_snippet": "As easily as there may be stupidity",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "There was another",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he intended to begin",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "quackery from having",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dr. Sprague",
+      "evidence_snippet": "know as much as Dr. Sprague",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he would win",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he meant to innovate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "his scientific interest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he had a youthful belief",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "I will never have another",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "asked her to marry him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "stood on a chair to get them down",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "apprenticing him to a country practitioner",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "his medical profession",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate was ambitious",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "young lady",
+      "evidence_snippet": "unable to go beyond Offenbach\u2019s music",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "You have come all the way from Paris",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Great God!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dr. Minchin",
+      "evidence_snippet": "know as much as Dr. Minchin",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he meant to be a unit",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "young lady",
+      "evidence_snippet": "Lydgates\u2019s spots of commonness lay",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I will never have another",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate was enamoured",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "young lady",
+      "evidence_snippet": "As many a man who has the best will",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He was a quick fellow",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "telling her that he adored her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "felt the growth of an intellectual passion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he carried to his studies",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "the high standard",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He would toss himself in a corner",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "The man was still in the making",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "You are a good young man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "spoke to her after the play",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he had plenty of confidence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "I know, I know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "I will tell you something",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate did not mean",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Madame Laure",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I did not plan",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "lifted her gently in his arms",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Madame Laure",
+      "evidence_snippet": "I want you to consent",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "For it must be",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Lydgate",
+      "evidence_snippet": "his profession wanted",
+      "interaction_type": "Observation"
+    }
+  ]
+}

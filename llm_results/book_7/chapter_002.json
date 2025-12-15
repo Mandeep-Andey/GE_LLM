@@ -1,0 +1,370 @@
+{
+  "interactions": [
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Sir Godwin Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She saw clearly to be from Sir Godwin"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Sir Godwin Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "awaiting an answer to her winning appeal"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he did not want to admit"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Sir Godwin Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She had expected him to be surprised"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Tertius, come in here\u2014here is a letter for you"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It will be impossible"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "tossed down the letter"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "acting secretly\u2014acting in opposition"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "grasping hard the objects"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can do nothing of the sort"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My own family drains me"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You seem to have got through"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the sooner you go somewhere else"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have nothing to do with men"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did the best I could for you"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You might have gone into the army"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your money would have held out"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your uncle Charles has had a grudge"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have always wished you well"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you must consider yourself on your own legs"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have always wished you well"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Will this be enough"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you sense enough"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I had nearly resolved"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "a tear fell silently"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Sir Godwin Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall at least know"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Sir Godwin Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was in such entire disgust"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Dover",
+      "interaction_type": "Observation",
+      "evidence_snippet": "ranged him with Dover"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "utter want of feeling"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Sir Godwin Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "graceful creature with blond plaits"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "innocent-looking silence"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Can you not see, Rosamond"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have expressed a decided wish"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have seemed to assent"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yet after that you have secretly disobeyed"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There would be some hope for us"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Am I such an unreasonable, furious brute"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why should you not be open with me"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot possibly make admissions or promises"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have not been accustomed to language of that kind"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have spoken of my"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think that you ought to apologize"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You spoke of its being impossible"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think it was to be expected"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she felt that she was aggrieved"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "this was what Lydgate had to recognize"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the need of accommodating himself to her nature"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had begun to have an alarmed foresight"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the ready fulness of his emotions"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have not made my life pleasant to me of late"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the hardships which our marriage has brought on me"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you should allow for a man\u2019s words"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You and I cannot have opposite interests"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot part my happiness from yours"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If I am angry with you"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How could I wish to make anything hard to you"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have only wished"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "pressed her delicate head"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "caressed her"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could see no sure means"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he told himself that it was ten times harder"
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "interactions": [
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "severely pointing to it with his pen",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "he were bound to provide",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "intense joy without a strong bodily frame",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "fire was not dissipated",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "his wife\u2019s husband",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he had always intended",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "charms for his posterity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "left Ladislaw\u2019s two letters unread",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Sir James",
+      "evidence_snippet": "want of muscular curve",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "work had been easier",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "asked his informant",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "sting to be meditated",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he was resolute in being a man of honor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "his engagement to Celia",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he must not any longer defer",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "had breakfasted alone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "The butler",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "never knew his master",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "hands were clasped",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "He had done nothing exceptional",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea joined him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "had a fit in the library",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he should receive family pleasures",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I recommend you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Why do you attribute",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "was gone he walked",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "blinking eyes and white moles",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "his disregarded love",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea\u2014but why always Dorothea",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "as he thinks of hers",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "He had reflected that",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he was capable of a severe self-restraint",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "kept locked in a small drawer of Mr. Casaubon\u2019s desk",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "quell emotion than to incur",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "kept in a dark closet of his verbal memory",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "inclination yearned back",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "you are hasty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he would make handsome settlements",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "seen Dorothea stretching",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Can you lean on me, dear?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Carp",
+      "evidence_snippet": "bitterly convinced that his old acquaintance Carp",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "The messenger",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "met him leading",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "looking at him with sorrow",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Only don\u2019t stay long",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "ancient Greek has observed",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I think it was very well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea\u2019s engagement",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "she had caused him to offend her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "I think it would be well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "told her of it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she should take her place",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "a wife he needed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "She is a noble creature",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "We will, if you please, say no more",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "got close to his elbow",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "enthusiastic soul",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "sentences were actually to be written",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Poor dear Dodo\u2014how dreadful!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "She has called him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "Providence had taken equal care",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "sense of acquitting himself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had succeeded in making",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "I always thought it a horrible sacrifice",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "The butler",
+      "evidence_snippet": "would it not be right",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "unambitious abilities",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "new bliss was not blissful",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "there was to be a new Parergon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "a modest young lady",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "marriage was fated to become",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "as if a man could choose",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Good God! this is just",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Carp",
+      "evidence_snippet": "bitterly convinced that",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "bounded towards him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "The messenger",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "giving his arm to",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "ancient Greek has observed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Mr. Brooke\u2019s indifference",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he would neglect no arrangement",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "it was that proud narrow sensitiveness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "It is very shocking",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "was bent on fulfilling",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had reflected that",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Dorothea joined him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "purely appreciative",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Carp",
+      "evidence_snippet": "addressed a dedication to Carp",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea, here is a letter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I think it was you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "There had been no clashing of temper",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he would be unimpeachable by any recognized opinion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I can imagine what he has written to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "You can, if you please, read the letter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Jumping on a stool",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I am very sorry for him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "Mr. Ladislaw! What can he have",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "as much about his own qualifications",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "Could I help her, do you think?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he came wonderfully soon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "fits would have been the definite",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "rose and herself proposed",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "rang the bell violently",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "choose not only his wife",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "man should think",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "think her husband\u2019s mind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he had seen Dorothea",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Miss Brooke",
+      "evidence_snippet": "Providence had supplied him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Archdeacon",
+      "evidence_snippet": "suspected the Archdeacon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "thought it was ignoble",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Archdeacon",
+      "evidence_snippet": "suspected the Archdeacon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "could make some signs",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Shall I go to her?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "His experience was of that pitiable kind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he felt lonely",
+      "interaction_type": "Observation"
+    }
+  ]
+}

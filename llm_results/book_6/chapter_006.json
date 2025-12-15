@@ -1,0 +1,940 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Edwin Larcher, Esq.",
+      "interaction_type": "Observation",
+      "evidence_snippet": "distinguished auspices of Mr. Borthrop Trumbull"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Edwin Larcher, Esq.",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fine opportunity to purchasers"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Edwin Larcher, Esq.",
+      "interaction_type": "Observation",
+      "evidence_snippet": "well pointed out in the handbills"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Edwin Larcher, Esq.",
+      "interaction_type": "Observation",
+      "evidence_snippet": "acquaintance with the history of art"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Edwin Larcher, Esq.",
+      "interaction_type": "Observation",
+      "evidence_snippet": "hall furniture, to be sold without reserve"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Borthrop Trumbull"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "whose acquaintance"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "state that the hall furniture"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "comprised a piece of carving"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "by a contemporary of Gibbons"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the hall furniture, to be sold"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "without reserve"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a large sale was regarded"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a kind of festival"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "table spread with the best"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "cold eatables"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "facilities were offered"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "generous-drinking of cheerful glasses"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "lead to generous and cheerful bidding"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "undesirable articles"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Larcher\u2019s sale was the more attractive"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fine weather"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "house stood just at the end"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "garden and stables attached"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "pleasant issue from Middlemarch"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "called the London Road"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "road to the New Hospital"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode\u2019s retired residence"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "known as the Shrubs"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the auction was as good as a fair"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "drew all classes with leisure"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larch, Mr. Borthrop Trumbull",
+      "interaction_type": "Observation",
+      "evidence_snippet": "at command"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "to some, who risked making bids"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "in order simply to raise prices"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it was almost equal to betting"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "at the races"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rubbed elbows with Mr. Bambridge"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rubbed elbows with Mr. Horrock"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Thesiger",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rubbed elbows with Mr. Bambridge"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "beg of Mr. Ladislaw"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "judge of the value"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "attendance at the sale"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "imminent"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should be at liberty"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "hand over the management"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had been training"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he wished finally to quit"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "indefinite visions of ambition"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "weak against the ease"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "doing what is habitual"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "difficulty of carrying out"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "secretly long that it may"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "incredulous person has"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "impossible to conceive"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wonderful things have"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he lingered"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "use of going to London"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Will",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Bulstrode was speaking to him"
+    },
+    {
+      "character_1": "Will",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had once more seen Dorothea"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked down on him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked down on him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sneered at his Polish blood"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked down on him"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "brutal ignorance about Dante"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sneered at his Polish blood"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "were themselves of a breed"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "He",
+      "interaction_type": "Observation",
+      "evidence_snippet": "cordially welcomed"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "When Will Ladislaw had come in"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mrs. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Larcher\u2019s drawing-room furniture"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Borthrop Trumbull",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he distributed on the equitable principle"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Borthrop Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now, ladies"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Joseph",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Allow me to tell you"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Joseph",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "hold it well up, Joseph"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Joseph",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Three shillings\u2014three-and-sixpence"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Mrs. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s not a thing I would put in my drawing-room"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Mrs. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I wonder at Mrs. Larcher"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Mrs. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Quite true"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Mr. Clintup",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "thank you, Mr. Clintup"
+    },
+    {
+      "character_1": "Mr. Clintup",
+      "character_2": "Joseph",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Be handy, Joseph"
+    },
+    {
+      "character_1": "Mr. Clintup",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It was worth six shillings"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Joseph",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "pass the tray round"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Joseph",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "pass the tray round, Joseph"
+    },
+    {
+      "character_1": "Mr. Trumbull",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "yes, Mr. Ladislaw, yes"
+    },
+    {
+      "character_1": "Joseph",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Gentlemen, if I had less"
+    },
+    {
+      "character_1": "Joseph",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What can promote innocent"
+    },
+    {
+      "character_1": "Joseph",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "This ingenious article"
+    },
+    {
+      "character_1": "Joseph",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Four shillings, sir?"
+    },
+    {
+      "character_1": "Joseph",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Here is a sample"
+    },
+    {
+      "character_1": "Joseph",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You hear?\u2014lady-birds"
+    },
+    {
+      "character_1": "Joseph",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "This is an amusement"
+    },
+    {
+      "character_1": "Joseph",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Four-and-sixpence\u2014five shillings"
+    },
+    {
+      "character_1": "Mr. Bowyer",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "carried even Mr. Horrock"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wanted to know what Horrock"
+    },
+    {
+      "character_1": "Mr. Spilkins",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "felt his want of memory"
+    },
+    {
+      "character_1": "Mr. Spilkins",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Come, Trumbull, this is too bad"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Observation",
+      "evidence_snippet": "getting close to the auctioneer"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Joseph",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Joseph! quick with the prints"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Who painted it?"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is a proof before the letter"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll bid a pound!"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he appeared to like looking"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Who is it you\u2019ve picked up, Bam?"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ask him yourself"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Mr. Trumbull",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, Mr. Ladislaw"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, Mr. Ladislaw, yes"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Ladislaw, having been abroad"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "understands the merit"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Will",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Five pounds"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the frame alone is worth that"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Will",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Five guineas"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Will",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "pushed his way towards"
+    },
+    {
+      "character_1": "Will",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "remembering that Mrs. Bulstrode"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Powderell",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "asked the woman in attendance"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was annoyed to see entering"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thrust himself on unwilling observation"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Excuse me, Mr. Ladislaw"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, sir, it was"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "moved a step or two"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "moved backward a step"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No offence, my good sir"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I only remember your mother"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But it is your father that you feature"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I had the pleasure of seeing your father"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Parents alive, Mr. Ladislaw?"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No! thundered Will"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Should be glad to do you a service"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "by Jove, I should"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Hope to meet again"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he thought that he had been foolish"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "greeted him jovially"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "remarked at first on the pleasantness"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve been abroad myself"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It was at Boulogne I saw your father"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a most uncommon likeness"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "mouth\u2014nose\u2014eyes\u2014hair turned off your brow"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a little in the foreign style"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "John Bull doesn\u2019t do much of that"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But your father was very ill when I saw him"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Lord, lord! hands you might see through"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, said Will, curtly"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You know nothing dishonorable"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You know nothing dishonorable of her, sir"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not a bit"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She was a little too honorable"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Lord bless you, I knew all about \u2019em"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Sarah",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I knew all about \u2019em"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Archie Duncan",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Archie Duncan threw it at her"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Sarah",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she ran away from the whole concern"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Sarah",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she was for the stage"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "almost running to get out"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "dashing up a passage"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What do you say"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "shall we turn in"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Dorothea\u2019s friends"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Dorothea\u2019s friends had known"
+    },
+    {
+      "character_1": "Mr. Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the Chettams had known"
+    }
+  ]
+}

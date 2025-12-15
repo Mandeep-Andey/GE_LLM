@@ -1,0 +1,129 @@
+--- Character Network Analysis Report ---
+
+Total Characters (Nodes): 44
+Total Unique Relationships (Edges): 105
+
+--- Top 10 Relationships by Interaction Count ---
+  115   | Dorothea Brooke -- Reverend Edward Casaubon
+  70    | Mr. Arthur Brooke -- Will Ladislaw
+  62    | Dorothea Brooke -- Will Ladislaw
+  49    | Rosamond Vincy -- Tertius Lydgate
+  45    | Mr. Arthur Brooke -- Mr. Standish
+  44    | Fred Vincy -- Reverend Camden Farebrother
+  43    | Mary Garth -- Reverend Camden Farebrother
+  37    | John Raffles -- Mr. Nicholas Bulstrode
+  36    | Mr. Arthur Brooke -- Mr. Mawmsey
+  34    | Mr. Arthur Brooke -- Sir James Chettam
+
+--- Top 10 Characters by Degree Centrality ---
+  Tertius Lydgate                | Score: 0.3256
+  Will Ladislaw                  | Score: 0.3256
+  Dorothea Brooke                | Score: 0.3256
+  Mr. Arthur Brooke              | Score: 0.3256
+  Mr. Nicholas Bulstrode         | Score: 0.3023
+  Reverend Camden Farebrother    | Score: 0.3023
+  Captain Lydgate                | Score: 0.2791
+  Reverend Edward Casaubon       | Score: 0.2326
+  Dr. Minchin                    | Score: 0.1860
+  Rosamond Vincy                 | Score: 0.1628
+
+--- Top 10 Characters by Betweenness Centrality ---
+  Captain Lydgate                | Score: 0.2696
+  Reverend Edward Casaubon       | Score: 0.2643
+  Reverend Camden Farebrother    | Score: 0.2515
+  Tertius Lydgate                | Score: 0.2228
+  Mr. Arthur Brooke              | Score: 0.1754
+  Mr. Nicholas Bulstrode         | Score: 0.1621
+  Dr. Minchin                    | Score: 0.1445
+  Dorothea Brooke                | Score: 0.1418
+  Mr. Frank Hawley               | Score: 0.1263
+  Caleb Garth                    | Score: 0.0980
+
+--- Top 10 Characters by Eigenvector Centrality ---
+  Dorothea Brooke                | Score: 0.5718
+  Will Ladislaw                  | Score: 0.4554
+  Reverend Edward Casaubon       | Score: 0.4496
+  Mr. Arthur Brooke              | Score: 0.3456
+  Tertius Lydgate                | Score: 0.1773
+  Sir James Chettam              | Score: 0.1773
+  Rosamond Vincy                 | Score: 0.1410
+  Celia Brooke                   | Score: 0.1265
+  Mr. Standish                   | Score: 0.1165
+  Reverend Camden Farebrother    | Score: 0.0896
+
+
+--- Top 5 Most Important Characters by Chapter ---
+
+Chapter 1:
+  1. Rosamond Vincy                 (Score: 0.7143)
+  2. Dorothea Brooke                (Score: 0.7143)
+  3. Will Ladislaw                  (Score: 0.5714)
+  4. Tertius Lydgate                (Score: 0.2857)
+  5. Sir Godwin Lydgate             (Score: 0.2857)
+
+Chapter 2:
+  1. Dorothea Brooke                (Score: 1.0000)
+  2. Reverend Edward Casaubon       (Score: 1.0000)
+
+Chapter 3:
+  1. Tertius Lydgate                (Score: 0.5238)
+  2. Dr. Minchin                    (Score: 0.3810)
+  3. Mr. Nicholas Bulstrode         (Score: 0.3333)
+  4. Captain Lydgate                (Score: 0.3333)
+  5. Reverend Edward Casaubon       (Score: 0.1905)
+
+Chapter 4:
+  1. Will Ladislaw                  (Score: 0.8333)
+  2. Mr. Arthur Brooke              (Score: 0.3333)
+  3. Mr. Keck                       (Score: 0.3333)
+  4. Captain Lydgate                (Score: 0.3333)
+  5. Reverend Edward Casaubon       (Score: 0.2500)
+
+Chapter 5:
+  1. Will Ladislaw                  (Score: 1.0000)
+  2. Reverend Edward Casaubon       (Score: 0.8000)
+  3. Mr. Arthur Brooke              (Score: 0.6000)
+  4. Dorothea Brooke                (Score: 0.6000)
+  5. Mr. Tucker                     (Score: 0.4000)
+
+Chapter 6:
+  1. Dorothea Brooke                (Score: 0.8333)
+  2. Tantripp                       (Score: 0.3333)
+  3. Reverend Edward Casaubon       (Score: 0.1667)
+  4. Will Ladislaw                  (Score: 0.1667)
+  5. Celia Brooke                   (Score: 0.1667)
+
+Chapter 7:
+  1. Mr. Arthur Brooke              (Score: 1.0000)
+  2. Sir James Chettam              (Score: 1.0000)
+  3. Dorothea Brooke                (Score: 0.7500)
+  4. Reverend Edward Casaubon       (Score: 0.7500)
+  5. Will Ladislaw                  (Score: 0.5000)
+
+Chapter 8:
+  1. Dorothea Brooke                (Score: 0.9167)
+  2. Celia Brooke                   (Score: 0.3333)
+  3. Mr. Arthur Brooke              (Score: 0.3333)
+  4. Will Ladislaw                  (Score: 0.3333)
+  5. Tertius Lydgate                (Score: 0.3333)
+
+Chapter 9:
+  1. Mr. Arthur Brooke              (Score: 0.7273)
+  2. Will Ladislaw                  (Score: 0.5455)
+  3. Mr. Nicholas Bulstrode         (Score: 0.2727)
+  4. Mr. Standish                   (Score: 0.2727)
+  5. Tertius Lydgate                (Score: 0.0909)
+
+Chapter 10:
+  1. Reverend Camden Farebrother    (Score: 1.0000)
+  2. Mary Garth                     (Score: 0.3333)
+  3. Fred Vincy                     (Score: 0.2222)
+  4. Caleb Garth                    (Score: 0.2222)
+  5. Mrs. Farebrother               (Score: 0.1111)
+
+Chapter 11:
+  1. Mr. Nicholas Bulstrode         (Score: 1.0000)
+  2. John Raffles                   (Score: 0.5000)
+  3. Reverend Camden Farebrother    (Score: 0.3333)
+  4. Joshua Rigg Featherstone       (Score: 0.3333)
+  5. Mrs. Harriet Bulstrode         (Score: 0.3333)

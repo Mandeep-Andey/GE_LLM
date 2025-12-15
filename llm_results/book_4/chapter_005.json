@@ -1,0 +1,1036 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mrs. Dagley",
+      "evidence_snippet": "You\u2019d far better hold",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I have told him that I cannot give way",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "stories about the new King",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fag",
+      "character_2": "Monk",
+      "evidence_snippet": "sullenly evading some small",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Well, my dear, this is pleasant",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I don't feel as if I were subtle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "Niver do you mind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "evidence_snippet": "I have no longings",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Hobbies are apt to run away with us",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Monk",
+      "evidence_snippet": "seeing Monk enter",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "No, I woon\u2019t",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dagley",
+      "evidence_snippet": "Dagley, my good fellow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he began to speak again in a tone of mere explanation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "said Dorothea, with characteristic directness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I\u2019ll be dee\u2019d",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "struck his fork into the ground",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "throwing out his voice",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "He walked out of the yard",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "escaped",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "coloring slightly",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "plead Celia\u2019s indisposition",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I shall not forget what",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "numerous handbills on the walls",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Pray tell me what it is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "God bless you for telling me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "helped Mr. Brooke",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "Well, well, I\u2019ll speak",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "No, nor he woon\u2019t hev the stick",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "He had never been insulted",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "it were not for Chettam",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mrs. Dagley",
+      "evidence_snippet": "summon his wife",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am very slow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "says I, \u2018Ay ay\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "I\u2019ll speak to your wife",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "What is that?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Come here, Dorothea",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Scott",
+      "evidence_snippet": "Scott might have worked it up",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "There is no fear of that, uncle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "she was thinking of what Will had no knowledge of\u2014the conversation between her and her husband",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "meeting and kissing her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "engage Mr. Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "says they, \u2018He\u2019s a close-fisted un\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "Mrs. Casaubon was announced",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I presume you know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Young",
+      "evidence_snippet": "you know Young",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I never said I should do anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "evidence_snippet": "I used to come from the village",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "the marked expression of her sorrow convinced Will",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Fielding",
+      "evidence_snippet": "Fielding would have made something of it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "There is no fear of that, uncle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Dagley",
+      "evidence_snippet": "How do you do, Mrs. Dagley",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Monk",
+      "evidence_snippet": "Poor Dagley read",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "wearing his milking-hat",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Monk",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "began to bark loudly",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "says they, \u2018I know who your landlord is\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Fag",
+      "evidence_snippet": "prick his ears",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Now you are subtle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I do, now I have heard",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "That is what I tell Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "Mr. Dagley himself made a figure",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I hope you feel how right",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "made a figure in the landscape",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "Some who follow the narrative",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "was brought up for knocking down a hare",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "his displeasure at my taking a position",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "there\u2019s them i\u2019 Middlemarch knows what the Rinform is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Think of Kit Downes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "started up as from an electric shock",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fielding",
+      "character_2": "Flavell",
+      "evidence_snippet": "Fielding would have made something of it",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Not long ago",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "To love what is good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Monk",
+      "evidence_snippet": "Monk was looking in",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "says they, \u2018He\u2019s a man for the Rinform\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am very, very sorry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I\u2019ll come, I\u2019ll come",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fag",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "You\u2019ve got no call",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I have never let myself be run away with",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "I\u2019m no more drunk nor you are",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Scott",
+      "character_2": "Flavell",
+      "evidence_snippet": "Scott might have worked it up",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I must go and look for him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon\u2019s reason is, his displeasure at my taking a position here",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "says I, \u2018I hope you\u2019re the better for knowin\u2019 him\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "he had gone into everything",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "rum-and-water",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "I meean as the King \u2019ull put a stop to \u2019t",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "She thought her husband altogether in the wrong",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "shaking hands with open cheerfulness",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Mr. Brooke got down",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he finds fault with me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "Your little lad Jacob",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he can\u2019t say that that expense",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I try not to have desires",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Fag",
+      "evidence_snippet": "Fag slouching at his heels",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Please not to call it by any name",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James",
+      "evidence_snippet": "Sir James has been telling me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I must really go on to the Hall",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Fag",
+      "evidence_snippet": "Fag at his heels growled",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "he had been inclined to regard",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "good meat should have good drink",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "That\u2019s what they says",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Dagley",
+      "evidence_snippet": "How do you do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "quarrelled with Caleb Garth",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "seated in the library",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Flavell, the Methodist preacher",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dagley",
+      "evidence_snippet": "Another day, another day",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "That\u2019s what I\u2019n got to say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "You\u2019ve got no call to come an\u2019 talk about sticks",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have often thought of getting up the subject",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Dagley",
+      "evidence_snippet": "Mrs. Dagley",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Flavell",
+      "evidence_snippet": "Flavell in his shabby black gaiters",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I should not preserve my game",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "That\u2019s what they says",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he would step into the carriage",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I did not like the pictures",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "were seated in the library",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dagley",
+      "character_2": "Monk",
+      "evidence_snippet": "Monk also drew close",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Will offered to tell Mr. Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have always been finding out my religion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "you\u2019d better let my boy aloan",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea renewed the subject",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he got the talk under his own control",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "poaching, now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "evidence_snippet": "For the moment, Will\u2019s admiration",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "not everything\u2014eh",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "best he had",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "watched them both",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "evidence_snippet": "I should like not to have so much more than my share",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "But if you like what is good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "dining at the public table",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "What is your religion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "That is what I tell Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "It is better for us not to speak",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mrs. Dagley",
+      "evidence_snippet": "I\u2019ll hev my say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "Oh, how happy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Chettam is a little hasty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "He only feels confident",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "is for the sake of the tenants",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he felt an odd mixture of delight and vexation",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It is wonderful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "watched them both",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dagley",
+      "evidence_snippet": "Oh, ay, I\u2019m a good feller",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Fag",
+      "evidence_snippet": "stir from his seat",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "he was ignorant",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "fetching Dorothea by herself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dagley",
+      "evidence_snippet": "My good fellow, you\u2019re drunk",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Celia is expecting me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You and I don\u2019t like",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "to speak about the small delinquent",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Chettam, now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "plenty of table ale",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It\u2019s a little against my feeling",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Dagley",
+      "evidence_snippet": "I don\u2019t want you to give him the stick",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "evidence_snippet": "Yes; but I shall hardly ever see you now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Mr. Brooke got down",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I\u2019m no more drunk",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Jacob Dagley",
+      "evidence_snippet": "I can carry my liquor",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "slight pause in the harvest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dagley",
+      "evidence_snippet": "Dagley immediately fronted him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "you may do as you like now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "look to yoursen",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "go with Dorothea as far as Dagley\u2019s",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "nothing was easier in those times",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dagley",
+      "evidence_snippet": "Dagley\u2019s homestead never before looked so dismal to Mr. Brooke",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "you are going to engage Mr. Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Monk",
+      "evidence_snippet": "leaned her back",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "given himself the rare treat",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "carrying a pitchfork",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "But can you think of something else",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "evidence_snippet": "No, don\u2019t think that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Dagley",
+      "character_2": "Mr. Dagley",
+      "evidence_snippet": "he had thought that the tenants",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Johnson",
+      "evidence_snippet": "That was very brutal, I think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Monk",
+      "evidence_snippet": "laid her hand",
+      "interaction_type": "Physical Action"
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "Your niece and Mr.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Mr. Featherstone\u2019s health",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "said Rosamond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You are alone, I see, my dear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Then you are quite confident that Mr. Lydgate has a serious attachment to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "there is some understanding",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "That is true, Mademoiselle de Montmorenci",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "saw a certain helpless quivering",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "He could certainly better afford",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Then it is really true?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I would rather not speak on the subject",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "find out in conversation with Mr. Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You would not give your heart to a man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "general remarks on the dangers",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "put his arms round her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "What is the matter? you are distressed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "She had spoken as impressively",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "the people she lived among",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "evidence_snippet": "Selina, what do you mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I have just heard something",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "evidence_snippet": "I have already refused him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "I thought, at one time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "I really never hear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "evidence_snippet": "Still a mother has anxieties",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "I must say, anybody would suppose",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "leaving the message with Miss Vincy",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "Not more than in Middlemarch",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "sat near her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "I thought, at one time, you meant him for Kate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "keeping watch against Mary Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he had been making a fool of himself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "passed from inquiries about Fred Vincy\u2019s health",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "evidence_snippet": "No, indeed, aunt",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "She felt that she had spoken",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "evidence_snippet": "Oh, it is pride in Miss Vincy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "evidence_snippet": "No young man in Middlemarch",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "evidence_snippet": "I should love at once and without change",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You are thinking of Mr. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "evidence_snippet": "I should never give it to Mr. Ned Plymdale",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You are thinking of Mr. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "The town\u2019s talk is of very little consequence",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "Well, Harriet, if I am to speak my mind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Selina",
+      "evidence_snippet": "Abraham and Moses were strangers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "You don\u2019t mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "young men were often wild",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "expressions of her sincere anxiety",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "What! you are going to get lashed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "she took everything as lightly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "evidence_snippet": "going to see poor Rosamond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "using the superior word",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "turn the conversation",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "observed to Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "evidence_snippet": "Lydgate would have taken no notice",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "I don\u2019t believe",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "She was herself handsomely dressed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "Why do you say 'poor Rosamond'",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "approbation of Rosamond\u2019s engagement",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "How is it that every one says so",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "looked at Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "evidence_snippet": "I have heard her mother say as much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "Miss Vincy did must be remarked",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he had any intention of marrying soon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "disposed to do what his wife bade him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "evidence_snippet": "They seemed now to convey",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "assented coldly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "she had been understood",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Selina",
+      "evidence_snippet": "I don\u2019t know, Selina",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Pray excuse me, aunt",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "observed to Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "My dear Rosamond, you must not think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "result was a decided negative",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "Is it possible",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "kissed each of the two large tears",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "beg her, almost formally",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "Miss Vincy was alone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "throw a noble drapery",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "requested by Mrs. Vincy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "she now, without telling her reasons",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "marked change in Mr. Featherstone\u2019s health",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Mr. Lydgate has really made you an offer",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "evidence_snippet": "she could not stay longer",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "lifting with his fourth finger her delicate handkerchief",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "I don\u2019t believe there can be anything serious",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "What is that, aunt?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I knew a very great beauty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "And at least you go through",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You have allowed your affections to be engaged",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he would not go to Mr. Vincy\u2019s",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "Your circle is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "said Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "old Featherstone\u2019s death",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "moved backward a little",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Selina",
+      "evidence_snippet": "And especially, when they are unexceptionable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "requested by Mrs. Vincy",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Aunt Bulstrode came a little oftener",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Be open, my dear Rosamond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "a girl was exposed to many",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Selina",
+      "evidence_snippet": "Mr. Bulstrode was a stranger here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he heard of Mr. Featherstone\u2019s demise",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "poured out words of gratitude",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "spoke to Miss Vincy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond",
+      "evidence_snippet": "said Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Lydgate\u2019s visits",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I like talking to such men",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Selina",
+      "evidence_snippet": "we are told to entertain strangers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Bulstrode",
+      "evidence_snippet": "I should wish him to look elsewhere",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "he felt a corresponding embarrassment",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "playful words with Rosamond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "he believed, by Rosamond herself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Captain Lydgate",
+      "evidence_snippet": "you are right to take precautions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "made her little confession",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "stooped to pick up the chain",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I am not engaged, aunt.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "avoid looking at Lydgate",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "What is that, aunt",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I have just heard something",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "it would be easy for any felon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "That is because they are not my parishioners",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "you are looking into",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I don\u2019t teach his opinions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Oh, she gauges everybody",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "you have got hold of",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I have at least done",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I have no time to spare",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "told me a good deal about you",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "I think they were not Peacock\u2019s patients",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "The Vicar",
+      "evidence_snippet": "Lydgate was not at all sure",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I shall never show that disrespect",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "those who had bad fathers and mothers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I fancy I have made",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "That makes rather a pleasant time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "welcomed the guest",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Miss Noble",
+      "evidence_snippet": "Miss Noble carried on her arm",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I could make time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "evidence_snippet": "the Vicar\u2019s white-haired mother",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "the fault was in the men",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "The Vicar",
+      "evidence_snippet": "You will hear that pipe alleged against me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "The Vicar",
+      "evidence_snippet": "I will throw in Robert Brown\u2019s new thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "The Vicar",
+      "evidence_snippet": "I have some sea-mice",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Mr. Lydgate must excuse it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I don\u2019t understand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "you don\u2019t know my son",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "She is very quiet\u2014I have hardly noticed her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "And what is the truth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "evidence_snippet": "She says the truth to herself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "The Vicar",
+      "evidence_snippet": "That is because they are not my parishioners",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "The Vicar",
+      "evidence_snippet": "What reason does Bulstrode give",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "you don\u2019t really care",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I am opposed to Bulstrode",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "He is a zealous fellow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "Not by the side of",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "talked of going to the Backwoods",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "what has become of Trawley",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I am heavier",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "keep hold of a few plain truths",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "said Mr. Farebrother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "evidence_snippet": "A mother is never partial",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Ah! you are a happy fellow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I feed a weakness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I should rush into idleness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "The Vicar",
+      "evidence_snippet": "you long for the monster",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "The Vicar",
+      "evidence_snippet": "I am heavier, and should get idle with it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Their daughter: an excellent girl",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Farebrother",
+      "evidence_snippet": "pleaded for those",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "What is there against Bulstrode",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Don\u2019t you think men overrate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "But do look at these delicate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I don\u2019t translate my own convenience",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Not altogether",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "A good wife\u2014a good unworldly woman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Do you know the Garths?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "No; but there is a Miss Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "evidence_snippet": "Oh, nothing bad at all",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "not often in want of medical aid",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Griffin and his wife told me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Nature was more just than that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "you are liable to be contradicted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "hot on the French social systems",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "The Vicar",
+      "evidence_snippet": "You are of an excitable temper and want a sedative",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "the medical profession was an inevitable system of humbug",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "I made up my mind some time ago",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You are a sort of circumnavigator",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "There\u2019s a parishioner of mine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You remember Trawley",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Suppose I ask you to look",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "The shortest way is to make",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Miss Noble",
+      "evidence_snippet": "Miss Noble said",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "shared your apartment",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "You mean of family ties?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Tell me all about them in Paris",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "Miss Winifred",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "He seems to have good ideas",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I have not yet told you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I don\u2019t say that Bulstrode\u2019s new hospital",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You don\u2019t mind my fumigating you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "married a rich patient",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I am going on both",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "The Vicar",
+      "evidence_snippet": "Lydgate smiled and shook his head",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "The Vicar",
+      "evidence_snippet": "And you mean to give it all to your work",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Miss Noble",
+      "evidence_snippet": "carried on her arm a small basket",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I have never had time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "The Vicar",
+      "evidence_snippet": "you are eying that glass vase again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I don\u2019t know whether",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "She has taken notice of you, though, depend upon it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "I was early bitten",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "evidence_snippet": "What reason does Bulstrode give",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I should be glad of the forty pounds",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "shall we go",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "they were hanged for that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "over-eat themselves",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "The Vicar",
+      "evidence_snippet": "you shall not have it without a fair barter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I don\u2019t know that I need mind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "You must keep yourself independent",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Trawley",
+      "evidence_snippet": "He would have it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "if he thinks me a mischievous fellow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I promised to show you my collection",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Very good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "We are singularly rich",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "had brought up her children to wear flannel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Miss Noble",
+      "character_2": "Miss Winifred Farebrother",
+      "evidence_snippet": "tiny Miss Noble carried on her arm",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "A game at cribbage would be far better",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "That would be good discipline",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "You must learn to be bored",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "returned to hang rather fondly over his drawers",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Miss Noble",
+      "character_2": "Mrs. Farebrother",
+      "evidence_snippet": "tiny Miss Noble carried on her arm",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Camden Farebrother",
+      "evidence_snippet": "Lydgate went to see",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "The Vicar",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "moved about with his pipe in his mouth",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "held that view of things dangerous",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "my mother always gives way",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "said Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Miss Winifred Farebrother",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Why, Camden!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "The Vicar",
+      "evidence_snippet": "I might ask a higher price",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "evidence_snippet": "As to his religious notions",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

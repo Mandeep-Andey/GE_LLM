@@ -1,0 +1,1456 @@
+{
+  "interactions": [
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "An unmistakable delight",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "And Parliament going to be dissolved",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Who knows what babies will turn to",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Lydgate did not mention",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Rosamond could manage her papa",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "And machine-breaking everywhere",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "with that poor boy disappointed as he is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "sat quite still",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "allowed all this to go on",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "brought up in luxury",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "small income",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "where is there a girl like her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he implied to Mr. Farebrother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "he must write to me first",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "the circumstance called Rosamond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mamma",
+      "evidence_snippet": "Mamma had a little filial lecture",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "spent most of his evenings",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "But you don\u2019t mean to say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Lydgate is not poor, papa",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Family annoyances",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "he did not waste time",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I shall have enough",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I feel that papa is not",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "You cannot imagine that I should ask him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Fred threatens to throw his whole education away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Six weeks would be ample\u2014say so, Rosamond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "With this disappointment about Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Dear! your eyelids are red",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Come, dear, tell me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "He touched her ear",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Don\u2019t be hard on the poor boy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "there\u2019s no pleasure in thinking of anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "God bless you!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate died",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Mamma!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "doing what his daughter would not like",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "You are of age",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "and we all thought of your having a pretty legacy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Remember, we are looking",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "He might as well buy next year\u2019s swallows",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "If anything is done",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Mamma! said Rosamond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Well, my dear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Rosamond speak with admiration",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "said the husband\u2014more mildly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "old Mrs. Bretton",
+      "evidence_snippet": "immediately entered into treaty",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "You always do manage everybody",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Any inward debate Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "evidence_snippet": "Mary could no longer",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "had to be deferential",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "A pretty deal to do with it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "found her alone in the drawing-room",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "laying his hand tenderly on both of hers",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "But if we ever do go and get damask",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "What\u2019s buying a practice?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Took it away again!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Reverend Edward Thesiger",
+      "evidence_snippet": "Are they? I wonder why",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Miss Vincy",
+      "evidence_snippet": "Miss Vincy and Mr. Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "As if you could hide it from me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Well, Vincy, he was my first",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Why should we defer it?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "afraid of being worsted in dialogue",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I am sure he did not wish",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "What do you say, my dear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Why should I tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "kisses of the sun",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Will you, then, mention it to papa",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "He\u2019ll turn out well yet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I know I am worried",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "No,",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "talked fervidly to Rosamond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Oh, my uncle Godwin",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "And I call it a robbery",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I hope he knows I shan\u2019t give anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I will write to him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "it was like giving him the land",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I cannot give up my only prospect",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I never give up anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I could certainly hasten the work",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "he may have been looking",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he would have behaved perfectly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "besides plate and glass",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred must leave off",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Don\u2019t I see a tiny drop",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "love-making not at all dependent",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "old Mrs. Bretton",
+      "evidence_snippet": "took notice when it fell vacant",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "It is too late now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "The country\u2019s in that state",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "evidence_snippet": "to be obliged to mingle",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "He has always said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "It\u2019s a cruel thing for a father to see",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Rosamond will take it hard",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "too worldly a way",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "flourishingly under Mr. Vincy\u2019s own eyes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "evidence_snippet": "said no more",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "pay Mr. Garth",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he fell in love with her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I\u2019ve told you so pretty plainly before this",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Dear papa! what can that have to do with my marriage?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "put his arm gently round her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "That has nothing to do with my marriage",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Papa has been more irritable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "and you see he did leave",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Sadler\u2019s is the place",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Lydgate\u2019s tendency",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "There would be the house-linen",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Whatever you wish, my darling",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Mrs. Vincy\u2019s belief",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "he must write to me first",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "evidence_snippet": "being in love and being expected",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "they sat quite still",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "What have you had such an education for",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "This constancy of purpose",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "his mother pleaded for him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "\u2014and now everything is so dreadful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Oh, more than that!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "kissed the hesitating lips",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "indirect though emphatic expression",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "touched her ear",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "wanted to marry Rosamond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Damn relations",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "evidence_snippet": "he was prepared",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "suffered in the same sort",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "On the contrary, papa, he will increase the practice",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Damn relations!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "One must hire servants",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "else why was he brought back",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You are an enviable dog",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "And you hear, your papa says he will give no money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "And you\u2019ve always spoiled him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "throwing his hat on the floor was out of the question",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "And be hanged if I don\u2019t think it looks like it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I was a good brother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "But he may have been looking for money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "What original notions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "you seemed as pleased",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I shan\u2019t give my consent",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "and then took it away again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "carpeting and everything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "indisposed to raise a question",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "all to your share",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "openness and simplicity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "He touched her ear and a little bit of neck",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "You were constantly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Of course he understands his own affairs",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Reverend Edward Thesiger",
+      "evidence_snippet": "Here am I with nothing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "But it will take a great deal of furniture",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "You would not like me to go",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "You were as proud as proud",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "See how he has been called in by the Chettams and Casaubons",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Lydgate pitied her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "this morning there was a fresh quarrel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "found it delightful",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Fred makes him angry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Her sewing is exquisite",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "I tell you the lad\u2019s an unlucky lad",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I hope you\u2019ve made up your mind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "innuendoes were obviously unsafe",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I am sure he expects nothing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "What original notions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Mr. Vincy was a little in awe of him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "and what is promising",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I expect I shall have to put down my horses soon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred is far beyond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I feel as sure as I sit here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "he doesn\u2019t always show",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Some say it\u2019s the end of the world",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he\u2019s mistaken, that\u2019s all",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I shall like so much to know your family",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Nonsense, my dear!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Do send him word",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "finding that his sum",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "and you made a fine fuss",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Will you give it up?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I could have wished",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I think it would be better to write to him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "This is the first time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I was fool enough",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Well, really, Walter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "throwing an embroidered cap",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "you know you never could bear to cross her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "said the Vicar",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "insure his life",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Oh,\u2014my uncle Godwin, I think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Bulstrode won\u2019t pay for their keep",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "And an election coming on",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Promise me, papa",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "What can I do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "as well as Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "It must be lovely",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "evidence_snippet": "went to the other end",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he walked by hereditary habit",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I don\u2019t know about mercy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Miss Morgan",
+      "evidence_snippet": "I am going up-stairs",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "I should love you to have such a house",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "He touched her ear and a little bit of neck under it with his lips",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I shall marry Mr. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "The sooner the engagement\u2019s off",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I forgot that.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he\u2019ll never make an income",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I could never love any one",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "We may all be ruined for what I know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "stands very high with Mr. Bulstrode",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Mrs. Bretton\u2019s is very large",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "Oh, more than that!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "evidence_snippet": "said Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I don\u2019t believe Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+   {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was a good brother"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he doesn’t always show"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must say he doesn’t"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that friendly spirit"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "might have been expected"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "of him” Mr. Vincy"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Vincy was very"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "no accomplished Jesuit"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "could have turned"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a question more adroitly"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Harriet had to defend"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "instead of blaming"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the conversation ended"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "as far from the beginning"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "some recent sparring"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "between the brothers-in-law"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "at a vestry meeting"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "did not repeat her brother’s"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "complaints to her husband"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "but in the evening she spoke"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "to him of Lydgate"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and Rosamond"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He did not share her warm"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "interest, however"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and only spoke with resignation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "of the risks attendant on"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the beginning of medical practice"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and the desirability of prudence"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction,": "Direct Dialogue",
+      "evidence_snippet": "I am sure we are bound"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "to pray for that thoughtless"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "girl—brought up as she has been"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Bulstrode"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wishing to rouse her husband’s"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "my dear” said Mr. Bulstrode"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "assentingly"
+    }
+  ]
+}

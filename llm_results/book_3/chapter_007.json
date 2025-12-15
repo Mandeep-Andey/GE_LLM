@@ -1,0 +1,580 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You see, said the able magistrate to Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "The words came out like a cry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He said to himself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "begging him to let Will know",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "made a drama which Lydgate was inclined",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "must not be betrayed to her husband",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "I recommend you to talk to Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I beseech you to speak quite plainly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Oh, you are a wise man, are you not",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He minds about nothing else",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "What you say now justifies",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You mean if we are very careful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "sat quietly by his patient and watched him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "the source of the illness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he certainly thought",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "continued a discussion about art",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "you recommend me to anticipate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Mr. Casaubon\u2019s case is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "dried her eyes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "talk confidentially with her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I remember they made me laugh",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "We have no such humor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "prevent Will from coming",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He\u2019s a very clever young fellow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "These things would be to me such relaxation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "cry from soul to soul",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I mind about nothing else",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "you might take to some light study",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "see Mr. Casaubon again",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Casaubon has been a little narrow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he was only doing right",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon had often pointed",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "to watch",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Anxiety of any kind would be precisely the most unfavorable condition",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "this involuntary appeal",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "sources of his annoyance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "Oh, that would not do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I wish that I could have spared you this pain",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "He would be miserable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "Such cases are peculiarly difficult",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "anticipate the arrival",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he was taken ill",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he must not be annoyed again",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I wish you to understand that I shall not say anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "intense anxiety in her face",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "defects which Mr. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "Help me, pray",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "the remedy was",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will",
+      "evidence_snippet": "my obligations to Mr. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she was usually by her husband\u2019s side",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "go fishing, as Cadwalladerr did",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "the issue is most difficult",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Mr. Brooke was sealing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I think it desirable for him to know nothing more",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "amusement is rather an unsatisfactory prescription",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "begged to speak with her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Tell her, her husband wants",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "looked round the room",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "You do not fear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Yes\u2014careful against mental",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He has been laboring",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Get Dorothea to play backgammon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon will soon be here",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "lively continuation of his remonstrance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I am aware of that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon\u2019s permission",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "tears gushed forth",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "asked for Mrs. Casaubon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "Nothing will be of any use",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "get Dorothea to read",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "Tell me what I can do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It was right of you to tell me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "it would be interesting",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "With a happy concurrence",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "you must submit to be mildly bored",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "young Ladislaw",
+      "evidence_snippet": "make his acquaintance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "Mr. Brooke\u2019s pen went off",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Celia was going to marry",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I wish that I could have spared you this pain",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "young Ladislaw",
+      "evidence_snippet": "invite young Ladislaw",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "telling her the truth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she was engaged with her husband",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "must not be betrayed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "Mrs. Casaubon\u2019s",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon will soon be here",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "about whatever touched his mind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You will not mind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he did a very good pamphlet for Peel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he might now at any moment wish to enter",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Mr. Brooke read them",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "young Ladislaw",
+      "evidence_snippet": "go over the Italian drawings",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "I will tell him about Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he only bowed resignedly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I think it is one\u2019s function",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I cannot bear to think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "He\u2019s a very clever young fellow",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

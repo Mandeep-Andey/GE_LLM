@@ -1,0 +1,322 @@
+{
+  "interactions": [
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "stood motionless"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking towards him"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put out her arm"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "laid the tips of her fingers"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t touch me!"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "darting from her"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "changing from pink to white"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "stood opposite to her"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "keenly offended"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You can easily go"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Go after her!"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Explain!"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you think she would turn"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You can tell her what you please"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you suppose she would like"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She is not a woman to be flattered"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She\u2019ll never again think me"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Explain! Tell a man"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I never had a preference"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No other woman exists"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would rather touch her hand"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "she had become an image of sickened misery"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "If it had been Tertius who stood"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He had spoken to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "took up his hat"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "stood some moments irresolute"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "walked towards the mantel-piece"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "leaned his arm on it"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found calamity seated there"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "blighted face"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "opposite each other"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "far apart"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "in silence"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mute rage"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mute misery"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "terrible collapse"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "little world"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "tottering"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "cruel speech"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mockery"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Shall I come in and see Lydgate"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you like"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "went out of the house"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Martha",
+      "interaction_type": "Observation",
+      "evidence_snippet": "remained helpless"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Martha",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wanted to be helped up-stairs"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put his arm gently under her"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My poor Rosamond!"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "bending over her said"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "clinging to him"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "soothe and tend her"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "perception that she was ill"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "eyes rested on him"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Dorothea had been to see her"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "interactions": [
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "allayed Mrs. Bulstrode\u2019s anxiety"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seized with faintness"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "afraid of going to Rosamond"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "others had thrust themselves into his life"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thwarted his purposes"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "His marriage seemed an unmitigated calamity"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "afraid of going to Rosamond"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode had been in dread of scandalous disclosures on the part of Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate could now construct all the probabilities of the case"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was afraid of some betrayal in my hearing"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he passed on a sudden from hardness to liberality"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he may have tampered with the patient"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he may have disobeyed my orders"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the world believes that he somehow or other poisoned the man"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I fear he did"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the world believes that he somehow or other poisoned the man and that I winked at the crime"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he may not be guilty"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the change towards me"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "second thoughts such as he alleged"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he may have kept his hands pure"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "circumstances would always be stronger"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Raffles\u2019s existence"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "made a strict inquiry"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "thrown up the case"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "resisting all reproach"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate\u2019s consciousness"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "resisting all reproach"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rested in the consideration"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "disobedience to his orders"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "dominant opinion obedience"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "affair was simply one"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "denounced the perversion"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "purest experiment in treatment"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "conscientious: my business"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "they will all feel"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "make a wide space"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "as if I were a leper"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "my practice and my reputation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the townsmen were avoiding him"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "patients of his had called in another practitioner"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the general black-balling had begun"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "association with this man"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had used"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "aid he had used"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the thought of Rosamond"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her dumb mastery"
+    }
+  ]
+}

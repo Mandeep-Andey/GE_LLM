@@ -9,19 +9,24 @@ class Settings:
             raise FileNotFoundError(f"Configuration file not found at '{config_path}'")
 
         self.PROJECT_ROOT = config_file.parent
-
         with open(config_file, 'r') as f:
             config = yaml.safe_load(f)
 
+        # Paths
         self.BOOKS_DIR = self.PROJECT_ROOT / config['data']['books_directory']
         self.CHARACTER_FILE = self.PROJECT_ROOT / config['data']['character_file']
         self.RESULTS_DIR = self.PROJECT_ROOT / config['data']['llm_results_dir']
         self.GRAPH_ARTIFACTS_DIR = self.PROJECT_ROOT / config['data']['graph_artifacts_dir']
 
+        # Models
         self.LLM_MODEL = config['models']['llm_model']
         self.LLM_HOST = config['models']['llm_host']
+        self.FAST_TOKENIZER = config['models']['fast_tokenizer_for_counting']
 
-        self.TARGET_BOOK_FILENAME = config['processing']['target_book_filename']
-        self.CHUNK_SIZE = config['processing']['chunk_size_sentences']
-        self.CHUNK_OVERLAP = config['processing']['chunk_overlap_sentences']
+        # Processing
+        # THE CHANGE: Load token-based chunking settings
+        self.CHUNK_TOKEN_LIMIT = config['processing']['chunk_token_limit']
+        self.CHUNK_OVERLAP_SENTENCES = config['processing']['chunk_overlap_sentences']
+
+        # Analysis
         self.TOP_N_ANALYSIS = config['analysis']['top_n_results']

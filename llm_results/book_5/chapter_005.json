@@ -1,0 +1,730 @@
+{
+  "interactions": [
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon was determined"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Will\u2019s presence at church"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "alienation between them"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Will\u2019s coming seemed"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon and he could meet"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shake hands and friendly"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon must have been"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Will was banished further"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "presence which he refused"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had not been very well"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had not preached"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was nearly silent"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "made no allusion"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could never again introduce"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "learning to read with Mr. Casaubon"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could read none of them"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the weariness of long future days"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sustaining thoughts which had become habits"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the hunger had grown"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon had so severely repulsed"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "About Will Ladislaw there had been a difference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "seen Will Ladislaw receding"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could not have the carriage"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "proposed that they should go"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Dorothea observed that he"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will oblige me"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "This is the first step"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be able to indicate"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I trust, have an intelligent"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We will take the volume up-stairs"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is not wearisome to you"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I trust, Dorothea?"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I prefer always reading"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I trust, Dorothea"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Dorothea"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seated himself in the arm-chair"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "awakened by a sense of light"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Are you ill, Edward?"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You would oblige me greatly"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I fear that the excitement"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I fear that the excitement may be too great for you"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, I am not conscious of undue excitement"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That will do\u2014mark that"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pass on to the next head"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Close the book now, my dear"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "You have perceived that distinctly"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, said Dorothea"
+    },
+    {
+      "character_1": "Mr. Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And now I think that I can take some repose"
+    },
+    {
+      "character_1": "Mr. Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is it?"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he said"
+    },
+    {
+      "character_1": "Mr. Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Before I sleep, I have a request"
+    },
+    {
+      "character_1": "Mr. Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You refuse?"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, I do not yet refuse"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, I do not yet refuse"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "but it is too solemn"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, dear, no!"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Grant me till to-morrow"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Till to-morrow then"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she had no presentiment"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he would expect her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she looked with unbiassed comparison"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she pictured to herself"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sorting what might be called"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fragments of a tradition"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sorting them as food for a theory"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "which was already withered"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the quest of gold"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a questioning of substances"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "body of chemistry"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lavoisier is born"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had to check her weariness"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her husband had come"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his labors would ever take"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her husband\u2019s past"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his present hard struggle"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the sword trembling above him"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the goal receding"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the heavier limbs"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his grief"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the pining hunger"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his failing life"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his heart was bound up"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Casaubon was already up"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I never saw you look so pale"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Was I ever high-colored, Tantripp"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But always smelling those leather books"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do rest a little this morning"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "let me make haste"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am glad to hear that"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was waiting for your appearance"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Your mind, I feared, was too active"
+    },
+    {
+      "character_1": "Mr. Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would fain have it set at rest"
+    },
+    {
+      "character_1": "Mr. Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You can now, I hope, give me an answer"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "May I come out to you in the garden"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be in the Yew-tree Walk"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "May I come out to you in the garden"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put on her bonnet and shawl"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "God bless you, madam"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish every book"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Pratt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish every book in that library"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Pratt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "your master"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Pratt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish every book in that library was built into a caticom for your master"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "liked Tantripp better"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "hesitating, as she had done"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she foresaw that she must"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she could not smite the stricken soul"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she could not see her husband"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his face down in that way"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "laid her hand on his shoulder"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am ready!"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "took off his velvet cap"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Wake, dear, wake!"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am come to answer"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lyldgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am come to answer"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lyldgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was talking deliriously"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "she",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "was seated by her bedside"
+    },
+    {
+      "character_1": "she",
+      "character_2": "he",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Tell him I shall go to him"
+    },
+    {
+      "character_1": "she",
+      "character_2": "he",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am ready to promise"
+    },
+    {
+      "character_1": "she",
+      "character_2": "he",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Only, thinking about it was so dreadful"
+    },
+    {
+      "character_1": "she",
+      "character_2": "he",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not very ill. I shall soon be better"
+    },
+    {
+      "character_1": "she",
+      "character_2": "he",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Go and tell him"
+    }
+  ]
+}

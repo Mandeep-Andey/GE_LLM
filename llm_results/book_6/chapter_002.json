@@ -1,0 +1,1558 @@
+{
+  "interactions": [
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "she said a thing I often used to think myself"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But womanly, I hope"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, you can\u2019t think!"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "half suspecting"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You would like to hear her speak"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dorothea asked Mr. Garth"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "With this good understanding"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "railway system",
+      "interaction_type": "Observation",
+      "evidence_snippet": "entered into the affairs of Caleb Garth"
+    },
+    {
+      "character_1": "railway system",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "determined the course of this history"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Mr. Solomon Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "differed from Lord Medlicote"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Mr. Solomon Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "slow wits"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Mrs. Waule",
+      "interaction_type": "Observation",
+      "evidence_snippet": "slow wits"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Solomon Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Waule"
+    },
+    {
+      "character_1": "Mrs. Waule",
+      "character_2": "Mr. Solomon Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Solomon"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mrs. Waule",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Brother Peter, God forgive him"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Mrs. Waule",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that was for the manganese"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Jane",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, there\u2019s this to be said"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Jane",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the more spokes we put"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Jane",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the more they\u2019ll pay us"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Jane",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "if they must come whether or not"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Mr. Solomon Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mind of Frick"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Mr. Solomon Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "more plenteous ideas"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Mr. Solomon Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "suspicion of heaven"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Mr. Solomon Featherstone",
+      "interaction_type": "Observation",
+      "evidence_snippet": "better fed and more"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "got into a dialogue with Hiram Ford"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he got into a dialogue"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "they called themselves railroad people"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, there\u2019ll be no stirrin\u2019"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not a bit"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let \u2019em go into Tipton"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Traffic is what they put for\u2019ard"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, they\u2019re Lunnon chaps"
+    },
+    {
+      "character_1": "Hiram Ford",
+      "character_2": "Solomon Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Solomon"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019d meddle with \u2019em myself"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But some say this country\u2019s seen its best days"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the sign is, as it\u2019s being overrun"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "these fellows trampling right and left"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wanting to cut it up into railways"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "all for the big traffic to swallow up the little"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "so as there shan\u2019t be a team left on the land"
+    },
+    {
+      "character_1": "Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "nor a whip to crack"
+    },
+    {
+      "character_1": "Hiram Ford",
+      "character_2": "Solomon Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll crack my whip about their ear\u2019n"
+    },
+    {
+      "character_1": "Hiram Ford",
+      "character_2": "Solomon Featherstone",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "afore they bring it to that"
+    },
+    {
+      "character_1": "Mr. Solomon Featherstone",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "shaking his bridle"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she confessed to him her feeling"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her father had some business"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he put up his gig"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he encountered the party"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he left them"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "observing that by-and-by"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "threatening to forsake him"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "expecting him straightway"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had sent him on this"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "hastening across the field"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Riding along the lanes"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Caleb Garth's assistant",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "snatched up the spirit-level"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Caleb Garth's assistant",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "had been knocked down"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "smock-frocks",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "covered their retreat"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "smock-frocks",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "charging them suddenly"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "smock-frocks",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "getting in front of the smock-frocks"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "smock-frocks",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "cutting right and left with his whip"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "smock-frocks",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What do you confounded fools mean"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "smock-frocks",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll swear to every one of you"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "smock-frocks",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ve knocked the lad down and killed him"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "smock-frocks",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ll every one of you be hanged"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yo\u2019re a coward, yo are"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yo git off your horse, young measter"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Hiram Ford",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wull"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yo git off your horse"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019d soon knock the breath out on ye"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Wait a minute"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "have a round with you all in turn"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let them put the horse in the stable"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "tell the surveyors they can come back"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The ground is clear now"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, no"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "here\u2019s a breakage"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Tom",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "take the things before you on the horse"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it was lucky"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Tom",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "looked towards the spot"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What have you got to do to-day"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall go and speak to the men"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s all ignorance"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall go with you, then"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, no; stay where you are"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can take care of myself"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "advanced towards the laborers"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "had his every-day mild air"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, my lads, how\u2019s this"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How came you to make such a mistake"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Somebody has been telling you lies"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You thought those men up there wanted to do mischief"
+    },
+    {
+      "character_1": "Laborers",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Aw! was the answer"
+    },
+    {
+      "character_1": "Laborers",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nonsense! No such thing"
+    },
+    {
+      "character_1": "Laborers",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "They\u2019re looking out to see which way the railroad is to take"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now, my lads, you can\u2019t hinder"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the law gives those men leave"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the owner has nothing to say"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you might be in for it now"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But come, you didn\u2019t mean"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Somebody told you the railroad"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It may do a bit of harm"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the railway\u2019s a good thing"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Aw!"
+    },
+    {
+      "character_1": "old Timothy Cooper",
+      "character_2": "the poor mon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I\u2019n seen lots o\u2019 things"
+    },
+    {
+      "character_1": "old Timothy Cooper",
+      "character_2": "the poor mon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Times ha\u2019 got wusser"
+    },
+    {
+      "character_1": "old Timothy Cooper",
+      "character_2": "the poor mon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "They\u2019ll on\u2019y leave the poor mon furder behind"
+    },
+    {
+      "character_1": "old Timothy Cooper",
+      "character_2": "Muster Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "yo\u2019re for the big folks"
+    },
+    {
+      "character_1": "old Timothy Cooper",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "them are fools as meddle"
+    },
+    {
+      "character_1": "old Timothy Cooper",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "This is the big folks\u2019s world"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "old Timothy Cooper",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you don\u2019t think well of me, Tim"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I want the lads here not to do"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The cattle may have a heavy load"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Laborers",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it won\u2019t help \u2019em to throw it"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Hiram",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We war on\u2019y for a bit o\u2019 foon"
+    },
+    {
+      "character_1": "Hiram",
+      "character_2": "Timothy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Hiram"
+    },
+    {
+      "character_1": "Timothy",
+      "character_2": "Caleb",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Timothy"
+    },
+    {
+      "character_1": "Caleb",
+      "character_2": "Fred",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "hastened back to Fred"
+    },
+    {
+      "character_1": "Caleb",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Caleb"
+    },
+    {
+      "character_1": "Caleb",
+      "character_2": "Fred",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "watched him in the gateway"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A young fellow needn\u2019t"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Fred",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish I had taken"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you think I am too old"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you are young enough"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You do think I could"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That depends"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That depends,"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can never feel that I should do that in being a clergyman"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No matter what a man is"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Then let it alone, my boy"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is very nearly what Mary thinks about it"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think you must know what I feel for Mary"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "expression of Caleb\u2019s face was visibly softening"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think you must know"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "expression of Caleb\u2019s face"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That makes things more serious"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know that, Mr. Garth"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She says she will never have me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would do anything for her"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be the most miserable devil"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would work hard"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should like to have to do with outdoor things"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I used to believe"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Softly, my boy"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am only waiting"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am very sorry"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But hearken to this"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But hearken to this, Fred"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I asked Mr. Farebrother to talk to her"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have every reason to hope"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I dare say you think it unwarrantable"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you have a claim"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Garth would take no important step"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had taken his resolution"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is come round as I thought, Susan"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "sharing in his work"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Caleb! said Mrs. Garth"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s a fine thing to do"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall have trouble with him"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The lad loves Mary"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Has Mary spoken to you"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I gave her a bit of a warning"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But she assured me"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But it seems Fred set on Mr. Farebrother"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fred\u2019s heart is fixed on Mary"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is a pity for Mary"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we always liked him, Susan"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is a pity for Mary"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she might have had a man"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fred has used him as an envoy"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there is an end to that better prospect"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That would have made me very proud"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve always felt"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I took the best and cleverest man"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The lad is good at bottom"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he loves and honors my daughter"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she has given him a sort of promise"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that young man\u2019s soul is in my hand"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I say, that young man\u2019s soul is in my hand"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Few men besides you"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "She wiped it away"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve got a clear feeling"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "She rose and kissed him"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she felt sure"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her husband\u2019s conduct"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now Fred"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will have some desk-work"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have always done a good deal of writing"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t do without help"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "as I want you to understand the accounts"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and get the values into your head"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I mean to do without another clerk"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "So you must buckle to"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How are you at writing and arithmetic"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How are you at writing"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019m not afraid of arithmetic"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think you know my writing"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "taking up a pen"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "examining it carefully"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "handing it, well dipped"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Copy me a line or two"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "with the figures at the end"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rapped the paper passionately"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Bad work like this"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What can I do, Mr. Garth?"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do? Why, you must learn"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What\u2019s the use of writing"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is there so little business"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But that\u2019s the way people"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should lose no end of time"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "if Susan did not make"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Susan",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should lose no end of time"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "tossed the paper from him"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Garth had been so kind"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "go to Lowick to see Mary"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "tell her that he was engaged"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am very sorry"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We must make the best of it"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Every man can learn to write"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Go at it with a will"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Callum shall go on with the books"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You must let your father know"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ll save me Callum\u2019s salary"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can afford to give you eighty pounds"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "entered on the subject directly"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "declared briefly what he had done"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "listened in profound surprise"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "So you\u2019ve made up your mind at last, sir?"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve no more to say"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ve thrown away your education"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "gone down a step in life"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think I can be quite as much of a gentleman"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am grateful to you for wishing to do the best for me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But I am grateful to you"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have no more to say"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope you will not object"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Board be hanged"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will pay your own tailor"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "threw a quick glance"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, yes, let us say no more"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Susan Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fred went through much more narrative"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she dared not enlarge"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Come, Lucy, my dear"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Come, Lucy, my dear"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You always have spoiled"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nothing ever did cut me so"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We must expect to have trouble"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t make it worse"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It won\u2019t do to begin making"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There\u2019s Rosamond as well as Fred"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019m sure I felt for her"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she got over it nicely"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Baby, pooh! I can see Lydgate"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall have Rosamond coming"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "they\u2019ll get no money from me"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let his family help him"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I never did like that marriage"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ring the bell for lemons"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll drive you and Louisa"
+    }
+  ]
+}

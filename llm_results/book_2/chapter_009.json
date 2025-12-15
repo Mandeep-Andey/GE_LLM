@@ -1,0 +1,916 @@
+{
+  "interactions": [
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am sure I could never produce a poem",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he confessed that Rome",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am at your service, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I suspect that you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Oh no",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "said Will, reddening however",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "It was my fault",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I wonder it does not affect you more painfully",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You might say the same of landscape",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He said nothing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "My sister tells me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I must put something",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "That is fine\u2014I respect that feeling",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am so glad we met in Rome",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am quite ignorant",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I have taken in of music",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I understand what you mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "And I have made you angry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Now if I could lay this by for half an hour",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "The sketch must be very grand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "His obligations to Mr. Casaubon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I quite agree with you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Promise me that you will not again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he was now at her service",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "My friend Ladislaw thinks",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Naumann",
+      "evidence_snippet": "Is that true?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "managed to laugh",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "sat down and subsided",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon objected",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Mr. Casaubon\u2019s statement",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he found himself in agreement",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "see Dorothea when she was alone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "He means soon to go back",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I fear you are a heretic about art generally",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I see it must be very difficult",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I wish I could ever do anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "So Mr. Casaubon\u2019s patience held out",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "seating himself at some distance",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "And I am quite interested",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "looked at Mr. Casaubon",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Oh dear,",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You questioned me about the matter of fact",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "choosing them, but Mr. Casaubon objected",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You seem not to care",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "His walk must be belles-lettres",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Don\u2019t speak of my painting",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Mr. Casaubon\u2019s patience held out",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "He said that he must go now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am so glad you are come",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "What is that, my love?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "ask her if she would",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he urged that Mrs.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It makes me savage",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I had a duty towards him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It was my fault",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "And then all this immense expense of art",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "How can you bear to speak so lightly?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I have been making",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "putting her hand on her husband\u2019s",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "It will come",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "jokes at the expense of Mr. Casaubon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Naumann",
+      "evidence_snippet": "He\u2019s a cursed white-blooded pedantic coxcomb",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he discussed what she said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "That seems somehow to lie outside life and make it no better for the world",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Naumann",
+      "evidence_snippet": "He will tell you, it is all pfuscherei",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "When I am made to think that most people are shut out from it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Of poetry, of all refinement",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I mean to go back to England",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "said in a tone of piteous regret",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "they exchanged a simple \u201cGood-by\u201d",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You would hardly believe",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Naumann",
+      "evidence_snippet": "Oblige me by letting the subject drop",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I am not in a position to express my feeling",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Naumann",
+      "evidence_snippet": "vent ed those adjuring interjections",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I believe devoutly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I think I would rather",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Certainly, I will promise you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "The best piety is to enjoy\u2014when you can",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You are doing the most then to save the earth\u2019s character as an agreeable planet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "It would require all your knowledge",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It was I who led to it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I thought you would consider that a good sign",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "In your own goodness and turn evil that you might have no advantage over others",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "She was impelled to have the argument aloud",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It is because you did not like Lowick",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "What a difficult kind of shorthand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Oh, let us stay!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Dorothea\u2019s eyes turned with wifely anxiety",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he observed, had always been",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Not exactly the same",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Naumann",
+      "evidence_snippet": "said\u2014",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It is very good of you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You are doing the most",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You are too young",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I think they are wanted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Promise me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "We have nothing to do to-day",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You seem not to care about cameos",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Would you turn all",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You questioned me about the matter of fact",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "blinked furtively at Will",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "said Will, also getting a tone of rejoinder",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "It was I who led to it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Indeed you mistake me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I hope I am not given",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Oh yes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I remembered your goodness in what you said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I am so glad we met in Rome",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I told him I was sure that the thing you considered",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "It is very good of you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "observing her while she closed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he had perhaps never felt",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I wanted to ask you again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "They are spoiling your fine temper",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I have something to tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I sometimes twit him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Dorothea gave him her hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Ah\u2014now\u2014if I could but have had more",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "If you carried it out you ought to be miserable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I suppose I am dull about many things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "this time I mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have made you angry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You are unspeakably good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I quite hoped",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I met him outside",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "And there is one thing even now that you can do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I call that the fanaticism of sympathy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "What was it?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You are a poem",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "laying his other hand on Dorothea\u2019s",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "said\u2014",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I mean what you said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "said Dorothea, with more remonstrant energy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he had made himself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have made you think ill of me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I shall await his communication on the subject",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "talk of her lips",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I submit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "No, frankly, I don\u2019t think them a great object",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "What very kind things you say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I fear I shall never have the opportunity",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "not like Celia",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I should need some explanation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I should have expected you to be very sensitive to the beautiful everywhere",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he appealed to Dorothea",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I like you very much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Naumann",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "said\u2014",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "No, frankly, I don\u2019t think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I should like to make life beautiful\u2014I mean everybody\u2019s life",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Adolf Naumann",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Now, sir, if you can oblige me again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "feeling happier",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It spoils my enjoyment of anything",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

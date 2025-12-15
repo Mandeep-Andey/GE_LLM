@@ -1,0 +1,826 @@
+{
+  "interactions": [
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I hope your wish",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Not immediately\u2014no",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "nursed him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "was solicitous about his feelings",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon bowed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "One thing more I have still to ask",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I thank you, Mr. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "did you communicate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "critical wife",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Yes, I did not like to disturb you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "evidence_snippet": "she wandered slowly round",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Lydgate",
+      "evidence_snippet": "a tolerably comfortable life",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "In marrying Dorothea Brooke I had",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon winced perceptibly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she has a tendency",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "He never knows what is in my mind",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "his heart",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he saw Mr. Casaubon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the sensation which this unresponsive hardness inflicted on her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "passed her hand through his arm",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I request it as a friendly service",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea\u2019s nature",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "a man with no other principle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she might be petty enough to please him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "betrayed any anxiety",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "He held himself to be, with some private scholarly reservations, a believing Christian",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I am exceedingly obliged",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea had been aware",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Will Ladislaw\u2019s existence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he had been asking",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "had been silent about having seen Will",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "shrank from pity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Carp & Company",
+      "evidence_snippet": "interrupted his diligent exploration",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "evidence_snippet": "she saw him advancing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Lydgate",
+      "evidence_snippet": "I believe that you are suffering",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Then I can no longer hesitate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Were you waiting for me?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "He wishes he had never married me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "saw Mr. Casaubon",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the light advanced",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he thinks of an easy conquest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the answer",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he has claims beyond anything I have done for him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Lydgate, certain that his patient wished to be alone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "She is ready prey",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the library door open",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she was ready to be attached",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she put her hand into her husband\u2019s",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "It is his fault, not mine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had never had a t\u00eate-\u00e0-t\u00eate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "His glance in reply to hers was so chill",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "remark from her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "his work",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she judged him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "suspicions that he was not any longer adored without criticism",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Come, my dear, come",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he has ever persisted",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "anticipated his wants",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "We will, if you please",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the image of him",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the answer must have wrung",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "waved his hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he was determined to settle",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "in knowledge he has always tried",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he was penetrating enough",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Suspicion and jealousy of Dorothea\u2019s impressions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Carp & Company",
+      "evidence_snippet": "came athwart the dim light",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Lydgate",
+      "evidence_snippet": "no such result can be predicted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "replied\u2014\"No, I merely",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the mind does not change its lifelong bias",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "fervid reasons",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he will persuade her to marry him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "inward drama",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I thank you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "requested him to fix",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he was capable of any design",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "This man has gained Dorothea\u2019s ear",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "You refer to the possible hindrances",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "resolved submission",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Lydgate",
+      "evidence_snippet": "death from this disease is often sudden",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Tantripp",
+      "evidence_snippet": "do not disturb me again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You are young, and need not to extend your life by watching",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea! he said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon objected",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "the sway that might be given to her ardent mind in its judgments",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Suspicion and jealousy of Will Ladislaw\u2019s intentions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he might wonder and be hurt",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "from Dorothea",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she shut her best soul in prison",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she had never deliberately allowed her resentment to govern her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he has tried to impress her mind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "against Dorothea\u2019s nature",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "withdrew her arm",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "sciolism ever dissociated from laxity",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he heard the plash of the oncoming oar",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the possible arrest",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "clinging with difficulty against his rigid arm",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the mind carries it onward in imagination",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the light in his hand",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she had believed in him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Will Ladislaw",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he suddenly found himself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "evidence_snippet": "she hesitated",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "gentle answers",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he has fascinated her attention",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "inwardly reproaches me",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Tantripp",
+      "evidence_snippet": "Get everything ready",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "did you communicate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "marrying Dorothea Brooke",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "power of suspicious construction",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "had been silent about having seen Will",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Lydgate",
+      "evidence_snippet": "asked Lydgate\u2019s opinion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "What was Mr. Casaubon\u2019s bias",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she waited on his glances",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she would not go down again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Tantripp",
+      "evidence_snippet": "I shall not dine, then, Tantripp",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I thank you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he was penetrating enough",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Lydgate",
+      "evidence_snippet": "Your condition may be consistent",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "self-approved effort",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "evidence_snippet": "she had stepped into the garden",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "paused, removed one hand",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "acquiesced",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Lydgate, said Mr. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "she could not see him again without telling him the truth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "What is the use of anything I do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea\u2019s silence now",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he felt himself warranted in believing that he was capable of any design",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "winced perceptibly, but bowed",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I can no longer hesitate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he has constantly vented in ridicule",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Dorothea did not withdraw her arm",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "mercy for those sorrows",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "led to a scene",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he could be, as long as it suited him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "read to him",
+      "interaction_type": "Observation"
+    }
+  ]
+}

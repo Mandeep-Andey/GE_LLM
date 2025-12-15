@@ -1,0 +1,748 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "begged to speak with him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray sit down, Mr. Garth"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am glad that you arrived"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you count your minutes"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray sit down, Mr. Garth"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was used to his slowness"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "expected that he was about to recur"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "they had got on well together"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have just come away from Stone Court"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You found nothing wrong there"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have just come away"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You found nothing wrong"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, yes"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there is something wrong"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He wants a doctor"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I came to tell you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "His name is Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you know how he came"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I took him myself"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "was standing as before"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am exceedingly obliged"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am exceedingly obliged to you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Perhaps you had some other business"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish to say, Mr. Bulstrode"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must give it up"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "This is sudden, Mr. Garth"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is; but it is quite fixed"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is,\u201d said Caleb"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have been led to this"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You would not wish to injure me"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You would not wish"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is a poor reason"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would injure no man"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t be happy"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must beg you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must at least claim"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must know what"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must know what is the foul speech"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That\u2019s needless"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What he has said to me will never pass from my lips"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you led a harmful life for gain"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you repent\u2014you would like to go back"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it is not for me to make your life harder to you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But you do\u2014you do make it harder to me"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I dare say you repent"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You make it harder to me"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That I\u2019m forced to do"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t judge you"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A man may do wrong"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "One moment, Mr. Garth"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I may trust then to your solemn assurance"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Such tales as that will never tempt my tongue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Stop a bit!"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Excuse me\u2014I am agitated"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you have got to consider"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you profited by his vices"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are wronging me"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am ready to believe"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I rob you of no good chance"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "As to speaking, I hold it a crime"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish you good-day"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had had some little differences"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had given up all notion"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had resigned doing further business"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He was disposed to interfere too much"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "this was a sign"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "mounted his horse"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Caleb Garth\u2019s knowledge"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles had spoken"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "arrive there before Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could not see the change"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seemed to deprecate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the money was all gone"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had been robbed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "taxed him with falsehood"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "narrative to Caleb Garth"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "heart sank again"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no word of Raffles"
+    },
+    {
+      "character_1": "Mr. Raffles",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Observation",
+      "evidence_snippet": "asked her for beer"
+    },
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Mr. Rigg",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "referred the kinship to Mr. Rigg"
+    },
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Mr. Rigg",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the buzzing presence of such large blue-bottles"
+    },
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "agreed with her husband"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have called you in, Mr. Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "met him outside the wainscoted parlor"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had the remembrance"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is his name?"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Raffles, John Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is a serious case"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No\u2014and yes"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will remain here myself"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mrs. Abel and her husband are inexperienced"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can easily remain here for the night"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "if you will oblige me by taking a note"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He seems tame and terrified enough"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He might become more unmanageable"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have more than once stayed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You think, then, that the case is hopeful"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Unless there turn out to be further complications"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He may pass on to a worse stage"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "I shall come again"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "waiting for the note to be carried"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "forming no conjectures"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dr. Ware",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "publication of Dr. Ware\u2019s"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he is an object of charity"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode seems the most"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he has taken no end of trouble"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "spent a great deal of money"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suppose he has some test"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he has made up his mind"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He had not been there"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "got down from his horse"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Forgive me for this misery"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "sat down by the bed"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you object, Tertius?"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do as you like"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should not go till to-morrow"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall want to pack my clothes"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I may get my neck broken"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that may make things easier to you"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I see you do not wish me to go"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "why can you not say so"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I see you do not wish me to go"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He felt bruised and shattered"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She could not bear to look at him"
+    }
+  ]
+}

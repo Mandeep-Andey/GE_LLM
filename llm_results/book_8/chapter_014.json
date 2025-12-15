@@ -1,0 +1,1108 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There you are, Caleb"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you had your dinner"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Where is Mary"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Are you going out again"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, no; I\u2019m only going to Mary"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Letty Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "giving a glorious swing"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I came to look for you"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let us walk about a bit"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It will be a sad while"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not a sad while"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I mean to be merry"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put her arm within his"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not a sad while, father\u2014I mean to be merry"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you are contented with Fred?"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now, father, you did praise him last Wednesday"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You like things to be neatly booked"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And then his behavior to you, father, is really good"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, indeed, father"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And then his behavior to you"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t love him because"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, dear, because I have"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be constant to Fred"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My feelings have not changed"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How can that ever be"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve got a bit of news"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The poor woman has been to me"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She wants to do the lad good"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "With saving, he might gradually buy"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He has a turn for farming"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, Fred would be so happy"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ah, but mind you"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must take it on my shoulders"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That will grieve your mother"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fred had need be careful"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Perhaps it is too much"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There would be no happiness"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nay, nay; work is my delight"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you and Fred get married"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He\u2019ll be steady and saving"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ve got your mother\u2019s cleverness"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And mine too, in a woman\u2019s sort of way"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And you\u2019ll keep him in order"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "putting her hands round her father\u2019s neck"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he\u2019ll be steady and saving"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you\u2019ve got your mother\u2019s cleverness"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and mine too, in a woman\u2019s sort of way"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He\u2019ll be coming by-and-by"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wanted to tell you first"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "because I think you\u2019d like to tell him by yourselves"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "After that, I could talk it well over with him"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "bent his head placidly, willing to be caressed"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you dear good father"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wonder if any other girl"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you\u2019ll think your husband better"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Impossible"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "husbands are an inferior class"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What fine clothes you wear"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "raised his hat to her with playful formality"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are not learning economy"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Now that is too bad, Mary"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "look at the edges of these coat-cuffs"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How very droll you will look"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "be reasonable, Fred"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why not? One lives on them"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If we can\u2019t be married in two years"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have heard a story"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall bolt; I shall go into the house to Mr. Garth"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My father is so cut up"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t bear any more bad news"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Should you call it bad news"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You don\u2019t mean anything except nonsense"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is what my father has just told me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, I could be a tremendously good fellow"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not so fast, sir"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I could be a tremendously good fellow then"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray don\u2019t joke"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Tell me seriously"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is all true"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Tell me seriously that all this is true"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is all true, Fred"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "When we were first engaged"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you used to\u2014"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The spirit of joy began"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fred and Mary! are you ever coming in"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "or may I eat your cake"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "made no such failure"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "achieved a solid mutual happiness"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "neighbors",
+      "interaction_type": "Observation",
+      "evidence_snippet": "surprised his neighbors"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "persons in Middlemarch",
+      "interaction_type": "Observation",
+      "evidence_snippet": "merit of Fred\u2019s authorship"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "give the credit of this work to Fred"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had been to the University"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "his happiness was half owing to Farebrother"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "this, Mary observed"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "was of course the fault"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that would be too great"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not feature the Garths"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "girls were good for less"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "girls were good for less"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "God made coats of skins"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "disputed much as to whether"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "contending that it was clear"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "answered contemptuously, \u201cThe more spooneys they!\u201d"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "appealed to his mother whether"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "pronounced that both were alike naughty"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "boys were undoubtedly stronger"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Ben Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "took it ill, her feeling"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "took it ill"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "work which Mr. Garth put"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "gave the boys little"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sorry for other men"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He was ten times worthier"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "To be sure he was"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But you\u2014I shudder"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you would have been"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a curate in debt"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "cambric pocket-handkerchiefs"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "still inhabit Stone Court"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "creeping plants still cast"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "foam of their blossoms"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fine stone-wall"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "walnut-trees stand"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sunny days the two lovers"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "first engaged with the umbrella-ring"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "white-haired placidity"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "open window from which"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "ordered to look out"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "two lovers who were first engaged"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "opposed her less and less"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had learned the value of her opinion"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had a more thorough conviction of his talents"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "provided one all flowers and gilding"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "bird of paradise"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "died prematurely of diphtheria"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why then had he chosen her?"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had not had Mrs. Ladislaw"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "keeping in religious remembrance"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "she had given up position"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "he would have held it the greatest shame"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she had now a life"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her husband should be"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she should give him wifely"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no one stated exactly"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "ought not to have married"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "corresponding with Will"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "invitation to the Grange"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "presupposing or hinting"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "taking that energetic step"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "talk with Sir James Chettam"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "what was the matter"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she wants to see me"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she will do wrong things"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish you would be less unkind"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Good heavens, Celia!"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will do anything you like"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will take you to town"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "met the Baronet in the grounds"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would let that alone"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Such being the bent of Celia\u2019s heart"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "reconciliation with Dorothea"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it was inevitable that Sir James should consent"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "never liked Ladislaw"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Sir James Chettam",
+      "interaction_type": "Observation",
+      "evidence_snippet": "always preferred to have Sir James\u2019s company"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "reconciliation with Dorothea and her husband"
+    },
+    {
+      "character_1": "Mr. and Mrs. Ladislaw",
+      "character_2": "The Grange",
+      "interaction_type": "Observation",
+      "evidence_snippet": "pay at least two visits during the year"
+    },
+    {
+      "character_1": "The Grange",
+      "character_2": "Freshitt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "small row of cousins at Freshitt"
+    },
+    {
+      "character_1": "The Grange",
+      "character_2": "Freshitt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "enjoyed playing with the two cousins"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his estate was inherited"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "regard Dorothea\u2019s second marriage"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "gave up her estate"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had not seen anything of Dorothea"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could not have been 'a nice woman'"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "married either the one or the other"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "great feelings will often take"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "great faith the aspect of illusion"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "inward being is so strong"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "new Theresa will hardly have"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "new Antigone will spend her"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "medium in which their ardent deeds"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "we insignificant people with"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "daily words and acts"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "lives of many Dorotheas"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sadder sacrifice than that"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "finely touched spirit had"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fine issues though they"
+    }
+  ]
+}

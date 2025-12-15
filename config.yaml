@@ -1,17 +1,39 @@
-data:
+ data:
   books_directory: "./data/Middlemarch"
   character_file: "./char_alias.json"
   llm_results_dir: "./llm_results"
   graph_artifacts_dir: "./graph_artifacts"
+  gold_annotations_dir: "./gold_annotations"  # For evaluation
 
 models:
-  llm_model: "qwen3:8b"  # Or "qwen3:8b" or whichever you chose
+  # Extractor LLM (local, via Ollama)
+  llm_model: "qwen3:8b" # Or your preferred model like gemma2:9b
   llm_host: "http://localhost:11434"
+  fast_tokenizer_for_counting: "bert-base-cased"
+  
+  # Judge LLM (Gemini API)
+  judge_model: "gemini-1.5-pro"  # Or gemini-2.0-flash for faster/cheaper
+  judge_temperature: 0.1  # Low temperature for consistent judgments
 
 processing:
-  target_book_filename: "book_2.txt"
-  chunk_size_sentences: 12  # The ideal number of sentences per chunk
-  chunk_overlap_sentences: 2 # How many sentences to include from the end of the previous chunk
+  chunk_token_limit: 256
+  chunk_overlap_sentences: 1
+
+judge:
+  # Scoring thresholds
+  accept_threshold: 0.7   # Minimum aggregate score to auto-accept
+  reject_threshold: 0.3   # Maximum aggregate score to auto-reject
+  batch_size: 10          # Interactions per API call
+  sample_rate: 1.0        # Fraction to judge (1.0 = all, 0.2 = 20% sample)
+  
+  # Rate limiting (free tier: 15 RPM)
+  requests_per_minute: 15
+
+evaluation:
+  # Metrics to compute
+  compute_per_type_metrics: true
+  compute_agreement_metrics: true
+  export_error_analysis: true
 
 analysis:
   top_n_results: 10

@@ -1,0 +1,1804 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he knew values well",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "His early ambition",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "Why should you keep such things from me?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "Oh\u2014it means\u2014you must think what you mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "had a motherly feeling",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Hark, there is a knock at the door!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fanny Hackbutt",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Fanny Hackbutt comes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I am come to tell something",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "But we needn\u2019t go on",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "You would use",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "half their rectitude in the mind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "building, and mining",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "He had nothing to say",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "youngest boy and girl",
+      "evidence_snippet": "giving lessons to her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Fred\u2019s love for her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "as Mary was",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "and other good things ending",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "it\u2019s funnier",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Please, mother, tell Ben not to speak",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had only been a short time",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Garths",
+      "evidence_snippet": "sink in the opinion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I paid away thirty with my old horse",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "Has anything happened",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Susan",
+      "evidence_snippet": "What can we do, Susan?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben",
+      "evidence_snippet": "pinching an apple-puff",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "What! Fred, my boy!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "and to you also",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "it\u2019s no use saying that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had a reverential soul",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Tell her to come home soon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Not that she was inclined",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Now let us go through that once more",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "sublime labor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "You must teach the boy yourself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "rescue Mr. Garth from loss",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "I know, Susan",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mary had four brothers and one sister",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Oh, I didn\u2019t tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Oh\u2014it means\u2014you must think what you mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "To teach you to speak and write correctly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "Yes, but before that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I\u2019d no business to be fingering bills",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "signal-shouts of the workmen",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "nodding and smiling",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "for Fred",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "effective a share as possible",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "Mr. Garth should be saved",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "had no decided notions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "it has turned out vicious and lamed itself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "exceptional indulgence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I knew he was extravagant",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "knew more of land, building, and mining",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "they should be apprenticed at fifteen",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I did not think that he would be so mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "religion without the aid of theology",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Letty, I am ashamed of you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "as a reverential pagan",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "of more celebrated men",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he thought very well of",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "tried all honest means",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mary",
+      "evidence_snippet": "advance it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "I see you are getting tired and stupid, Ben",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I didn\u2019t tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "regarded other gods",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "That you were",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Deuce take the bill\u2014I wish it was at Hanover!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I am not riding my own horse",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "I was the most in the wrong, Susan",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I have tried everything",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb",
+      "character_2": "Susan",
+      "evidence_snippet": "What can we do, Susan?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Yes, ultimately",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he was ready to accept",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "peculiarly dignified by him with the name of 'business'",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "play at forfeits, and make fun",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "she rarely forgot that",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Come here and tell me the story",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Letty",
+      "evidence_snippet": "Run, Letty, and open it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "But boys cannot well be apprenticed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Alfred",
+      "evidence_snippet": "Alfred\u2019s premium",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "Mr. Garth\u2019s want of prudence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "was inclined to sarcasm",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "the world seemed so wondrous",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "Cincinnatus, I am sure, would have been sorry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "roar of the furnace",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he knew more of land",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "drew up his chair to the desk",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "and, like the categories",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I would not have believed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "crane at work on the wharf",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "audience demands their best",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I was a fool, Susan",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "These things belong",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Dictator, now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you have taken to working without pay",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Letty",
+      "evidence_snippet": "Hark, there is a knock",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "poetry without the aid of the poets",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "excuse his errors",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "give her the money and ride away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Now, Ben.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Yes, I think so",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "These things are a sad interruption",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "This did not lead well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "had not again looked at Fred",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "the echoes of the great hammer",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb",
+      "character_2": "Susan",
+      "evidence_snippet": "looking down at the notes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "but he regarded them",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "And so could my father\u2014couldn\u2019t he, mother?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "against the last four",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "Susan, he went on",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "She always laughs at him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "go to see Mrs. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "her words which came forth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "he must in the end speak of it before her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he had a reverential soul",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "get away with all his courage to face",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred made sure of finding the money",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "could not depart from his usual practice",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "you and Mrs. Garth have always been so kind to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "they would turn",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "he was rather more in awe",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Poor Mary! he said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "was rather crude",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "learning, and amusement.\u201d",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "under a surveyor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he had never regarded himself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "felling and lading of timber",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "And so could my father\u2014couldn\u2019t he, mother?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Diamond",
+      "evidence_snippet": "had just missed killing the groom",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "she held to be follies",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "engaging herself to him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Yes, I have tried everything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "I have only got these fifty pounds",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Come, old boy, give it me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "square-faced type",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "mount, pass through the gate",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "\u201cbusiness;\u201d and though",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had never regarded",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "Mrs. Garth was a trifle too emphatic",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he had nothing to say",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "You must give up your bad habits",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "she might possess education",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "laid them on the desk",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "Cincinnatus, I am sure",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "act as directly and simply",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "I must give you the ninety-two pounds",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "thrown down his hat",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "That you were,",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You must give up your bad habits",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "and had been chiefly his own teacher",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "I shouldn\u2019t care, I should leave off",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Shall you see Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "his prince of darkness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "deferring an unpleasant task",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Is there anything up at home?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "That apple-peel is to be eaten",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "But that isn\u2019t a good word",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben",
+      "character_2": "Letty",
+      "evidence_snippet": "said Ben",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "I was a fool, Susan",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "by him with the name of",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "fixing his merciful gray eyes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "sometimes spoke of her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "cooked the family dinner",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "she could make an excellent lather",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Should you like to speak",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "apt to be a little severe",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I was going to sell for eighty or more",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he would not himself have liked",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "piled-up produce in warehouses",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "if you eat it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Poor Mary!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Tortoise",
+      "evidence_snippet": "How very mean of you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "rode on to his house",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "told Mr. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "said Letty, with an air of superiority",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "short time under a surveyor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "fair neighbors thought her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "as effective a share",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "took Fred\u2019s whip",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "It had laid hold of his imagination",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "in this sublime labor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "was often heard to say",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I shall certainly pay it all",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "Young gentlemen who go to college",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I am disappointed in Fred Vincy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he had no keenness of imagination",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "in these advanced times",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "told Mr. Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "How rude you look",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "her daughter being included",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I suppose you have asked",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Will you let me ride",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "most of the special men in the county",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "precision and variety of muscular effort",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb",
+      "character_2": "Susan",
+      "evidence_snippet": "nervously fingering the paper",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "thunder and plash of the engine",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "than most of the special men",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fanny Hackbutt",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I am not getting a great income now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I want to speak to Mr. Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Alfred Garth",
+      "evidence_snippet": "he wants to give the boy a good chance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he gave himself up entirely",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Deuce take the bill",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "No, you mightn\u2019t",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "Caleb will be in again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "You, Fred, so early",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "confess to Mrs. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "It has come at an unfortunate time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "ride to Stone Court",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "she wore a plain cap",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "I hate grammar. What\u2019s the use of it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mr. Hanmer",
+      "evidence_snippet": "Mr. Hanmer\u2019s",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "who could the least afford to lose",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "in the county",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "felt smartingly that his father would angrily refuse",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Theatre of all my actions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Sally",
+      "evidence_snippet": "observing Sally\u2019s movements",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "sights of his youth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "which was peculiarly dignified",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "he is not likely to think of her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he regarded them as",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "he determined to give up",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "had gone out early",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you have looked all round",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "How very mean of you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "She",
+      "character_2": "Fred",
+      "evidence_snippet": "it will be of no use",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I should have had a hundred and thirty pounds",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Letty Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "Very well, dictator!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "you and Mrs. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "chiefly his own teacher",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "How could a ship",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I am disappointed in Fred Vincy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Not to-day\u2014another time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "So that you can be understood",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "put his arm round Letty\u2019s neck",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "and to you also",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "How do you think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Alfred",
+      "evidence_snippet": "give you the ninety-two pounds",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "worthy to be pronounced",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Even much stronger mortals",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "But he says, \u2018A ship\u2019s in the garden\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fanny Hackbutt",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "We will go to him in the parlor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "She always laughs at him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "making them follow her about",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "He says, \u2018Yo goo\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "huge trunk vibrating star-like",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "would not be acceptable",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "had been to have",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "You will always think me a rascal now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mr. Hanmer",
+      "evidence_snippet": "He can go to Mr. Hanmer\u2019s now",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Diamond",
+      "evidence_snippet": "had ended in laming himself",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "said Mrs. Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "lived in a small way",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mrs. Susan Garth",
+      "evidence_snippet": "the Garths were poor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "looked at her husband",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Alfred Garth",
+      "evidence_snippet": "pulling out the edging",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "He divided them into",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "instead of \u2018a sheep\u2019",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "made Fred feel",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "I can\u2019t abide your losing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "His classification of human employments",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "had gone out early",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You must indulge yourself a little less in that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Are Letty and Ben your only pupils",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I wish it was at Hanover",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "I know it will be of no use",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Alfred Garth",
+      "evidence_snippet": "Alfred\u2019s premium",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "Very well, dictator!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "same curly-haired",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "You, Fred, so early in the day?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Enough, enough, Ben! run away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "Caleb thinks that Alfred",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I meant to go without a horse",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "He divided them into",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "his conscience would have been",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Diamond",
+      "evidence_snippet": "had caught his leg in a rope",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "early ambition had been",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "motherly feeling",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "\u201cbusiness, politics, preaching",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Mr. Garth was not at the office",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "She had sometimes taken pupils",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "wait for Mr. Garth",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "darned all the stockings",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "She had never been so little inclined",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Mrs. Garth",
+      "evidence_snippet": "you are not so ignorant as that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "go straight to Mr. Garth",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Letty",
+      "character_2": "Ben",
+      "evidence_snippet": "said Letty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "her face from looking benevolent",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Garths",
+      "evidence_snippet": "made Fred feel",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "hang his risks on his oldest friend",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "You are sadly cut up",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "lowered his spectacles",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Caleb Garth often shook his head",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Ben Garth",
+      "character_2": "Letty Garth",
+      "evidence_snippet": "Well, but you must say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "philosophy without the aid of philosophers",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "his virtual divinities were",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Garth",
+      "character_2": "Fred",
+      "evidence_snippet": "I want to speak to Mr. Garth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "She",
+      "character_2": "Fred",
+      "evidence_snippet": "I suppose you have asked",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "had laid hold of his imagination",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "would probably not have excused",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Diamond",
+      "character_2": "Mr. Garth",
+      "evidence_snippet": "without looking",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Susan Garth",
+      "character_2": "Ben Garth",
+      "evidence_snippet": "I see you are getting tired",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

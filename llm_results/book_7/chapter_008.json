@@ -1,0 +1,1408 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "was standing"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "was rather curt"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "felt that Hopkins was"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was not going to waste"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bambridge was finding"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bambridge would gratify"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "came up Mr. Frank Hawley"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "ask the horsedealer"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "had found the first-rate gig-horse"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "did not know a horse when he saw it"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "see it tried"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I picked up something else"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you know how he came"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hopkins",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If everybody got their deserts"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll tell you where"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He tells me he can"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he takes a stiff glass"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he\u2019s that sort of bragging"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the bragging runs over"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he\u2019d brag of a spavin"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A man should know"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What\u2019s the man\u2019s name"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Where can he be found"
+    },
+    {
+      "character_1": "Mr. Hopkins",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Raffles!"
+    },
+    {
+      "character_1": "Mr. Hopkins",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I furnished his funeral"
+    },
+    {
+      "character_1": "Mr. Hopkins",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He was buried at Lowick"
+    },
+    {
+      "character_1": "Mr. Hopkins",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Bulstrode followed him"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What?\u2014where did the man die"
+    },
+    {
+      "character_1": "Mr. Hopkins",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "At Stone Court"
+    },
+    {
+      "character_1": "Mr. Hopkins",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The housekeeper said"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, it was on Wednesday"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Did any doctor attend him"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Lydgate"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Go on, Bambridge"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "gossip about Bulstrode"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "sent a clerk whom he could trust"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Caleb",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "asked whether he had time"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Caleb",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "asked him incidentally about Raffles"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said so a few hours later"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Caleb",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Caleb to be the chief publisher"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "talk over the whole matter"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had always had justice enough"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had a foreboding"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he himself was careful"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know he\u2019s one of your black sheep"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Any cursed alien blood"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he is really a disinterested"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mr. Farebrother, smiling"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mr. Hawley"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thinking of Lydgate\u2019s attendance"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thinking of Lydgate\u2019s attendance"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "significant relation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "significant relation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sudden command of money"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "direct evidence"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "loan to Mrs. Plymdale"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mentioned it to her daughter-in-law"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "gossip about Lydgate\u2019s affairs"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "neither his father-in-law nor his own family would do anything for him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "direct evidence was furnished"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "innocent Mrs. Bulstrode herself"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mentioned the loan to Mrs. Plymdale"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mentioned it to her daughter-in-law"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mentioned it generally"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode\u2019s liberality to Lydgate"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "invited a select party"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Wrench",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "invited a select party"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "invited a select party"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Dr. Gambit",
+      "interaction_type": "Observation",
+      "evidence_snippet": "invited a select party"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Dr. Gambit",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "invited a select party"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "invited a select party"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Wrench",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "invited a select party"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "hold a close discussion"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Wrench",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "hold a close discussion"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Dr. Gambit",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "hold a close discussion"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Dr. Gambit",
+      "interaction_type": "Observation",
+      "evidence_snippet": "reciting to them all"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Observation",
+      "evidence_snippet": "reciting to them all"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Wrench",
+      "interaction_type": "Observation",
+      "evidence_snippet": "reciting to them all"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode clearly had"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had given Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the fact that at this critical moment"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he must for some time have known"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the disposition to believe"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the absence of any indisposition"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the fact threw an odious light"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had long been sneered at"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "throw an odious light on Lydgate"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the affair had an ugly look"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "resist the shallow pragmatism"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "concerning Bulstrode\u2019s earlier life"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Limp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That\u2019s odd,\u201d said Mr. Limp"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Limp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Very like,\u201d said Mrs. Dollop"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he was forced to take Old Harry into his counsel"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he\u2019s a \u2019complice you can\u2019t send out o\u2019 the country"
+    },
+    {
+      "character_1": "Mr. Dill",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "they\u2019re all of one mind to get rid of Bulstrode"
+    },
+    {
+      "character_1": "Mr. Limp",
+      "character_2": "Fletcher",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mr. Limp, quaveringly"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he won\u2019t keep his money"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "they could take every penny"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "if they went to lawing"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No such thing"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Fletcher",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fletcher says it\u2019s no such thing"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Fletcher",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "they might prove over and over again"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Fletcher",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "they\u2019d do no more than if they proved"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Fletcher",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he came out of the Fens"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Look you there now"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thank the Lord"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thank the Lord he took my children"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wonder at a man o\u2019 your cleverness"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s well known there\u2019s always two sides"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s a poor tale, with all the law"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fletcher may say that if he likes"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Dill",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I say, don\u2019t Fletcher me!"
+    },
+    {
+      "character_1": "Mr. Dill",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Dill affected to laugh"
+    },
+    {
+      "character_1": "Mr. Dill",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If they come to lawing, and it\u2019s all true"
+    },
+    {
+      "character_1": "Mr. Dill",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there\u2019s more to be looked to nor money"
+    },
+    {
+      "character_1": "the glazier",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there\u2019s more to be looked to nor money"
+    },
+    {
+      "character_1": "the glazier",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he\u2019d seen the day when he was a deal finer gentleman nor Bulstrode"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Finer gentleman! I\u2019ll warrant him"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Baldwin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You don\u2019t make me no wiser"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Baldwin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Baldwin can bear me witness"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And in the rights of it too"
+    },
+    {
+      "character_1": "Mr. Baldwin",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You don\u2019t make me no wiser"
+    },
+    {
+      "character_1": "Mr. Baldwin",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I said, and Mr. Baldwin can bear me witness"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll believe you!"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "When a man\u2019s been \u2019ticed"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "nobody to come near but a doctor"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and after that so flush"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t want anybody"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t want to stand"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Crabbe",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked round with the air"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Limp",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "placed his flat hands"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Limp",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "pressed them hard between"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Limp",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "looking down at them"
+    },
+    {
+      "character_1": "Mr. Limp",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why shouldn\u2019t they dig"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Mr. Jonas",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not they, Mr. Jonas"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Doctor Lydgate that\u2019s been"
+    },
+    {
+      "character_1": "Mr. Limp",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ve seen drops myself"
+    },
+    {
+      "character_1": "Mr. Limp",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t tell me!"
+    },
+    {
+      "character_1": "Mr. Limp",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "All I say is"
+    },
+    {
+      "character_1": "Mr. Limp",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it\u2019s a mercy they didn\u2019t take"
+    },
+    {
+      "character_1": "Mr. Crabbe",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "All I say is, it\u2019s a mercy"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking strangely at him"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "suspected the betrayal"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had not been accustomed"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "could not miss the signs"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had been taking journeys"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We will make a journey"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There are great spiritual"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "six weeks there will"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he really believed"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "meant that his life"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fearing to manifest"
+    },
+    {
+      "character_1": "Mr. Jonas",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "avoided saying anything"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fearing to manifest"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "suspecting this he must"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "nothing had been betrayed"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "anxiety not to do"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had every motive for being silent"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "raised his hat with mild gravity"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "felt himself providentially secured"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had strongly winced under"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a strong determination was growing"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a meeting was to be held"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a cholera case in the town"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "much cleansing and preparation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a piece of ground outside the town"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he saw Lydgate"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "they joined, talked over"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sat opposite, not far"
+    },
+    {
+      "character_1": "Mr. Thesiger",
+      "character_2": "Mr. Brooke of Tipton",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was in the chair"
+    },
+    {
+      "character_1": "Mr. Brooke of Tipton",
+      "character_2": "Mr. Thesiger",
+      "interaction_type": "Observation",
+      "evidence_snippet": "on his right hand"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "peculiar interchange of glances"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rose and asked leave"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Thesiger",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Thesiger sanctioned the request"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Thesiger",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Thesiger sanctioned the request"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode sat down"
+    },
+    {
+      "character_1": "Mr. Thesiger",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I do now call upon him"
+    },
+    {
+      "character_1": "Mr. Thesiger",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Bulstrode should be called upon"
+    },
+    {
+      "character_1": "Mr. Thesiger",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I and the friends"
+    },
+    {
+      "character_1": "Mr. Thesiger",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he holds not simply"
+    },
+    {
+      "character_1": "Mr. Thesiger",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "defend themselves"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t say that Mr. Bulstrode"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "All eyes in the room"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had been going through a crisis"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shrunken misery of Bulstrode\u2019s livid face"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked at the shrunken misery"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "quail before the glance"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "must quail before the glance"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode felt that he should answer"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should answer, and that his answer would be a retort"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Before the last words were out of Mr. Hawley\u2019s mouth"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking at Bulstrode"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking at Bulstrode"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I protest before you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I protest before you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Frank Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you mean me, sir"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "four persons started up"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Chichely",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "four persons started up"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "four persons started up"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Allow me, Mr. Hawley"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I call you and every one else"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I repudiate your canting palavering Christianity"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I affect no niceness of conscience"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have not found any nice standards necessary"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I again call upon you to enter into satisfactory explanations"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "or else to withdraw from posts in which we at any rate decline you as a colleague"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we decline to co-operate with a man whose character is not cleared"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "not only by reports but by recent actions"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "sat down with his hands thrust deep in his pockets"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Bulstrode, it is not desirable"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "concur with what has fallen from Mr. Hawley"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I recommend you at present"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "felt sure there was not strength"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "gave his arm to Bulstrode"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "led him out of the room"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "believed it to be a bribe"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he took it as a bribe"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "morally forced to take"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "send a man off for his carriage"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wait to accompany him home"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Step into my carriage"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "talk to Mr. Farebrother"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am going round to see Mrs. Casaubon"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Brooke chatting"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Farebrother said little"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, my dear"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Was Mr. Lydgate there?"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Was Mr. Lydgate there?"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I want to see him"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will not believe it"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will not believe it"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let us find out the truth"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and clear him"
+    }
+  ]
+}

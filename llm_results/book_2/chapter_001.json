@@ -1,0 +1,706 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I assure you, sir, I am very grateful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "Ay, ay, I don\u2019t want",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "Shall I destroy this",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "But Fred was of a hopeful disposition",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I never said you ought to be a clergyman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "He\u2019s got a pretty strong",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Oh, that I am idle and extravagant",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "On the contrary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "It seems to me very miserable not to resolve on some course and act accordingly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "thrust the poker through it",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "What can the fitness of things mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You ought to have a little fellow-feeling there, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "In that last point",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "creditor to whom he owed a hundred and sixty",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "You are very good, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I came to bring you the letter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "we only get farther and farther into the swamp of awkwardness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "This was what Fred Vincy felt",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "seemed provokingly mistress of the situation",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "keep it safe away from my fingers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Pray sit down",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "if you will not give me some encouragement",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I think he is in love with you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "But I know you despise me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Yes, I do\u2014a little",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I should have thought",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "It is too bad of you to be guided by what other people say about me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "you have always been so good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "If you were sure you should not have a fortune",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I did not mean to make you angry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "carried the letter to the fire",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "my father would think it a disgrace",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "handed back the letter",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I don\u2019t see how a man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I thought I was not to look",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "Failing this, absurdity and atheism gape",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "But you won\u2019t get much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You would have done your duty",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Let it alone!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "You bring it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Not of the least use",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I don\u2019t care how merry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "When a conversation has taken a wrong turn for us",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "No, I mean something general\u2014always.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mary was sewing swiftly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "you don\u2019t suppose I believe a thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You mean, just as I am",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I should think it is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Because I like you better than any one else",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "May I stay here a little",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "Tell missy to come",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I suppose a woman is never in love",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You know better",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "to run away immediately",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I should be quarrelling with all my new books",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "fond of his mother",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "she doted on her eldest son",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "I don\u2019t want to spend that money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "What business had she to go away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Yes, I should",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I should think it handsome",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I think that is quite wicked",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Now you go away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "Well,\u201d Mr. Featherstone here looked over his spectacles at Fred",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "whom others thought her two naughtiest children",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I thought you looked so sad",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Come, Fred!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "seizing her hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "At last, Mr. Featherstone eyed him again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Dear me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "take some security",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "fond of another person",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "However naughty you may be to other people",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "The collapse for Fred was severe",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I am not aware of it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I do like to be spoken to",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "So I could, if\u2014",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "You won\u2019t get much out",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "He held himself to be a gentleman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "there is Mr. Lydgate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Not at all, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "liability to spend the hundred pounds",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "You expect I am going to give you a little fortune",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You are good to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I will not give you any encouragement",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "You want to cut a figure in the world",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "It is very handsome of you, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You would admire a stupendous fellow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Do you mean anything particular\u2014just now?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "You expect I am going to give you a little fortune",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "That is all very fine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I did not say that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "my experience is rather mixed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Let me see",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I think the goodness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "you have always been so good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "He\u2019ll never have much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You know better, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "firmer security in the shape of a bill signed by Mary\u2019s father",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I am very much obliged to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I expect nothing, sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I suppose you lose it like one",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred",
+      "character_2": "Mary",
+      "evidence_snippet": "Allow me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You want to quarrel with me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "Come, don\u2019t you think it worth",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Vincy",
+      "evidence_snippet": "Very well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "I shall be very happy to count",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary",
+      "evidence_snippet": "Tell missy to come!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "you don\u2019t suppose I believe a thing because Bulstrode writes it out fine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he was a little ashamed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Crowse",
+      "evidence_snippet": "curates like Mr. Crowse",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I forgot what a great service",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "You were good enough to speak of making me a present",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "never speak to me in that way again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Vincy",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Bless you, my dear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Fred",
+      "evidence_snippet": "Ay, rather a better uncle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "How can I want to quarrel with you",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

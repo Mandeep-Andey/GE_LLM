@@ -1,0 +1,1618 @@
+{
+  "interactions": [
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "have the garden altered",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "No; she died by an accident\u2014a fall\u2014four years ago.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the position offered to Will was out of keeping",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "question of ties which left them uninfringed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "striking across the fields",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "tumult of conflicting emotions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "without speaking again",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "she was mistaken",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Ladislaw\u2019s sentiments in every way",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "No; she died by an accident",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Will Ladislaw\u2019s occupation",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "seeing her face change",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he is a relation of yours",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I have always had too much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "helping to concentrate her feelings",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon always expressly recognized",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Each looked at the other",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I have deliberated upon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "said Will, with irrepressible quickness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "That is a point I wanted to mention to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Mr. Brooke proposes that I should stay in this neighborhood",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Casaubon",
+      "evidence_snippet": "venom in the glance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "terrestrial intercourse",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "That is very good of you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon\u2019s illness",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I supposed that Mr. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I wish you could have stayed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I should have no happiness",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "shrank nervously from communicating",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Do you feel ill, dear?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Pratt",
+      "evidence_snippet": "I will wait till luncheon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Dear Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "it seems to me clear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "please not to mention that again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "striking across the fields",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I accept no revision",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "And not settling to anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he has mentioned a proposal of my uncle\u2019s",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "suspected that her uncle\u2019s scheme",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "They may possibly clash with more imperative considerations",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "would have a prior claim",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "mentally preparing other measures",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "smiling brightly at Dorothea",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "sat down opposite her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "we were talking a great deal together",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I will never grumble",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Don\u2019t mention the subject",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "encourage communications",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Would not that be a sacrifice of higher prospects for you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I remember them all",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "They both died rather early",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "These, my dear Dorothea",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I must speak about it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hackbutt",
+      "evidence_snippet": "Pioneer being edited",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I will never again, if I can help it, do or say what you would disapprove",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I came to sketch",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am unable to take precisely your view",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "never found it easy to question her husband",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Come here, Dorothea",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Certainly.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "shrouded in the darkness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "I can help Mr. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "But he will!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he has shown a sense of justice",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "May I talk to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "felt (and must not we",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "shaking his head backward",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "she was travelling",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "Celia had warned her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "immediately think of Dorothea",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Aunt Julia",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "introduce him elsewhere",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I do not now enter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Yes, said Dorothea",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You were not a steady worker",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "the proposal was not wise",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "I think I shall be able",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "had refused Mr. Casaubon\u2019s future aid",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "regard Will Ladislaw favorably",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Perhaps; but I have always been blamed for thinking of prospects",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "leaned over the elbow",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "new conservatories",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I wonder whether she was happy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "your acceptance of the proposal",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "chosen a man who was poor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I used to feel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Pratt",
+      "evidence_snippet": "Don\u2019t mention that I am here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "apply directly to Mr. Brooke",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "historical, political reasons",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "It is the most horrible",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "He had never told me that he supported your mother. Is she still living?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "That is your apology",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "daughter whose child\u2014even according to the ordinary aping",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hackbutt",
+      "evidence_snippet": "disgust at the notion",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "approached her to shake hands",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "they don\u2019t understand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He has bought one of the Middlemarch newspapers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he did not say that he came",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "has on your part been in some degree entertained",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "proposal has been made",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "I can find out references",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "fill up my days",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You see I come of rebellious blood",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "But you will soon go away, out of my rule, I imagine",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Even with her ignorance of the world",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "stratagem was limited",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "That you have been too liberal",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "had disliked Will",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "And here is something offered to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I shall be obliged",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Casaubon",
+      "evidence_snippet": "act of marrying this wife",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "had been wanting",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "my father had made himself known",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Pratt",
+      "evidence_snippet": "I know Mr. Casaubon does not like",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have really sometimes been a perverse fellow",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "cut off the girl from the inheritance",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "the contrary issue must exclude you",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Mr. Ladislaw has probably been speaking to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "you have assumed a judgment",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "never himself seen fully what",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "delight in his guest",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "presence of that delicate miniature",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "He had never told me that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon had a debt",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I shall have a little kingdom then, where I shall give laws",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You will soon be tired of staying at the Grange",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "But surely we should regard his claim",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "I accept no revision",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I am very glad you have had",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "meant to defy and annoy him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "wrought herself into some independent clearness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Hackbutt",
+      "character_2": "Mr. Hawley",
+      "evidence_snippet": "He\u2019s got the freak",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Can you not wait now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "He had never told me that he supported your mother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I have given all due consideration",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "presence of Dorothea",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he must see Dorothea",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "inheritance a question of liking or of responsibility",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "wanted to talk with Dorothea",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Let Brooke reform his rent-roll",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon had sent his letter",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "the buildings all over his estate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "felt that this was a consideration",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Yes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "reassert what her remark had questioned",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I have often thought",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "you may easily carry the help",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Mr. Casaubon must have overcome",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "some emissary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "despatched the following letter",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "Alarm at the possible effect",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I have been thinking",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "land should be entailed",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I am very glad you have had that pleasure",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "besides, Mr. Casaubon cannot bear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he dislikes me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I fear you think too hardly of him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "had never found it easy to question her husband",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Hackbutt",
+      "character_2": "Mr. Hawley",
+      "evidence_snippet": "I\u2019ve had my eye on him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I have been led to think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Casaubon",
+      "evidence_snippet": "knew that very well",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hackbutt",
+      "evidence_snippet": "You must concede that there are abuses",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "to be a great deal on horseback",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Dear uncle, you know, has many projects",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "cut off the girl from the family protection",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "seated herself on a dark ottoman",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "remained a long while sleepless",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "And he objects to a secretary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have had the gratification",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I must still maintain that an obligation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I have been thinking about money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "smiling brightly at Dorothea",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You were not a steady worker enough",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "But if one has too much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "every energy was arrested",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea, since you are up",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "did not appear at the gate",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Aunt Julia",
+      "evidence_snippet": "early troubling her elders with questions",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "He\u2019s a cursed old screw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "sow her mind with disrespect",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "had remained dumb",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Before you came I had been regretting",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "meeting all representations with apparent assent",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Dorothea, now that she was present",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Because Mr. Ladislaw has been here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "knowledge that her tendency",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he heard her with an air of patience",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You correct me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Casaubon",
+      "evidence_snippet": "discern a bitterness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "You must remember",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "It would be better for Mr. Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "tell me how it was",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "had forbidden Will to come",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he has shown a sense of justice",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "You must remember",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "a benefactor\u2019s veto might impose such a negation",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "now that she was present",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "had arranged to bring",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "what Will had told her",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "wind up by saying",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "His antipathy to Will",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "their interviews had been",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "She looked steadily at her husband",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "allowed Dorothea to read",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "dictation within that range",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Certainly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I should like to talk to you again",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I wonder how she bore the change",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Do you feel ill, dear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Then I will stay",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Brooke becoming actively political",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I am indebted to the rain",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "You are so good, so just",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "what are we doing with our money?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "meeting him with her sweet unconstrained smile",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I belong to nobody",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she usually walked",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "you are not here qualified",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "That is your apology",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I feared that you might feel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "watch over her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "always seemed to see more",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Dorothea, as a young wife",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "There was a gentleness",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "I told Mr. Brooke not to call",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "He is too doubtful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "watched them both",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "His name is Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Casaubon must have overcome",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "constitute a criticism",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he has the same sort of enthusiasm",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Are you not too much shut up",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "a benefactor\u2019s wishes may constitute a claim",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "At any rate, the contrary issue",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "What could I do?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "since you are up, will you light a candle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he of course expected me to tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon had a claim to be consulted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "since her conversation with Will",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "He seems to me a kind of Shelley",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon could not have known",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Mr. Hackbutt",
+      "evidence_snippet": "Large towns be damned",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have heard both Mr. Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "He\u2019ll begin with flourishing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Casaubon",
+      "evidence_snippet": "done a wrong to Dorothea",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "What is your opinion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "What, my love, is the bearing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "it were well that it should be the last",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "regard Will Ladislaw favorably",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "consult Sir James Chettam",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I wanted to talk about things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I wish I knew all about her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "wrong to Dorothea",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Why so, my dear",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I should like you to stay",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "had not seen Dorothea alone",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "his previous conduct",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "He wishes me to conduct that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Pratt",
+      "evidence_snippet": "Oh, very well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I thought you could understand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "this is not the first occasion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "It seems strange to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "And also to help him in other ways",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "In another minute he was in the library",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "had begun to dislike him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "necessity excused stratagem",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "the consequent blank might be more cruel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "evidence_snippet": "frightened, wretched\u2014with a dumb inward cry",
+      "interaction_type": "Observation"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "interactions": [
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "was carefully gentle towards her"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "referred to an economical change"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "repressing his anger when she answered"
+    },
+    {
+      "character_1": "Rosamond",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wishing that he would go to live in London"
+    },
+    {
+      "character_1": "Rosamond",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "listened languidly"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Will Ladislaw"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Dorothea"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Will\u2019s resolution to quit Middlemarch"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "admiration for Dorothea"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Casaubon"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Lydgate"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his way of talking"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate\u2019s presence"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "exaggerated his admiration"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Will Ladislaw was always"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he would have made"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "intercourse with the family"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she had replied"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "change she now most longed for"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she had replied"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "a letter from Will Ladislaw to Lydgate"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her face looked like a reviving flower"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Ladislaw was coming"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the debts were paid"
+    },
+    {
+      "character_1": "Mrs. Lydgate",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thinking that Lydgate"
+    },
+    {
+      "character_1": "Mrs. Lydgate",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "keep out of her way"
+    },
+    {
+      "character_1": "Mrs. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "give him a wise admonition"
+    },
+    {
+      "character_1": "Mrs. Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "other people\u2019s duties"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is he writing to you about"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why on earth have you been sending"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you hear me"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, certainly I hear you"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "turning her head aside"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "tossed his head"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "feeling himself dangerous"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "getting more and more unbearable"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "His indisposition to tell"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "His unreflecting habit"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she had seen nothing of"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "their neighbors\u2019 apparent avoidance"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she now put on her bonnet"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "suddenly feeling as if"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "there were a conspiracy"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "to leave her in isolation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "with a husband disposed"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "to offend everybody"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "It was after the dinner hour"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "They greeted her with sad looks"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "saying 'Well, my dear!'"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is there anything the matter, papa?"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you heard nothing?"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you heard nothing about your uncle Bulstrode, Rosamond?"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, papa"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Trouble were not anything she had before experienced"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Have you heard nothing"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think Lydgate must leave"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Things have gone against him"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t accuse him of any harm"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She bears it beyond anything"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ah, thank God"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate observed a change"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he did not speak to her"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she could not speak to him"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was in a morbid state"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she had heard the bad news"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was justified in shrinking"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Rosamond, have you heard"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, she answered"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What have you heard?"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Everything, I suppose"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That people think me disgraced?"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, said Rosamond"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thought, 'If she has any trust'"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "expected to come from Tertius"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Farebrother had not come forward"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He was always to her a being apart"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should have to master this anger"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he must bend himself to her nature"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he must give the more"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could bring her to feel"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "they should be one in the resolve"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She too had begun"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "seated himself, not in his usual chair"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking at her gravely"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was bound to try this"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Surely, Tertius\u2014"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well?"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Surely now at last you have given up"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let us go to London"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I cannot go on living here"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Papa, and every one else, says you had better go"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Whatever misery I have to put up with"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it will be easier away from here"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "felt miserably jarred"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rose and went out of the room"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "They lived on from day to day"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "their thoughts still apart"
+    },
+    {
+      "character_1": "Tertius Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was behaving cruelly"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate going about"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she was determined to tell him"
+    }
+  ]
+}

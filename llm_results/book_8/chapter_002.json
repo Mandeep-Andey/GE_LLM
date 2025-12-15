@@ -1,0 +1,892 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "held a bad opinion"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "unpleasant fact"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "unfavorable view"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wives in Middlemarch"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "matrimonial misfortunes"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "moral activity"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "matrimonial misfortunes"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "matrimonial misfortunes"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "imagined what her feelings"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "conjectured how much she"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "interaction_type": "Observation",
+      "evidence_snippet": "talked together much of"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "associate Rosamond"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "same blight with her aunt\u2019s"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "more severely criticised"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "regarded as a victim"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "was vindicated from any resemblance"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Harriet",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She has always been showy"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "making tea for a small party"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she must have somebody to sit down"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mr. Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Thesiger has always countenanced"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Tom Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he was never fond of him in his heart"
+    },
+    {
+      "character_1": "Mrs. Tom Toller",
+      "character_2": "Mr. Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Thesiger never goes"
+    },
+    {
+      "character_1": "Mrs. Tom Toller",
+      "character_2": "Mr. Tyke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "clergymen like Mr. Tyke"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mr. Tyke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Tyke is in great distress"
+    },
+    {
+      "character_1": "Mrs. Sprague",
+      "character_2": "Mr. Tyke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "clergymen like Mr. Tyke"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Tyke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "set down people\u2019s bad actions"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think we must not set down"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, my dear, we are forgetting"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We ought not to be talking"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am sure I have no reason"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s true Mr. Plymdale has"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But I have always kept"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Still, in point of religion"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I don\u2019t say that there has"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I like moderation myself"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But truth is truth"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, said Mrs. Hackbutt"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "all I can say is"
+    },
+    {
+      "character_1": "Mrs. Sprague",
+      "character_2": "Mrs. Hackbutt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think she ought to separate"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But 'worse' can never mean"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Fancy living with such a man"
+    },
+    {
+      "character_1": "Mrs. Tom Toller",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, I think myself it is"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Tom Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And a good wife poor Harriet"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Tom Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She thinks her husband the first"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Tom Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s true he has never denied"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, we shall see what she"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Tom Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Hackbutt"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Tom Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Tom Toller"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Hackbutt"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Tom Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Plymdale"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Hackbutt"
+    },
+    {
+      "character_1": "Mrs. Sprague",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Mrs. Sprague"
+    },
+    {
+      "character_1": "Mrs. Sprague",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suppose the Bulstrodes"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And a most deadly blow"
+    },
+    {
+      "character_1": "Mrs. Sprague",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The doctor says that is"
+    },
+    {
+      "character_1": "Mrs. Sprague",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The doctor says that is what he should recommend the Lydgates to do"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Sprague",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That would suit her well enough, I dare say"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "intimacy with Mrs. Bulstrode"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "profitable business relation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "profitable business relation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "late alliance of her family"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "hated man had come ill"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "husband had chosen"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "last visit of Raffles"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "husband\u2019s more hopeful speech"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Raffles",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Raffles had been employed"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she allowed to be explained"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her husband\u2019s more hopeful speech"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate had brought him home"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she cried in private"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he would not allow her to read"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he suspected that in shutting"
+    },
+    {
+      "character_1": "Mrs. Plymdale",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she felt sure something had happened"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Lydgate, pray be open with me"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Has anything happened to Mr. Bulstrode?"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Some little nervous shock"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But what brought it on?"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There is often something poisonous"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Strong men can stand it"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is often impossible to account"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the precise moment of an attack"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "strength gives way at a particular moment"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mrs. Bulstrode was not satisfied"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she believed some calamity"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was to be kept in ignorance"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she strongly to object"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "showed into the drawing-room"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have not been"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Hackbutt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Was Mr. Hackbutt at the meeting"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Hackbutt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, he was"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Hackbutt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The land is to be bought"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am sure I should be glad"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "we must learn to resign"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there will always be people"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "longed to say"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "felt suddenly rather chill"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "something unusual behind"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Hackbutt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "prepare her a little"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Hackbutt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "turning the conversation"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Observation",
+      "evidence_snippet": "going to see Mrs. Plymdale"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "received her with a pathetic affectionateness"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "give edifying answers"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Observation",
+      "evidence_snippet": "found to her surprise"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Observation",
+      "evidence_snippet": "barrier of remembered communication"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Observation",
+      "evidence_snippet": "dislike of being pitied"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Plymdale",
+      "interaction_type": "Observation",
+      "evidence_snippet": "words of mysterious appropriateness"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mrs. Hackbutt",
+      "interaction_type": "Observation",
+      "evidence_snippet": "avoided noticing what she said"
+    },
+    {
+      "character_1": "Mrs. Hackbutt",
+      "character_2": "Mrs. Selina Plymdale",
+      "interaction_type": "Observation",
+      "evidence_snippet": "avoided noticing what she said"
+    },
+    {
+      "character_1": "Mrs. Selina Plymdale",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "told the coachman to drive"
+    },
+    {
+      "character_1": "Mrs. Selina Plymdale",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "took her by the hand"
+    },
+    {
+      "character_1": "Mrs. Selina Plymdale",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "God help you, Harriet"
+    },
+    {
+      "character_1": "Mrs. Selina Plymdale",
+      "character_2": "Walter Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know nothing, Walter"
+    },
+    {
+      "character_1": "Mrs. Selina Plymdale",
+      "character_2": "Walter Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is it?"
+    },
+    {
+      "character_1": "Walter Vincy",
+      "character_2": "Mrs. Selina Plymdale",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "People will talk"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019d better have been a Vincy"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll stand by you"
+    },
+    {
+      "character_1": "Mrs. Bulstrode",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Give me your arm"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Give me your arm to the carriage, Walter"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am not well, my dear"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Attend to your papa"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Leave me in quiet"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mrs. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall take no dinner"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shared through nearly half a life"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "unvaryingly cherished her"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "punishment had befallen him"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she needed time to gather"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sob out her farewell"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode, who knew"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had spent the time"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had looked forward"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had acquiesced in that probability"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he awaited the result in anguish"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he awaited the result in anguish"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had not touched it"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he felt himself perishing"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should never see his wife\u2019s face"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he turned to God"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it was eight o\u2019clock in the evening"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he dared not look up at her"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he sat with his eyes bent down"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she thought he looked smaller"
+    },
+    {
+      "character_1": "Mr. Walter Vincy",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he seemed so withered and shrunken"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "putting one hand on his"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Look up, Nicholas"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "her hands and eyes rested gently on him"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "they cried together"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she would have expressed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he did not say"
+    }
+  ]
+}

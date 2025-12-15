@@ -1,0 +1,448 @@
+{
+  "interactions": [
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "had that little discussion"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thinking over again"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "harnessed himself with Mr. Brooke"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "feeling for Dorothea"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "made a sort of happiness"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "suspected him"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "interest he had established"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "turn into acceptance"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had no tempting"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not live in"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "follow it out"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "imagined \u201cotherwise\u201d"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "practical heaven"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "unwilling to entertain"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "justify himself"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "latent consciousness"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "barriers between"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "turn away his imagination"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "speculating on what might befall"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked at him and spoke to him"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "think of her just as she was"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had towards Dorothea"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his devotion to her"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "saw no creature"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she had once said"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "stay he would"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "public exertions"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "got irritated"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sacrifice of dignity"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "see her"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "get a livelier sense"
+    },
+    {
+      "character_1": "Objection",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "defiance of Mr. Casaubon\u2019s prohibition"
+    },
+    {
+      "character_1": "Inclination",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "monstrous for him to hinder me"
+    },
+    {
+      "character_1": "Inclination",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dorothea will be glad"
+    },
+    {
+      "character_1": "Objection",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Dorothea will be displeased"
+    },
+    {
+      "character_1": "Inclination",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "why should I not go to see Dorothea"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you have come either to annoy him"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I go to see Dorothea"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is not true that I go to annoy him"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "why should I not go to see Dorothea"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let him smart a little"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know the Tuckers"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Objection",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "silenced Objection by force of unreason"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall go into their pew"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the thought of vexing Mr. Casaubon"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "making his face break into its merry smile"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the man who blocks our way"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "causing him a little of the disgust"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his personality excites in ourselves"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he looked like an incarnation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "abundant in uncertain promises"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he went into the curate\u2019s pew"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was still left alone in it"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Rigg",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Rigg\u2019s frog-face"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the smaller children regarding"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the one most awful if offended"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "passed him"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "bow as she passed him"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sat in face of Dorothea"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watching him and seeing"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "look towards Dorothea"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "calling himself stupid"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Tuckers",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Tuckers had departed"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Mr. Tucker",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Tuckers had departed"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not join in the tune"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "looked straight at Mr. Casaubon"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "allowing Dorothea to pass"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she bowed, but this time"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "walked out after them"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Tucker",
+      "interaction_type": "Observation",
+      "evidence_snippet": "walked out after them"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Tucker",
+      "interaction_type": "Observation",
+      "evidence_snippet": "they went on towards"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Tucker",
+      "interaction_type": "Observation",
+      "evidence_snippet": "never looking round"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Tucker",
+      "interaction_type": "Observation",
+      "evidence_snippet": "impossible for him to follow"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Tucker",
+      "interaction_type": "Observation",
+      "evidence_snippet": "walk back sadly at mid-day"
+    }
+  ]
+}

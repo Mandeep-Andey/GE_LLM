@@ -1,0 +1,496 @@
+{
+  "interactions": [
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had seen Mr. Farebrother"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "frequent interchange of visits"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she was not at all lonely"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was glad of it"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "master and mistress",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "giving eager attention"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "master and mistress",
+      "interaction_type": "Observation",
+      "evidence_snippet": "getting up a dramatic sense"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "master and mistress",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "entered into a conversation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "old Master Bunney",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "paused on her way back"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "old Master Bunney",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "discoursed wisely with that rural sage"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "That house was never dull"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "having continually something new"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had just set up a pair of beautiful goats"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "talking more than usual"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "possible histories of creatures"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Henrietta Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "what is the matter"
+    },
+    {
+      "character_1": "Henrietta Noble",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have lost my tortoise-shell lozenge-box"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is it a great treasure, aunt?"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Miss Henrietta Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it was under a fender"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "smiling at Dorothea"
+    },
+    {
+      "character_1": "Miss Henrietta Noble",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Miss Noble grasped it with delight"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "affair of the heart with my aunt"
+    },
+    {
+      "character_1": "Mrs. Farebrother",
+      "character_2": "Henrietta Noble",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she is like a dog"
+    },
+    {
+      "character_1": "Henrietta Noble",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Ladislaw\u2019s shoes, I would"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Henrietta Noble",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "made an attempt at smiling"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I must go; I have overtired"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mrs. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is true; you must have half-exhausted"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "gave her his arm"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That sort of work tells upon one"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Dismissing Tantripp"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "locked her door"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "turning away from it"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, I did love him"
+    },
+    {
+      "character_1": "Henrietta Noble",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She could only cry"
+    },
+    {
+      "character_1": "Henrietta Noble",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "two living forms"
+    },
+    {
+      "character_1": "Henrietta Noble",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she had trusted\u2014who had come to her"
+    },
+    {
+      "character_1": "Henrietta Noble",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she stretched out her arms"
+    },
+    {
+      "character_1": "Henrietta Noble",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she discovered her passion"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she cried with bitter cries"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "stretched out her arms"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why had he come"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "he brought his cheap regard"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "he gave her the whole price"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "he had spent it half"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she lost energy"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "subsided into helpless sobs"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sobbed herself to sleep"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "awoke with clearest consciousness"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking into the eyes of sorrow"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wrapped warm things around her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "seated herself in a great chair"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she had often watched before"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she felt as if her soul"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she was no longer wrestling"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "she began now to live"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Was she alone in that scene?"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "enveloped both Will and Rosamond"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "burned out of her sight"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate\u2019s lot"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Lydgates",
+      "interaction_type": "Observation",
+      "evidence_snippet": "this young marriage union"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her own"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "contact with hers"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "contact with hers"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "What should I do"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why, madam, you\u2019ve never"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rang for Tantripp"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked first at the bed"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Don\u2019t be alarmed, Tantripp"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I want you to bring me my new dress"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall want my new bonnet to-day"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "They\u2019ve lain there a month and more ready for you"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There\u2019s a reason in mourning"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "three folds at the bottom of your skirt"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and a plain quilling in your bonnet"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "and if ever anybody looked like an angel"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "it\u2019s you in a net quilling"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "\u2018The fire will do, my good Tan\u2019"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Tantripp",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "speaking as she used to do"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "get me the coffee"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The fire will do, my good Tan"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wondering at this strange contrariness"
+    },
+    {
+      "character_1": "Tantripp",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had more of a widow\u2019s face"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "make as quietly and unnoticeably"
+    }
+  ]
+}

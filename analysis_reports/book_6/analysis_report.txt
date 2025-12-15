@@ -1,0 +1,118 @@
+--- Character Network Analysis Report ---
+
+Total Characters (Nodes): 51
+Total Unique Relationships (Edges): 111
+
+--- Top 10 Relationships by Interaction Count ---
+  136   | Dorothea Brooke -- Will Ladislaw
+  129   | Rosamond Vincy -- Tertius Lydgate
+  92    | Caleb Garth -- Fred Vincy
+  52    | Mr. Nicholas Bulstrode -- Will Ladislaw
+  48    | Captain Lydgate -- Rosamond Vincy
+  39    | Fred Vincy -- Mrs. Susan Garth
+  35    | Edwin Larcher, Esq. -- Mr. Borthrop Trumbull
+  33    | Rosamond Vincy -- Will Ladislaw
+  25    | Fred Vincy -- Mary Garth
+  24    | Celia Brooke -- Dorothea Brooke
+
+--- Top 10 Characters by Degree Centrality ---
+  Dorothea Brooke                | Score: 0.3800
+  Will Ladislaw                  | Score: 0.3600
+  Fred Vincy                     | Score: 0.2600
+  Mrs. Elinor Cadwallader        | Score: 0.1600
+  Mr. Borthrop Trumbull          | Score: 0.1600
+  Letty Garth                    | Score: 0.1400
+  Rosamond Vincy                 | Score: 0.1400
+  Captain Lydgate                | Score: 0.1400
+  Mr. Nicholas Bulstrode         | Score: 0.1400
+  Celia Brooke                   | Score: 0.1200
+
+--- Top 10 Characters by Betweenness Centrality ---
+  Will Ladislaw                  | Score: 0.5783
+  Fred Vincy                     | Score: 0.2378
+  Mr. Borthrop Trumbull          | Score: 0.2359
+  Dorothea Brooke                | Score: 0.1862
+  Mr. Walter Vincy               | Score: 0.1261
+  Tertius Lydgate                | Score: 0.1125
+  Miss Henrietta Noble           | Score: 0.1049
+  Jim Garth                      | Score: 0.1021
+  Mrs. Farebrother               | Score: 0.0938
+  Mr. Nicholas Bulstrode         | Score: 0.0922
+
+--- Top 10 Characters by Eigenvector Centrality ---
+  Will Ladislaw                  | Score: 0.5760
+  Dorothea Brooke                | Score: 0.5062
+  Rosamond Vincy                 | Score: 0.4432
+  Tertius Lydgate                | Score: 0.3594
+  Mr. Nicholas Bulstrode         | Score: 0.1883
+  Captain Lydgate                | Score: 0.1710
+  Celia Brooke                   | Score: 0.0761
+  Sir James Chettam              | Score: 0.0586
+  John Raffles                   | Score: 0.0504
+  Mrs. Elinor Cadwallader        | Score: 0.0429
+
+
+--- Top 5 Most Important Characters by Chapter ---
+
+Chapter 1:
+  1. Dorothea Brooke                (Score: 1.0000)
+  2. Will Ladislaw                  (Score: 0.2667)
+  3. Mr. Arthur Brooke              (Score: 0.2000)
+  4. Mrs. Elinor Cadwallader        (Score: 0.2000)
+  5. Tantripp                       (Score: 0.2000)
+
+Chapter 2:
+  1. Dorothea Brooke                (Score: 0.8571)
+  2. Celia Brooke                   (Score: 0.5714)
+  3. Dowager Lady Chettam           (Score: 0.4286)
+  4. Sir James Chettam              (Score: 0.2857)
+  5. Mrs. Elinor Cadwallader        (Score: 0.2857)
+
+Chapter 3:
+  1. Fred Vincy                     (Score: 0.6000)
+  2. Caleb Garth                    (Score: 0.4000)
+  3. Mrs. Susan Garth               (Score: 0.3000)
+  4. Reverend Camden Farebrother    (Score: 0.3000)
+  5. Dorothea Brooke                (Score: 0.2000)
+
+Chapter 4:
+  1. Fred Vincy                     (Score: 0.7500)
+  2. Letty Garth                    (Score: 0.5833)
+  3. Ben Garth                      (Score: 0.5000)
+  4. Mary Garth                     (Score: 0.5000)
+  5. Christy Garth                  (Score: 0.4167)
+
+Chapter 5:
+  1. Captain Lydgate                (Score: 0.8750)
+  2. Rosamond Vincy                 (Score: 0.6250)
+  3. Tertius Lydgate                (Score: 0.3750)
+  4. Mr. Walter Vincy               (Score: 0.2500)
+  5. Will Ladislaw                  (Score: 0.2500)
+
+Chapter 6:
+  1. Will Ladislaw                  (Score: 0.5000)
+  2. Rosamond Vincy                 (Score: 0.4167)
+  3. Fred Vincy                     (Score: 0.2500)
+  4. Tertius Lydgate                (Score: 0.2500)
+  5. Captain Lydgate                (Score: 0.2500)
+
+Chapter 7:
+  1. Mr. Borthrop Trumbull          (Score: 0.5000)
+  2. Will Ladislaw                  (Score: 0.4375)
+  3. Mr. Horrock                    (Score: 0.2500)
+  4. Mr. Bambridge                  (Score: 0.1875)
+  5. Mr. Nicholas Bulstrode         (Score: 0.1875)
+
+Chapter 8:
+  1. Mr. Nicholas Bulstrode         (Score: 0.7143)
+  2. Will Ladislaw                  (Score: 0.5714)
+  3. Mr. Walter Vincy               (Score: 0.2857)
+  4. Mrs. Abel                      (Score: 0.1429)
+  5. Mrs. Harriet Bulstrode         (Score: 0.1429)
+
+Chapter 9:
+  1. Dorothea Brooke                (Score: 0.8571)
+  2. Sir James Chettam              (Score: 0.7143)
+  3. Mrs. Elinor Cadwallader        (Score: 0.7143)
+  4. Mr. Standish                   (Score: 0.5714)
+  5. Celia Brooke                   (Score: 0.4286)

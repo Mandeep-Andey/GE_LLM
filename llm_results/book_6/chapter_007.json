@@ -1,0 +1,1060 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "there has been such a disagreeable man here"
+    },
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I believe I know who he is"
+    },
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He will probably come to the Bank"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looked into his dressing-room"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have a good deal of pain in my head"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Sit down and let me sponge it with vinegar"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Observation",
+      "evidence_snippet": "physically Mr. Bulstrode did not want the vinegar"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are very good, Harriet"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Has anything worried you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Did that man come to you at the Bank"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes; it was as I had supposed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He is a man who at one time might have done better"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But he has sunk into a drunken debauched creature"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is he quite gone away"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But for certain reasons she refrained from adding"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode\u2019s narrative"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his early bent towards religion"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "inclination to be a preacher"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "association with missionary"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She so much wished"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "to ignore towards others"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "that her husband had ever been"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a London Dissenter"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "to keep it out of sight"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was quite aware of this"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is he quite gone away?"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, I trust so"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had turned out of the way"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "see his friend Nick and family"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "know all about the prosperity"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he might come back for a longer stay"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had wanted chiefly"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he meant to go by coach"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he had turned out of the way to come to Middlemarch"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could not count on any persistent fear"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he felt a cold certainty at his heart"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was in danger of seeing disclosed"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the terror of being judged sharpens the memory"
+    },
+    {
+      "character_1": "Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "intense memory forces a man to own his blameworthy past"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "memory set smarting"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "past is not simply a dead history"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "still quivering part of himself"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "scenes of his earlier life"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Brother Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "heard himself called for as Brother Bulstrode"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Brother Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "speaking on religious platforms"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Brother Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "preaching in private houses"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Brother Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thinking of the ministry"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Brother Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "inclined towards missionary labor"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "invited to a fine villa"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "honored for his piety"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "marked out for his ability"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "nobody seemed to the principal"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "so well fitted to fill"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he would become confidential accountant"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the business was a pawnbroker\u2019s"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "one source of magnificent profit"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no pettiness or dinginess"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He remembered his first moments"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "they were private"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "filled with arguments"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "some of these taking the form of prayer"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "The business was established"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "is it not one thing to set up"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "another to accept an investment"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Dunkirk had never expected"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "trade had anything to do with the scheme"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "trade had anything to do with the scheme of salvation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode found himself carrying on two distinct lives"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his religious activity could not be incompatible with his business"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the years had been perpetually spinning them into intricate thickness"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his soul had become more saturated with the belief"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he did everything for God\u2019s sake"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the train of causes in which he had locked himself went on"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "there was trouble in the fine villa at Highbury"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had come to believe in Bulstrode"
+    },
+    {
+      "character_1": "Mrs. Harriet Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "innocently adore him"
+    },
+    {
+      "character_1": "Mrs. Dunkirk",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had qualms and yearnings"
+    },
+    {
+      "character_1": "Mrs. Dunkirk",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the daughter had married"
+    },
+    {
+      "character_1": "Mrs. Dunkirk",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the daughter had long been regarded as lost"
+    },
+    {
+      "character_1": "Mrs. Dunkirk",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "imagined a grandson"
+    },
+    {
+      "character_1": "Mrs. Dunkirk",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wished in a double sense to reclaim her daughter"
+    },
+    {
+      "character_1": "Mrs. Dunkirk",
+      "character_2": "Mrs. Harriet Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "there would be a channel for property"
+    },
+    {
+      "character_1": "Mr. Dunkirk",
+      "character_2": "Mrs. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Efforts to find her must be made before Mrs. Dunkirk would marry again"
+    },
+    {
+      "character_1": "Brother Bulstrode",
+      "character_2": "Mrs. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode concurred"
+    },
+    {
+      "character_1": "Mrs. Dunkirk",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the mother believed that her daughter was not to be found"
+    },
+    {
+      "character_1": "Mrs. Dunkirk",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "consented to marry without reservation of property"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the daughter had been found"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Mr. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was paid for keeping silence"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode\u2019s course up to that time"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Death and other striking dispositions"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode would have adopted Cromwell\u2019s words"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "The events were comparatively small"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "It was easy for him to settle"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Could it be for God\u2019s service"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he soothed the mother"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he kept her existence hidden"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Dunkirk",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he did not make the sacrifices"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rotted Mr. Vincy\u2019s silk"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "conversation with Raffles"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode was not one of them"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bulstrode God\u2019s cause"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "profitable investments"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "right application"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "use of wide phrases"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Englishmen"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no general doctrine"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "deep-seated habit"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "direct fellow-feeling"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "individual fellow-men"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "believes in something else"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "has necessarily a conscience"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "God",
+      "interaction_type": "Observation",
+      "evidence_snippet": "divine tribunal had changed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "God",
+      "interaction_type": "Observation",
+      "evidence_snippet": "religion can only change"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "begging him to be"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "shown into Mr. Bulstrode\u2019s private room"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Thank you, she is quite satisfied"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I begged you to come"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nothing, indeed, nothing"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You see before you"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, indeed, nothing"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "your mother\u2019s name"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "your father was"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, they are all true"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you know any particulars"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She was a very generous"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I do not wish to allege"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Did she never mention"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have heard her say"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That mother became my wife"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you have a claim on me"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was enriched by that marriage"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "your grandmother could have discovered"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that daughter, I gather, is no longer living"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray be seated, Mr. Ladislaw"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "took his hat from the floor"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "stood up"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I entreat your patience"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wish to supply you"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I know that you are"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suppose you did know"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Bulstrode shrank"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you conjecture rightly"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will not deny that you conjecture rightly"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You enter, I trust, into my purpose"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am ready to narrow my own resources"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "his lip pouting"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "his fingers in his side-pockets"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Before I make any reply"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Were you connected with the business"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And was that business"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "nay, one that, if its nature"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "might have ranked those"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Bulstrode reddened with"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The business was established"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is eminently mine"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My unblemished honor"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is important to me"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My mother felt it"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You shall keep your"
+    },
+    {
+      "character_1": "God",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You shall keep your ill-gotten money"
+    },
+    {
+      "character_1": "God",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If I had any fortune"
+    },
+    {
+      "character_1": "God",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I would willingly pay it"
+    },
+    {
+      "character_1": "God",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What I have to thank you for"
+    },
+    {
+      "character_1": "God",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It ought to lie with a man\u2019s self"
+    },
+    {
+      "character_1": "God",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Good-night, sir"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Bulstrode was going to speak"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Was out of the room in an instant"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "relation to Dorothea"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Mr. Casaubon\u2019s treatment"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "flung back that offer"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "scorn from any man higher"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "wept like a woman"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "checked the relief of weeping"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "suffered a violent reaction"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no sensibility left"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "Will Ladislaw at least"
+    }
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "examine Raffles\u2019s pockets"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "various bills crammed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "one bore date that morning"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "cost of three days\u2019 stay"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode gathered a sense"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles had left his portmanteau"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles had kept at a distance"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles\u2019s tormenting, self-magnifying vein"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "telling old scandalous stories"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "what harm if he did talk"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "keep watch over him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "intelligible raving"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "unaccountable impulse to tell"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "acted towards Caleb Garth"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "some such impulse should come"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sight of Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "keep watch over him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "sight of Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "ordered the housekeeper to lie down"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "alleging his own indisposition to sleep"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He was restless and sleepless"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "concentrate all his terror on Bulstrode"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "declaring with strong oaths"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had never told any mortal"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode wanted to starve him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "see the death of Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "see in it his own deliverance"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate had said"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his anxieties continually glanced towards Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "what had taken place between them the morning before"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "raving of Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "suggested change in the Hospital"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "his shattered looks were noticed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he immediately threw himself"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles was worse"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he took little notice"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What do you think of him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What do you think of him?"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are less hopeful?"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Are you going to stay here yourself?"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mrs. Abel and her husband"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have some fresh instructions"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He had taken the precaution"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He gave minute directions"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He insisted on the risk"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He repeated his order"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "From what I see of the case"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "narcotism is the only thing"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He may wear through even"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You look ill yourself"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "showing a solicitude"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "as unlike his indifference"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "his present recklessness"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "unlike his habitual self-cherishing"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I fear you are harassed"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Something new, I fear"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Pray be seated"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, thank you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I mentioned to you yesterday"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There is nothing to add"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The execution has since then been actually put into my house"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "One can tell a good deal of trouble"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Stay, Mr. Lydgate, stay"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have been reconsidering this subject"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was yesterday taken by surprise"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mrs. Bulstrode is anxious for her niece"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I myself should grieve at a calamitous change"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Claims on me are numerous"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "On reconsideration, I esteem it right"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should incur a small sacrifice"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Rather than leave you unaided"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You said, I think, that a thousand pounds"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Would suffice entirely to free you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "From your burthens, and enable you"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "To recover a firm stand"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will draw a check"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you may be in circumstances"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have pleasure in thinking"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am deeply obliged to you"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will be released"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am deeply obliged"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should have reconsidered"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles dead was the image"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode began to administer"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate\u2019s opinion"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "persistent life in this man"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "imperious will stirred"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He said inwardly"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He would not sit up"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Abel, who, if necessary"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles, having had only fitful"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Bulstrode began to administer"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He must now consign the patient"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he proceeded to repeat to her"
+    },
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "She began now to ask"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you can come to me for further"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Unless there is any important"
+    },
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You will ask your husband"
+    },
+    {
+      "character_1": "Mrs. Abel",
+      "character_2": "Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You\u2019ve much need, sir"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Bulstrode went away now"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he wished that he had begged"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles might say in his raving"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Raffles recovered would be"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She might already have"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate might come"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could hear him moaning"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If you please, sir"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I think he must die"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not answer"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s not a time"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Else I should give him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "John Raffles",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is the key"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How is your patient\u2014asleep"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He\u2019s gone very deep, sir"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Would you please to go"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "told Mrs. Abel that she might go"
+    },
+    {
+      "character_1": "John Raffles",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wait for Lydgate\u2019s arrival"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mrs. Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he hoped still that Mrs. Casaubon"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "the death of Raffles"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "Lydgate arrived at half-past ten"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "When did this change begin?"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I did not watch by him last night"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Mrs. Abel",
+      "interaction_type": "Observation",
+      "evidence_snippet": "She said that he sank into sleep"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watched in silence"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s all over"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rode back to Middlemarch"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "talking of many things"
+    },
+    {
+      "character_1": "Bulstrode",
+      "character_2": "Raffles",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mentioned the necessity"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "had a visit from"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thoughts about him"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "getting unlike his former self"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "doing things for which he had formerly even an excessive scorn"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "debts which were being more and more distinctly reported"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "notion of Lydgate\u2019s having resources or friends in the background"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rebuff he had met with in his first attempt to win Lydgate\u2019s confidence"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "news of the execution being actually in the house"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put out his hand"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How are you, Lydgate?"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I came to see you"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I had heard something"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You had heard that"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is it true?"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It was true"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am out of my difficulties"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall be freed from debts"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am very thankful to hear it"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I like that better than all the news"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I came to you with a heavy heart"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can enjoy the kindness"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Reverend Edward Thesiger",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am happier"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "My dear fellow, let me ask"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You have not\u2014have you?"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the person to whom I am indebted"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Well, that is generous"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am glad to think"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he disliked"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He added immediately"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Bulstrode\u2019s motives"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "personal indebtedness"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall take an apprentice"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Poor Lydgate!"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "left him with affectionate congratulation"
+    }
+  ]
+}

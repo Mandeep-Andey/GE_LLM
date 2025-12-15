@@ -1,13 +1,33 @@
 [project]
 name = "ge-llm"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.2.0"
+description = "LLM-powered character interaction extraction from literary texts"
+readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    # Core NLP & Graph
     "matplotlib>=3.10.3",
     "networkx>=3.5",
     "python-louvain>=0.16",
     "pyvis>=0.3.2",
     "pyyaml>=6.0.2",
     "tqdm>=4.67.1",
+    "nltk>=3.8",
+    "transformers>=4.40.0",
+    
+    # Data Validation
+    "pydantic>=2.0",
+    
+    # API Clients
+    "requests>=2.31.0",
+    "google-generativeai>=0.5.0",  # Gemini Judge
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=4.0",
+]
+survey = [
+    "streamlit>=1.30.0",  # For annotation survey app
 ]

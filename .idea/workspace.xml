@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf9f866-9940-4850-a069-69cd743c94e0" name="Changes" comment="MAJOR VERSION - Working model. Test run on book 1 to verify the results.&#10;&#10;This version has context mode which passes active character buffer to the next API call.">
-      <change beforePath="$PROJECT_DIR$/build_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/build_graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Middlemarch/book_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Middlemarch/book_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analyze_all.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_logs/complete_run_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_reports/book_1/analysis_report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/analysis_reports/book_1/analysis_report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_reports/book_1/book_1_network.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysis_reports/book_1/book_1_network.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/char_alias.json" beforeDir="false" afterPath="$PROJECT_DIR$/char_alias.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_000.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_000.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_001.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_001.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_002.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_003.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_003.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_004.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_005.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_005.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_006.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_006.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_007.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_007.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_008.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_008.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_009.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_009.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_010.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_010.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm_results/book_1_qwen3:8b/chapter_011.json" beforeDir="false" afterPath="$PROJECT_DIR$/llm_results/book_1/chapter_011.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run_llm_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_llm_extraction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/llm_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/llm_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prompt_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/prompt_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,29 +43,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mandeep-Andey&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mandeep-Andey/GE_LLM.git&quot;,
+    &quot;accountId&quot;: &quot;c89c56d7-e0d0-40ce-9b57-4dcd5f4322d2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="30NFgXhnNxk9yY6MW6nlOYxRVWM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mandeep/Development/GE_LLM",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;/Users/mandeep/Library/Application Support/JetBrains/PyCharm2025.1/plugins/Shell Script/shellcheck&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mandeep/Development/GE_LLM&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -75,6 +104,15 @@
       <option name="presentableId" value="Default" />
       <updated>1753460234500</updated>
       <workItem from="1753460235499" duration="29786000" />
+      <workItem from="1754491010022" duration="27758000" />
+      <workItem from="1757430861077" duration="2127000" />
+      <workItem from="1757513868223" duration="6071000" />
+      <workItem from="1757947284620" duration="2434000" />
+      <workItem from="1759157475147" duration="1027000" />
+      <workItem from="1759930174437" duration="1461000" />
+      <workItem from="1761148629116" duration="3199000" />
+      <workItem from="1764752017296" duration="2833000" />
+      <workItem from="1765262578229" duration="6452000" />
     </task>
     <task id="LOCAL-00001" summary="MAJOR VERSION - Working model. Test run on book 1 to verify the results.">
       <option name="closed" value="true" />

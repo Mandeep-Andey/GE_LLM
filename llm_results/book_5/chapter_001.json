@@ -1,0 +1,214 @@
+{
+  "interactions": [
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "did not question her further",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I am sure I can spare",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "There seems to be so much trouble",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "resisted that suggestion",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I look at him quite impartially",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "I will mention the subject",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "What can be their reasons?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "put the medical direction into my hands",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "There is everything to be done",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "she should like to subscribe",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I feel sure I can help",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "felt sure that she had wished",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I quite agree with you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "she had seen Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "she had seven hundred a-year",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "To put the matter quite fairly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "we should soon see a change for the better",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I suppose one must expect",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I shall be quite grateful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "she had seen Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I have some money",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "That is all the stronger reason",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "Pray come to Lowick",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he acquiesced",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "How happy you must be",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "Yes, indeed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "the sum might be disproportionate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I am glad you have told me this",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I see that he has some notions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "She knows that I know",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I don\u2019t know whether your",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I wish I could awake",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "I mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "there must be a great deal to be done",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "How very petty!",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

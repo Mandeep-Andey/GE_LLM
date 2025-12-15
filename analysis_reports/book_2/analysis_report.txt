@@ -1,0 +1,122 @@
+--- Character Network Analysis Report ---
+
+Total Characters (Nodes): 35
+Total Unique Relationships (Edges): 69
+
+--- Top 10 Relationships by Interaction Count ---
+  133   | Dorothea Brooke -- Will Ladislaw
+  108   | Dorothea Brooke -- Reverend Edward Casaubon
+  65    | Fred Vincy -- Mary Garth
+  63    | Reverend Camden Farebrother -- Tertius Lydgate
+  60    | Mr. Nicholas Bulstrode -- Tertius Lydgate
+  49    | Mr. Nicholas Bulstrode -- Mr. Walter Vincy
+  42    | Adolf Naumann -- Will Ladislaw
+  37    | Fred Vincy -- Mr. Peter Featherstone
+  28    | Reverend Edward Casaubon -- Will Ladislaw
+  25    | Dr. Sprague -- Tertius Lydgate
+
+--- Top 10 Characters by Degree Centrality ---
+  Tertius Lydgate                | Score: 0.3529
+  Reverend Camden Farebrother    | Score: 0.3529
+  Mr. Nicholas Bulstrode         | Score: 0.2647
+  Dr. Minchin                    | Score: 0.2353
+  Rosamond Vincy                 | Score: 0.2353
+  Reverend Walter Tyke           | Score: 0.2059
+  Mr. Walter Vincy               | Score: 0.1765
+  Mr. Frank Hawley               | Score: 0.1765
+  Dorothea Brooke                | Score: 0.1765
+  Fred Vincy                     | Score: 0.1471
+
+--- Top 10 Characters by Betweenness Centrality ---
+  Dr. Minchin                    | Score: 0.4468
+  Mr. Nicholas Bulstrode         | Score: 0.3461
+  Reverend Camden Farebrother    | Score: 0.3375
+  Tertius Lydgate                | Score: 0.3102
+  Rosamond Vincy                 | Score: 0.2900
+  Reverend Walter Tyke           | Score: 0.2497
+  Mr. Walter Vincy               | Score: 0.1967
+  Dorothea Brooke                | Score: 0.1272
+  Mary Garth                     | Score: 0.1159
+  Mr. Frank Hawley               | Score: 0.1159
+
+--- Top 10 Characters by Eigenvector Centrality ---
+  Dorothea Brooke                | Score: 0.6639
+  Will Ladislaw                  | Score: 0.5663
+  Reverend Edward Casaubon       | Score: 0.4637
+  Adolf Naumann                  | Score: 0.1523
+  Tantripp                       | Score: 0.0105
+  Mr. Walter Vincy               | Score: 0.0077
+  Celia Brooke                   | Score: 0.0070
+  Rosamond Vincy                 | Score: 0.0027
+  Mr. Nicholas Bulstrode         | Score: 0.0025
+  Tertius Lydgate                | Score: 0.0016
+
+
+--- Top 5 Most Important Characters by Chapter ---
+
+Chapter 1:
+  1. Mr. Nicholas Bulstrode         (Score: 1.0000)
+  2. Mr. Walter Vincy               (Score: 0.4000)
+  3. Tertius Lydgate                (Score: 0.4000)
+  4. Mrs. Harriet Bulstrode         (Score: 0.2000)
+  5. Reverend Camden Farebrother    (Score: 0.2000)
+
+Chapter 2:
+  1. Mary Garth                     (Score: 1.0000)
+  2. Fred Vincy                     (Score: 0.7500)
+  3. Mr. Peter Featherstone         (Score: 0.5000)
+  4. Mrs. Lucy Vincy                (Score: 0.5000)
+  5. Tertius Lydgate                (Score: 0.2500)
+
+Chapter 3:
+  1. Tertius Lydgate                (Score: 1.0000)
+  2. Madame Laure                   (Score: 0.3333)
+  3. Dr. Sprague                    (Score: 0.3333)
+  4. Dr. Minchin                    (Score: 0.3333)
+
+Chapter 4:
+  1. Rosamond Vincy                 (Score: 0.7273)
+  2. Tertius Lydgate                (Score: 0.5455)
+  3. Mr. Nicholas Bulstrode         (Score: 0.4545)
+  4. Mr. Walter Vincy               (Score: 0.4545)
+  5. Reverend Camden Farebrother    (Score: 0.3636)
+
+Chapter 5:
+  1. Reverend Camden Farebrother    (Score: 0.8333)
+  2. Mrs. Farebrother               (Score: 0.6667)
+  3. Tertius Lydgate                (Score: 0.5000)
+  4. Miss Winifred Farebrother      (Score: 0.5000)
+  5. Miss Henrietta Noble           (Score: 0.5000)
+
+Chapter 6:
+  1. Dr. Minchin                    (Score: 0.4375)
+  2. Mr. Frank Hawley               (Score: 0.3750)
+  3. Reverend Camden Farebrother    (Score: 0.3750)
+  4. Tertius Lydgate                (Score: 0.3125)
+  5. Reverend Walter Tyke           (Score: 0.3125)
+
+Chapter 7:
+  1. Adolf Naumann                  (Score: 0.3333)
+  2. Will Ladislaw                  (Score: 0.3333)
+  3. Dorothea Brooke                (Score: 0.3333)
+  4. Mr. Walter Vincy               (Score: 0.3333)
+
+Chapter 8:
+  1. Dorothea Brooke                (Score: 0.7500)
+  2. Adolf Naumann                  (Score: 0.5000)
+  3. Reverend Edward Casaubon       (Score: 0.2500)
+  4. Will Ladislaw                  (Score: 0.2500)
+  5. Tantripp                       (Score: 0.2500)
+
+Chapter 9:
+  1. Dorothea Brooke                (Score: 1.0000)
+  2. Reverend Edward Casaubon       (Score: 0.6667)
+  3. Will Ladislaw                  (Score: 0.6667)
+  4. Tantripp                       (Score: 0.3333)
+
+Chapter 10:
+  1. Dorothea Brooke                (Score: 1.0000)
+  2. Will Ladislaw                  (Score: 0.7500)
+  3. Reverend Edward Casaubon       (Score: 0.7500)
+  4. Adolf Naumann                  (Score: 0.7500)
+  5. Celia Brooke                   (Score: 0.2500)

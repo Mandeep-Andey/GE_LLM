@@ -1,0 +1,628 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James",
+      "evidence_snippet": "Who is Mr. Ladislaw?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he is just the man",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "he is my guest",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "I\u2019ll fetch him in now, eh, Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Quite right to feel obliged",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "You are exceedingly hospitable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "How piteous!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "dislike to his presence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Swiftly moving clouds",
+      "evidence_snippet": "black draperies",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "A coursing fellow, though",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "there is a new face",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "Now you can see him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I understand",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "dislike to his presence",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James",
+      "evidence_snippet": "Those dark, purple-faced people are an excellent foil",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "bowing with cold politeness",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "placed herself behind",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "They are quite different",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Think of that now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "said\u2014",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dowager Lady Chettam",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "politely welcoming Mrs. Cadwallader",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Celia Brooke",
+      "evidence_snippet": "A very pretty sprig",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "He would make a good secretary, now, like Hobbes, Milton, Swift\u2014that sort of man",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Cadwalladerr",
+      "character_2": "Mr. Cadwalladerr",
+      "evidence_snippet": "had to ask a favor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Dowager Lady Chettam",
+      "evidence_snippet": "I couldn\u2019t have the end without them",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "looked up immediately at her uncle",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "he is trying his wings",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Swiftly moving clouds",
+      "evidence_snippet": "gleams of sunshine",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea",
+      "character_2": "old Featherstone",
+      "evidence_snippet": "scene of old Featherstone\u2019s funeral",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Cadwalladerr",
+      "evidence_snippet": "clergyman who met the procession was Mr. Cadwalladerr",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I knew you would be pleased",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "you are at home in that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "I don\u2019t like funerals",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "He would make a good secretary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "But I am not taking",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Your rich Lowick farmers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "I hope he will stay with me a long while",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Dorothea did",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Ah, now they are coming out of church",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Dear me, what a wonderfully mixed set",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Martha",
+      "evidence_snippet": "had taken a difficult journey",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Swiftly moving clouds",
+      "evidence_snippet": "news had spread",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Humphrey Cadwallader",
+      "evidence_snippet": "watched old Featherstone\u2019s funeral",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Ah, here is Mr. Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I invited him some time ago",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "witnessed this scene",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Mr. Lydgate as doctor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "I will go anywhere with you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James",
+      "evidence_snippet": "That is how his family look so fair and sleek",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Dowager Lady Chettam",
+      "evidence_snippet": "I did that very early",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Dowager Lady Chettam",
+      "evidence_snippet": "I made up my mind to like sermons",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James",
+      "evidence_snippet": "A young relative of Mr. Casaubon\u2019s",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "think of your wife, Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Ah, yes: one of your secret committee",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Featherstone had an especial dislike to him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dowager Lady Chettam",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "No, to be sure not",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Cadwalladerr",
+      "evidence_snippet": "made one of the group",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "She was going to say more",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Swiftly moving clouds",
+      "evidence_snippet": "chill wind was blowing",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Why, Dodo, you never told me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "He is not my nephew. He is my cousin",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "you will hear young Ladislaw talk",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "I am obliged to Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "This will never do, you know",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "He repays your expense in him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Most of these followers",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I am quite obliged to Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mrs. Elinor Cadwallader",
+      "evidence_snippet": "Now you can see him, Mrs. Cadwallader",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "the fair young man must be her son",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dowager Lady Chettam",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "No, to be sure not",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Let me see!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "said Mr. Brooke",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "What is your nephew to be, Mr. Casaubon?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Cadwalladerr",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "trout-stream which ran through Mr. Casaubon\u2019s land",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Martha",
+      "evidence_snippet": "taken a difficult journey",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Sir James",
+      "evidence_snippet": "Dear me, they are like a set of jugs",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Dowager Lady Chettam",
+      "evidence_snippet": "you must accommodate your tastes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I shall not look any more",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "puts up with me at the Grange",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Poor Dorothea felt",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon was out of the question",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I came to look after Casaubon",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Martha",
+      "evidence_snippet": "poor sister Martha",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Quite right to feel obliged to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Dorothea had sent word",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mrs. Cadwallader",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "that is really a good looking woman",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Dowager Lady Chettam",
+      "evidence_snippet": "I set out by liking the end",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "Dorothea had sent word",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "changes in her husband\u2019s face",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Casaubon",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "looked at her",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Swiftly moving clouds",
+      "evidence_snippet": "Swiftly moving clouds",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Mrs. Cadwallader",
+      "evidence_snippet": "Oh, what an odd face!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "I told him it wouldn\u2019t do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he must come up",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "your painter\u2019s flesh is good",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Dowager Lady Chettam",
+      "evidence_snippet": "That soon spread to the middle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir James",
+      "character_2": "Mr. Brooke",
+      "evidence_snippet": "looking interrogatively at Mr. Brooke",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "I should be glad to give him an opportunity",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Casaubon",
+      "evidence_snippet": "she had not wished her uncle",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "every one noticed her sudden paleness",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I\u2019ll go and fetch Ladislaw",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Elinor Cadwallader",
+      "character_2": "Sir James Chettam",
+      "evidence_snippet": "watched old Featherstone\u2019s funeral",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Swiftly moving clouds",
+      "evidence_snippet": "lightly dropping blossoms",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea",
+      "character_2": "St. Peter\u2019s",
+      "evidence_snippet": "vision of St. Peter\u2019s",
+      "interaction_type": "Memory/Reference"
+    }
+  ]
+}

@@ -1,0 +1,1114 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "took no notice",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred has always been very good to me",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "she slipped away quickly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I think, with all his self-indulgence",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I should be ashamed to say that I loved",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "And so should I, father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "It is not generous to believe",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "sob rising",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Oh, Fred, how ill you look",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Let me tell uncle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "laughing over Mrs. Piozzi\u2019s recollections",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "followed her with his eyes",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Sit down a moment",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Don\u2019t fear for me, father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "And with so much good in your disposition",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "looked up with the fun",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mary did not reappear",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mary turned the back of her father\u2019s hand to her lips",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "took out the folded money",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "How can you bear to be so contemptible",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "What does it matter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "let him come up to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "He was a good deal distressed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "putting the back of her father\u2019s hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "old Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "He makes but a tight fit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I thought you would come",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "That\u2019s the long and the short of it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "tried to reach her hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I deserve it all",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Oh, Fred, how ill you look!",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "followed her with his eyes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Say one word, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "that\u2019s the worst of it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "on the chance that others will provide",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I wanted to ask you, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Your mother has had to put up with",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I\u2019m afraid Fred is not to be trusted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Well, well, nobody\u2019s perfect",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I don\u2019t want to pry",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You will think me dishonest",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "he had a cold",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "sob rising",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "I want to speak to you, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "It is hardly fair to call me selfish",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "turning round to her father",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I have tried as hard as I could",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "he could not deny",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I\u2019ve got something to tell you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "my uncle gave me a hundred",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "old Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You ought to be saving for yourself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I should think it a pity",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "than of getting his own toes pinched",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "felt himself ill at ease",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Fred has always been very good to me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You will think me a liar",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I want to speak to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Mary was in her usual corner",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Ay? how can that be?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I consider my father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "she always ignored them",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "your mother has got to part with her savings",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I should be ashamed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I have more than four-and-twenty pounds",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "he is kind-hearted and affectionate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "my father will not ask him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "he must recognize the change",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "eyes filling with tears",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "There are other things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Don\u2019t go yet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "more afraid of doing the wrong thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "You see, I\u2019ve been a bit of a fool",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "rose to bid him good-by",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "a woman, let her be as good as she may",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "and now it comes to paying",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I see enough of that every day",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "who has no manly independence",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I think you might try",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "did not mind about",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "putting the back of her father\u2019s hand against her cheek",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I asked your father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Any man may be unfortunate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "What will you be when",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "put it into her father\u2019s hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "old Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Father! said Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "However, I\u2019m going",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "you say that Mr. Featherstone",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "don\u2019t you think that Mr. Featherstone",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "and even they won\u2019t quite make things even",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Say one word",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "kissed him with childish kisses",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "you say that Mr. Featherstone",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "understood all kinds",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "Oh, poor mother, poor father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "My family is not fond of begging",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "was not at all fond",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "it would be of no use",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I know that people who spend a great deal of money on themselves",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "tell him, I mean",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "shook his head",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "old Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I suppose your father wanted your earnings",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "About money, father?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I will try to be anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "what I am thinking of is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I will try to be anything you like",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "After discussing prices",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I am so miserable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I see enough of that every day",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "And so should I, father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "How dare you make",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I\u2019m very sorry for all the trouble",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I made sure of paying",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I was afraid there might be something",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "He means better than he acts",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "everything depended on himself",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "you would be sorry for me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "He has been wondering",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "I think I know what it is",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred told me this morning",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I\u2019m afraid Fred is not to be trusted",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "dropped her work out of her hand",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I can\u2019t ask my father",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Peter Featherstone",
+      "evidence_snippet": "I wanted to caution you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "It is hardly fair to call me selfish",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "eyes filling with tears",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I want to speak to you, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I thought you would come, father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "he actually came into the property",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You will think I didn\u2019t care",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "old Mr. Featherstone",
+      "evidence_snippet": "I consider my father and mother the best part of myself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I shall tell uncle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "and not false, I think, with all his self-indulgence",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Father! said Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "Don\u2019t go yet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Bowyer",
+      "evidence_snippet": "living in Mrs. Beck\u2019s front parlor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I will never engage myself to one",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "taking a candle into another large parlor",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "how did you know about it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You see, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "raising her eyes to him",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "what it must be for a wife",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "that is what you never do",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "My family is not fond",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "There are other things to be more sorry for than that",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You must see him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Featherstone",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "your mother has got to part with her savings",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "when she\u2019s never sure of her husband",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I do care about your mother\u2019s money going",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I should think one of those epithets",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "rising as if to go away",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "As if it were any pleasure",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "old Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "You\u2019re of age now",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "so would your mother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "who goes on loitering away his time",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I wouldn\u2019t have hurt you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "took out the folded money",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I made sure of paying",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I am a good-for-nothing blackguard",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Fred told me this morning",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "He never got into trouble",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "if you will say that you love me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Caleb Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "has got to put up with the life",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "As if it were not very painful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "you think that I shall never try",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "asking that question about Fred\u2019s future",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I shall tell uncle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "gravely meeting her father\u2019s eyes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "he thought of another",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "put the rest back, child",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "Oh, poor mother, poor father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I can\u2019t ask my father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "old Mr. Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I suppose your father",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "I am so miserable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "you might be worth a great deal",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "putting her arms round his neck",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Featherstone",
+      "evidence_snippet": "He rarely makes presents",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "setting down the feeble light",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Peter Featherstone",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "don\u2019t you keep him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "Say what you like, Mary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I am a good-for-nothing blackguard",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "could easily avoid looking upward",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "I know you will never think",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "I am sure my father will not ask him for anything",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Garth",
+      "character_2": "Mary Garth",
+      "evidence_snippet": "he hasn\u2019t got a principle",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Caleb Garth",
+      "evidence_snippet": "putting her arms round his neck",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mary Garth",
+      "character_2": "Fred Vincy",
+      "evidence_snippet": "You and my mother have taught me",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "interactions": [
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Confess you like those things",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "passing his time with Mrs. Lydgate",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "position there was threatening",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "Merely to ask about her husband\u2019s health",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "Mrs. Casaubon came in",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "learn from him whether",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "Mr. Ladislaw was here singing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I hoped that you might possibly tell me where I could find him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "What I want, Rosy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he disliked her seeing him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "He will come back",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "charming Mrs. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he happened to have a wife",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "May I go to the Hospital",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "his cousin\u2019s visits",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "But we cannot live like hermits",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I did not know it was you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I must really tear myself away",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "she did occasionally drive",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "they said good-by",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "smiling and pinching",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Pray come again some evening",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "You cannot say that I have ever tried",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "prejudices about rank",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he had passed some time",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "Mrs. Casaubon should have",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Sir Godwin Lydgate",
+      "evidence_snippet": "Sir Godwin Lydgate\u2019s",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I did not know it was you: I had no thought of seeing you here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "You are always at the Hospital",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "Tertius gave me",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "But what did Mrs. Casaubon want to say",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Thank you very much for allowing me to interrupt you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "May I go to the Hospital and tell Mr. Lydgate that you wish to see him?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "I am sure you do not neglect your work.",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "looked admiringly at Lydgate\u2019s lovely bride",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I am sure you admit",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "letting his hands fall on to his wife\u2019s shoulders",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I did not know it was you: I had no thought of seeing you here",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "he adores Mrs. Casaubon",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Sir Godwin Lydgate",
+      "evidence_snippet": "seeking Lydgate",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "he should not have been",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "too unlike other women",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Casaubon",
+      "evidence_snippet": "Mr. Casaubon did not like",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I am sure you do not neglect",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "associated her quite newly",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Reverend Edward Lydgate",
+      "evidence_snippet": "she determined to use",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Sir Godwin Lydgate",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "She was soon walking round",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "Why so?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "It is always fatal",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "Pray excuse me, Mrs. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "your position is more than equal",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "I will go in and speak to her",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I shall be happy to be taught",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "offered her his arm",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "see Mrs. Casaubon, for a few minutes",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he is not always very agreeable",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Mr. Lydgate will like to hear the music",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "You are not discontented with me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I am anxious to see Mr. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Lydgate",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "would be happy to see",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "he seemed vexed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "evidence_snippet": "I think she is going to be splendid",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "What is it that you gentlemen",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "Will you ask her if she can see me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mrs. Casaubon",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Mrs. Casaubon. To Rosamond",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "entered before a still audience",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Lydgate",
+      "evidence_snippet": "Herself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "opened the door for her",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "handed her into the carriage",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "His chances of meeting",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "evidence_snippet": "she had seen him under",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "I shall make you learn",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "Mrs. Casaubon",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "Will you let me go and fetch him?",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Mrs. Casaubon",
+      "evidence_snippet": "Herself,",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "evidence_snippet": "I will go myself",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "evidence_snippet": "What I want, Rosy",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "evidence_snippet": "he had the very next day",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "evidence_snippet": "think nothing of me",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

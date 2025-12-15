@@ -1,0 +1,718 @@
+{
+  "interactions": [
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Patients",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "by the bedside of patients"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Patients",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "serving better than any opiate"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Farebrother\u2019s suspicion"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had looked on at a great deal of gambling"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watching it as if it had been a disease"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no more tempted by such winning"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no more tempted by drink"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "the only winning he cared for"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "power he longed for"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "agitated fingers clutching a heap of coin"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "half-barbarous, half-idiotic triumph"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "thought now began to turn upon gambling"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wistful inward gaze after that easy way"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "implied no asking and brought no responsibility"
+    },
+    {
+      "character_1": "Mr. Bambridge",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Observation",
+      "evidence_snippet": "regarded as men of pleasure"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "lost money in betting"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "been obliged to borrow"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "made part of his memorable debt"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Observation",
+      "evidence_snippet": "generally known in Middlemarch"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "had occasion to seek"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Horrock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "said his friend Mr. Horrock"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "once noticed in him by Mr. Farebrother"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Bambridge had come in"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Bambridge",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not notice him"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "young Hawley",
+      "interaction_type": "Observation",
+      "evidence_snippet": "two new visitors entered"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "two new visitors entered"
+    },
+    {
+      "character_1": "Mr. Horrock",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "working heartily for six months"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "working heartily for six months"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "severe practice"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "working under Mr. Garth"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "carried on in the evening"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not seeing anything"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "lend him"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "gone from place to place"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mistress Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will tell you what"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mistress Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "learn surveying and drawing"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mistress Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Hercules and Theseus"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mistress Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "sport and never learned"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mistress Mary",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "write a bookkeeping hand"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mistress Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mary being out of the way"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mistress Mary",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "pulled up the staple"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mistress Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "made a small escape"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Garth",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "saving almost all of the eighty pounds"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "repaying the ninety pounds"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mrs. Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "carry thirty to Mrs. Garth"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mary",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mary was likely to be come home"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "He would never go far"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "men of pleasure generally"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he could do in the way"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he abstains from making"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he is a spooney"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should also begin"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should enjoy some"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he should prepare himself"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "see his brother-in-law Lydgate"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking excited and betting"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "acting, watching, speaking"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "looking involuntarily grave"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "young Hawley",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "began to bet against"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "young Hawley",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "strain of whose nerves"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Fred observed that Lydgate"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "others were observing Lydgate"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he saw that others were observing"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Rosy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wanted to see Rosy"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he wanted to see Rosy"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he wants to speak to me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Can I speak to you a moment"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thought you might like to know"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he is below"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You are losing confoundedly"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you had better come away"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, no"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the game is up"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Bambridge is over there"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I expect he is going to blow me up"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will shield me"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I expect he is going to blow me up"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "They merely shook hands"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I disturbed you"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thought Lydgate never went"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "So did I"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thought Lydgate never went"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he said that he went to see"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, he was"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I made a clean breast to you"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have listened to you"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you will be willing to listen"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am under the deepest obligation"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have been tempted to reverse"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I was tempted to do the opposite"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have not made any bets"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I could not be expected"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Clearly not, when her affection"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "relations of this sort"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can easily conceive"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "There is a companionship"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "He had a horrible conviction"
+    },
+    {
+      "character_1": "Reverend Camden Farebrother",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Of course I know it might"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he said, in a troubled voice"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I thought you were friendly to me"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "So I am; that is why we are here"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have had a strong disposition to be otherwise"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If there is a likelihood of that youngster doing himself harm"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Why should you interfere"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If there\u2019s a chance of his going to the dogs"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Let him\u2014perhaps you could nohow hinder it"
+    },
+    {
+      "character_1": "Mr. Frank Hawley",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And do you take the benefit"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I want you to make"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have uttered it"
+    },
+    {
+      "character_1": "Reverend Edward Thesiger",
+      "character_2": "Fred Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "put out his hand"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I will try to be worthy"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t say anything"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "your goodness shall not be thrown away"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That\u2019s enough. Good-by"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Set your heart at rest"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "It certainly would have been a fine thing for her to marry Farebrother"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "To think of the part one little woman can play"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "To renounce her may be a very good imitation of heroism"
+    },
+    {
+      "character_1": "Fred Vincy",
+      "character_2": "Reverend Camden Farebrother",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "To win her may be a discipline"
+    }
+  ]
+}

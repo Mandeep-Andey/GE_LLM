@@ -1,0 +1,454 @@
+{
+  "interactions": [
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "told Rosamond that he should be away"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "If Tertius goes away, you will help us"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I suppose we shall have very little money"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am sure I hope some one will help us"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, child, I don\u2019t mind a hundred or two"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "This way of establishing sequences"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "precisely this sort of sequence"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "desirable cause, and close upon it"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "desirable effect, rids us of doubt"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "dreamy ennui"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate felt a strange timidity"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "shrank from her look"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "started at her approach"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had a letter to post"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "letter addressed to Mr. Ladislaw"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "visit to Rosamond"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "image of Will Ladislaw"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "image of Will Ladislaw"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "image of Mrs. Lydgate"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "vindication of Will"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "vision of the charm"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "constant opportunities"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "passionate words"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "love hold him in dread"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "resolved not to declare"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "believed in Will\u2019s love"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "his love for her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "regard he might have for Mrs. Lydgate"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "brief words by which he had tried to convey"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he felt, when he parted from her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "wrongs which she felt that Will"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "affection and admiring judgment"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Walter Vincy",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "their relation to each other"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "inward resistance to what"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "ugly bit of Ladislaw\u2019s genealogy"
+    },
+    {
+      "character_1": "Sir James Chettam",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "mountainous distance between"
+    },
+    {
+      "character_1": "Mr. Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "fresh candle for him to see"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "observed the animus"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "consciousness of a deeper relation"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I should like to manage it"
+    },
+    {
+      "character_1": "Mr. Arthur Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "somebody who will manage"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "feeling about Will Ladislaw"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "saw Rosamond\u2019s figure"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "pay a visit to Mrs. Lydgate"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "long conversation with Mr. Farebrother"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "take Mrs. Lydgate good news"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "being driven towards the town"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mr. Arthur Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "told the coachman to wait"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Mrs. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall take Mrs. Lydgate good news"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Martha",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is Mrs. Lydgate at home?"
+    },
+    {
+      "character_1": "Martha",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll see, if you\u2019ll please to walk in"
+    },
+    {
+      "character_1": "Martha",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019m not sure, my lady"
+    },
+    {
+      "character_1": "Martha",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Say that I am Mrs. Casaubon"
+    },
+    {
+      "character_1": "Martha",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "pushing it without looking"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "clasped both her upraised hands"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "saw, in the terrible illumination"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "spoke with low-toned fervor"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "clasped both her upraised hands in his"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "snatched away her hands"
+    },
+    {
+      "character_1": "Will Ladislaw",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "meeting Dorothea\u2019s eyes"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Excuse me, Mrs. Lydgate"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "turned them away from him to Rosamond"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Will Ladislaw",
+      "interaction_type": "Observation",
+      "evidence_snippet": "including Rosamond and Will in one distant glance"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Martha",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "met in the passage"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Martha",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "she was sorry the mistress was not at home"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Martha",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "showed the strange lady out"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Martha",
+      "interaction_type": "Observation",
+      "evidence_snippet": "inward reflection"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Coachman",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Drive on to Freshitt Hall"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Coachman",
+      "interaction_type": "Observation",
+      "evidence_snippet": "any one looking at her"
+    },
+    {
+      "character_1": "Dorothea Brooke",
+      "character_2": "Celia Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dodo, how very bright your eyes are!"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dodo, how very bright your eyes are"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is it all about Mr. Lydgate"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I wonder what"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh, all the troubles of all people"
+    },
+    {
+      "character_1": "Celia Brooke",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Dear me, Dodo, are you going to have a scheme"
+    }
+  ]
+}

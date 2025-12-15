@@ -1,0 +1,592 @@
+{
+  "interactions": [
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I will reflect a little",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I have much at heart",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "this question is one",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "The standard of that profession",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "With regard to the old infirmary",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "If you mean to hinder",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I do not expect you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I don\u2019t want to make him better",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I mean, by confiding to you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "mean to imply a demand for a decisive answer",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "The decision will rest with me",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I am by no means sure",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "It may be for the glory",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he had an eager inward life",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "you could turn over your capital",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "determined to speak with",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Very likely not",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I don\u2019t see how you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "This kind of discussion is unfruitful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I have another ground of action",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "as Rosamond did",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Harriet",
+      "evidence_snippet": "As soon as you can, please",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "You talk unreasonably",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "it is not your own",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I hope I shall have",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I don\u2019t want to quarrel",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Farebrother",
+      "evidence_snippet": "Mr. Farebrother, my dear sir",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "But I don\u2019t mind so much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "any glimmering of these",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I must remind you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I will not conceal it",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "had a deferential bending attitude",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I have seen him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I am aware",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I will not profess bravery",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "there is plenty of such lax money-lending",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I\u2019m not one of your pattern men",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You know Mr. Farebrother",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "Under such circumstances",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I hope you will not shrink",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "You pain me very much",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he certainly liked him the better",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "There we certainly differ",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "you have been no loser",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I do not shrink from saying",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "What I desire",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "rose, began to button his great-coat",
+      "interaction_type": "Physical Action"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "evidence_snippet": "I shall probably send you a letter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "You like to be master",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "what would do more for",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "had so much to say to him",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I consider it unhandsome",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "the subject is likely",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I have blown him up well",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "A fine fever hospital",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I must call to thank him",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Any valid professional aims",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "That florid sociable personage",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "It\u2019s this sort of thing",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Harriet",
+      "evidence_snippet": "I hope it will all be settled",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I shall consider what you have said",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "you must be first chop in heaven",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I suppose you can have no objection",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I trust I may ask",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I\u2019ve never changed",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Vincy, if you insist",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I am not at all sure",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he liked him the better",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I mean in knowledge and skill",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I shall rejoice to furnish your zeal",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Harriet",
+      "evidence_snippet": "I will mention the subject to Harriet",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I don\u2019t see anybody else who is not worldly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "You had some more particular business",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "I don\u2019t wish to act otherwise",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I suppose you don\u2019t conduct business on what you call unworldly principles",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I bear you no grudge",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I am not disposed to give",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I cannot persuade you",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I never professed to be anything but worldly",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "he simply formed an unfavorable",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Tyke",
+      "evidence_snippet": "Mr. Tyke",
+      "interaction_type": "Memory/Reference"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I shall be exceedingly obliged",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "There are few things better",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "This kind of discussion is unfruitful",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I\u2019m a plain Churchman",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Of course you cannot",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I have not yet been pained",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "You recognize",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "My responsibility, Mr. Lydgate",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "As to all the higher questions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "My responsibility",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "scrutinizing look",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Vincy",
+      "evidence_snippet": "fixed attentiveness in his eyes",
+      "interaction_type": "Observation"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "You could turn over",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "I shall probably send you a letter",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "there will be many questions",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Vincy",
+      "character_2": "Mr. Bulstrode",
+      "evidence_snippet": "Such doings may be lined",
+      "interaction_type": "Direct Dialogue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "evidence_snippet": "I am determined that so great",
+      "interaction_type": "Direct Dialogue"
+    }
+  ]
+}

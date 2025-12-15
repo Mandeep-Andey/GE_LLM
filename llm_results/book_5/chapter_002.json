@@ -1,0 +1,1468 @@
+{
+  "interactions": [
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate had sketched to Dorothea"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had striven to be an effectual lay representative"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Reverend Edward Casaubon",
+      "interaction_type": "Observation",
+      "evidence_snippet": "a hatred of that vital religion"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "polished moderation of Dr. Minchin"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "trenchant assertion of Mrs. Dollop"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "differences which represented"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mrs. Goby",
+      "interaction_type": "Memory/Reference",
+      "evidence_snippet": "cut up Mrs. Goby"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Dr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "meant to let the people die"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Dr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "wanted to cut up Mrs. Goby"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Dr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "not want to pry into your inside"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Dr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "such a hanging business"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Doctor Gambit",
+      "interaction_type": "Observation",
+      "evidence_snippet": "her opinion was a bulwark"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "this Doctor Lydgate"
+    },
+    {
+      "character_1": "Mrs. Dollop",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Observation",
+      "evidence_snippet": "medical profession"
+    },
+    {
+      "character_1": "Doctor Gambit",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "put to the vote"
+    },
+    {
+      "character_1": "Doctor Gambit",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "rescuing people altogether given up"
+    },
+    {
+      "character_1": "Doctor Gambit",
+      "character_2": "Doctor Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "power of resuscitating persons as good as dead"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mrs. Dollop",
+      "interaction_type": "Observation",
+      "evidence_snippet": "unanimity at Dollop\u2019s"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "Doctor Gambit",
+      "interaction_type": "Observation",
+      "evidence_snippet": "held it likely that he was clever"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Doctor Gambit",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not dispense drugs"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "physicians",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not dispense drugs"
+    },
+    {
+      "character_1": "Doctor Lydgate",
+      "character_2": "surgeon-apothecaries",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not dispense drugs"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "questioned him in an affable manner"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is in that way"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "hard-working medical men"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "almost as mischievous as quacks"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "said Lydgate"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "that\u2019s a bad sort of treason"
+    },
+    {
+      "character_1": "Dr. Lydgate",
+      "character_2": "Mr. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "undermines the constitution"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Dr. Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "was not only an overseer"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "putting his foot into the stirrup"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Good morning, sir, good-morning, sir"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he had been paying bills"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Mr. Gambit",
+      "interaction_type": "Observation",
+      "evidence_snippet": "esteemed as an accoucheur"
+    },
+    {
+      "character_1": "Mr. Mawmsey",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Observation",
+      "evidence_snippet": "having attacks which required"
+    },
+    {
+      "character_1": "Mrs. Mawmsey",
+      "character_2": "Mr. Gambit",
+      "interaction_type": "Observation",
+      "evidence_snippet": "generally under attendance more or less frequent from Mr. Gambit"
+    },
+    {
+      "character_1": "Mrs. Mawmsey",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Observation",
+      "evidence_snippet": "occasionally having attacks which required Dr. Minchin"
+    },
+    {
+      "character_1": "Mrs. Mawmsey",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Does this Mr. Lydgate mean to say there is no use in taking medicine?"
+    },
+    {
+      "character_1": "Mrs. Mawmsey",
+      "character_2": "an intimate female friend",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Think of what I have to provide for calling customers"
+    },
+    {
+      "character_1": "Mr. Gambit",
+      "character_2": "Mrs. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is what I say"
+    },
+    {
+      "character_1": "Mr. Gambit",
+      "character_2": "Mrs. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not one that I would employ"
+    },
+    {
+      "character_1": "Mr. Gambit",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Well, Lydgate is a good-looking young fellow"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mrs. Mawmsey",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not one that I would employ"
+    },
+    {
+      "character_1": "Mr. Gambit",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate was one of those hypocrites"
+    },
+    {
+      "character_1": "Mr. Gambit",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it might be worth some people\u2019s while to show him up"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "very friendly with Mr. Hawley"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "hostile to Mr. Bulstrode"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "his patients",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "bleeding and blistering"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "his patients",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "starving his patients"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "his patients",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no man, said they"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I see your meaning, Toller"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall take an opportunity"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "A medical man should be"
+    },
+    {
+      "character_1": "Mr. Hackbutt",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Ostentation, Hackbutt?"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "one of your damned new versions"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Wrench",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "passing the decanter to"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "As to humbug, Hawley"
+    },
+    {
+      "character_1": "Mr. Wrench",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t oblige you there, Wrench"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Wrench",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "looking at Mr. Wrench"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Hackbutt",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the physicians have their toes"
+    },
+    {
+      "character_1": "Mr. Hackbutt",
+      "character_2": "Mr. Hawley",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How does the law stand, eh, Hawley?"
+    },
+    {
+      "character_1": "Mr. Hawley",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Nothing to be done there"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Peacock\u2019s",
+      "interaction_type": "Observation",
+      "evidence_snippet": "No patient will like it"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. and Mrs. Mawmsey",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. and Mrs. Mawmsey"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Peacock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Peacock"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Peacock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Peacock"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Lydgate"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "mentioning to Lydgate"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Mr. Peacock",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mr. Peacock on a similar occasion"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "helped by what we mortals"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "newly to a place"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "made cures that surprised"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "new doctor with his new ways"
+    },
+    {
+      "character_1": "Mr. Powderell",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "bringing people back from the brink"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Larcher",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Mrs. Larcher having just become"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mrs. Larcher",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "asked him to see her"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mrs. Larcher",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "give her a certificate"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Nancy Nash",
+      "interaction_type": "Observation",
+      "evidence_snippet": "recommended the bearer"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Nancy Nash",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "wrote a statement"
+    },
+    {
+      "character_1": "Nancy Nash",
+      "character_2": "stay maker",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "allowed the stay maker"
+    },
+    {
+      "character_1": "Nancy Nash",
+      "character_2": "his wife",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "allowed the stay maker"
+    },
+    {
+      "character_1": "Nancy Nash",
+      "character_2": "most hearers",
+      "interaction_type": "Observation",
+      "evidence_snippet": "became a subject"
+    },
+    {
+      "character_1": "Nancy Nash",
+      "character_2": "one",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had known of oil"
+    },
+    {
+      "character_1": "Nancy Nash",
+      "character_2": "another",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had known of squitchineal"
+    },
+    {
+      "character_1": "stay maker",
+      "character_2": "his wife",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "allowed the stay maker and his wife"
+    },
+    {
+      "character_1": "Nancy",
+      "character_2": "stay maker",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "allowed the stay maker and his wife"
+    },
+    {
+      "character_1": "Nancy",
+      "character_2": "his wife",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "allowed the stay maker and his wife"
+    },
+    {
+      "character_1": "Most hearers",
+      "character_2": "one",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Most hearers agreed"
+    },
+    {
+      "character_1": "Most hearers",
+      "character_2": "another",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Most hearers agreed"
+    },
+    {
+      "character_1": "one",
+      "character_2": "another",
+      "interaction_type": "Observation",
+      "evidence_snippet": "one had known of oil and another"
+    },
+    {
+      "character_1": "Nancy",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "presented herself at the Infirmary"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "presented herself at the Infirmary"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "house-surgeon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It\u2019s not tumor: it\u2019s cramp"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "ordered her a blister"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "told her to go home"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Larcher",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "giving her at the same time a note"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "went to fetch Lydgate"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "continued for a fortnight to attend"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Nancy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "continued to attend Nancy"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I saw it was a surgical case"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "house-surgeon",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he naturally did not like to say"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he privately pronounced"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Wrench",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "agreed with Wrench"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "asked at the Infirmary"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "what had occurred"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "not sorry to vex Minchin"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "exactly what had occurred"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "indecency in a general practitioner"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "agreed with Wrench"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Lydgate was disagreeably inattentive"
+    },
+    {
+      "character_1": "house-surgeon",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "such rectification of misjudgments"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Observation",
+      "evidence_snippet": "did not make the affair"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Observation",
+      "evidence_snippet": "such rectification of misjudgments"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Observation",
+      "evidence_snippet": "prejudice against Lydgate\u2019s method"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy Nash",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "restoration of Nancy Nash"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy Nash",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "rolling and rolling in agonies"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy Nash",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "compelled to yield"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Nancy Nash",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "speedy restoration of Nancy Nash"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Borthrop Trumbull",
+      "interaction_type": "Observation",
+      "evidence_snippet": "watching the course"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Borthrop Trumbull",
+      "interaction_type": "Observation",
+      "evidence_snippet": "stages might be noted"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Borthrop Trumbull",
+      "interaction_type": "Observation",
+      "evidence_snippet": "robust man"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Lydgate surmised"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he described his sensations"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he would like to be taken"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he was a constitution"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he probably had the rare strength"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he acquiesced at once"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he entered strongly into the view"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Never fear, sir"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you are not speaking"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the vis medicatrix"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "made rather pathetic"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he went without shrinking"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "much sustained by"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "application of the thermometer"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "the importance of his temperature"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he furnished objects for the microscope"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "learning many new words"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "seemed suited to the dignity"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "his secretions"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he rose from his couch"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "disposition to speak"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "he was not backward"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "award credit to the medical man"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "discerned the quality of patient"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "knew a thing or two"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Observation",
+      "evidence_snippet": "award credit to the medical man"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Wrench",
+      "interaction_type": "Observation",
+      "evidence_snippet": "threatened to be a nuisance"
+    },
+    {
+      "character_1": "Mr. Borthrop Trumbull",
+      "character_2": "Mr. Wrench",
+      "interaction_type": "Observation",
+      "evidence_snippet": "was certainly a nuisance"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Borthrop Trumbull",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had to meet him at dinner"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Nicholas Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "showing crawling subservience to Bulstrode"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Captain Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "defended Lydgate and made a friend of him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "always defended Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "made a friend of him"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "referred to Farebrother"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "unaccountable way of fighting"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Observation",
+      "evidence_snippet": "on both sides"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "professional disgust"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "announcement of the laws"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "exasperating because"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no present possibility"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "interfering with his will"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "everybody except Lord Medlicote"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "preferred giving to the Old Infirmary"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "met all the expenses"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "ceased to be sorry"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "purchasing the right"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "carry out his notions"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "improvement without hindrance"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "prejudiced coadjutors"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had to spend large sums"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "building had lingered"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Caleb Garth had undertaken"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had failed during its progress"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had retired from the management"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "often said that however Bulstrode might ring"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he liked good solid carpentry"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had a notion both of drains"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Caleb Garth",
+      "interaction_type": "Observation",
+      "evidence_snippet": "he wished to buy some land"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Lydgate was to be chief"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "free authority to pursue"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "ultimate decisions"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "medical visitors having a consultative"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no power to contravene"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "general management was to be lodged"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "five directors associated with"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "votes in the ratio of their contributions"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Board itself filling up any vacancy"
+    },
+    {
+      "character_1": "Mr. Bulstrode",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "no mob of small contributors"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Very well,\u201d said Lydgate to Mr. Bulstrode"
+    },
+    {
+      "character_1": "Mr. Lydgate",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I shall not flinch, you may depend upon it, Mr. Lydgate"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Mr. Brooke of Tipton has already given"
+    },
+    {
+      "character_1": "Mr. Nicholas Bulstrode",
+      "character_2": "Mr. Bulstrode",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Suitable directors to assist me I have no doubt of securing"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Dr. Minchin",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Neither Dr. Sprague nor Dr. Minchin said"
+    },
+    {
+      "character_1": "Dr. Sprague",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "medical aversion to Lydgate"
+    },
+    {
+      "character_1": "Dr. Minchin",
+      "character_2": "Mr. Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "medical aversion to Lydgate"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mrs. Taft",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Yes, indeed, I can imagine"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mrs. Taft",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, no"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "Mr. Cheshire",
+      "interaction_type": "Observation",
+      "evidence_snippet": "trying to make people straight"
+    },
+    {
+      "character_1": "Mr. Toller",
+      "character_2": "St. John Long",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "But there\u2019s St. John Long"
+    },
+    {
+      "character_1": "Mrs. Taft",
+      "character_2": "Mr. Toller",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Good gracious! what dreadful"
+    },
+    {
+      "character_1": "Mrs. Taft",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "it came to be held"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mrs. Goby",
+      "interaction_type": "Observation",
+      "evidence_snippet": "attended Mrs. Goby"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "They will not drive me away"
+    },
+    {
+      "character_1": "Captain Lydgate",
+      "character_2": "Dorothea Brooke",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have got a good opportunity"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I have no power of prophecy there"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you\u2019ll weather it if you are prudent"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "How am I to be prudent?"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t help people\u2019s ignorance and spite"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It isn\u2019t possible to square one\u2019s conduct"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Quite true; I didn\u2019t mean that"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Bulstrode is nothing to me"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "take care not to get hampered"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Mr. Farebrother",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "took Mr. Farebrother\u2019s hints"
+    },
+    {
+      "character_1": "Mr. Farebrother",
+      "character_2": "Lydgate",
+      "interaction_type": "Observation",
+      "evidence_snippet": "had been chatting with Mr. Farebrother"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "Rosamond sat at the piano"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Observation",
+      "evidence_snippet": "played one tune after another"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Is that enough music for you, my lord"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "What is absorbing you"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "bringing her face nearer to his"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "placing them gently behind her shoulders"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am thinking of a great fellow"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I can\u2019t guess"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "We used to play at guessing"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I\u2019ll tell you"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Oh!"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I am very glad"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "No, he couldn\u2019t"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I hope he is not one"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "You know how angry"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "So had Vesalius"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Do you know, Tertius"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I often wish you had not"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you are clever enough"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "drawing her closer to him"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Tertius Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you might easily have"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "That is like saying"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "Not at all; you are clever"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "The cousins at Quallingham may go to the devil"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "It is the grandest profession"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "And to say that you love me"
+    },
+    {
+      "character_1": "Reverend Edward Casaubon",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "you love me without loving"
+    },
+    {
+      "character_1": "Rosamond Vincy",
+      "character_2": "Lydgate",
+      "interaction_type": "Direct Dialogue",
+      "evidence_snippet": "I dote on skeletons"
+    },
+    {
+      "character_1": "Lydgate",
+      "character_2": "Rosamond Vincy",
+      "interaction_type": "Physical Action",
+      "evidence_snippet": "giving up remonstrance"
+    }
+  ]
+}
